@@ -96,7 +96,7 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 126.2 MB",
+        "label": "READY · 136.3 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -118,9 +118,9 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "33 paczki · 165 Stories · 66 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "36 paczek · 180 Stories · 72 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 100.3 MB",
+        "label": "READY · 110.4 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -251,6 +251,108 @@
         {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-three-speeds-three-fates",
+      "section": "social",
+      "name": "Trzy prędkości, trzy zupełnie różne losy",
+      "description": "5 Stories · 2 posty · copy · upadek, zamknięta orbita i ucieczka.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/three-speeds-three-fates.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-quarter-means-orbit-quarter",
+      "section": "social",
+      "name": "Kwadra to ćwiartka drogi, nie tarczy",
+      "description": "5 Stories · 2 posty · copy · pierwsza i ostatnia kwadra.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/quarter-means-orbit-quarter.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-gravity-assist-not-a-bounce",
+      "section": "social",
+      "name": "Proca grawitacyjna nie jest kosmicznym odbiciem",
+      "description": "5 Stories · 2 posty · copy · etapowa rekonstrukcja Voyagera 2.",
+      "status": {
+        "label": "READY · 23 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/gravity-assist-not-a-bounce.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/manifest.json",
           "kind": "view"
         }
       ]
