@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, follow">
+  <title>Kosmiczne Laboratorium · zacznij tutaj</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --navy: #07182f;
+      --panel: #10284b;
+      --panel-soft: #17365f;
+      --paper: #fff6dd;
+      --ink: #10213c;
+      --muted: #b9c9da;
+      --mint: #a9dfd0;
+      --gold: #efcc68;
+      --coral: #ff9d8f;
+    }
+    * { box-sizing: border-box; }
+    html { background: var(--navy); }
+    body {
+      margin: 0;
+      color: white;
+      background:
+        radial-gradient(circle at 82% 3%, rgba(239, 204, 104, .2), transparent 24rem),
+        linear-gradient(145deg, #102d5d, var(--navy) 52rem);
+      font: 17px/1.55 Arial, Helvetica, sans-serif;
+    }
+    main { width: min(980px, calc(100% - 32px)); margin: 0 auto; padding: 44px 0 72px; }
+    .eyebrow { margin: 0 0 12px; color: var(--mint); font-size: 13px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
+    h1 { max-width: 780px; margin: 0; font-size: clamp(42px, 8vw, 76px); line-height: .98; letter-spacing: -.055em; }
+    .lead { max-width: 760px; margin: 22px 0 0; color: var(--muted); font-size: clamp(18px, 3vw, 24px); }
+    .status {
+      display: inline-flex;
+      margin: 28px 0 0;
+      border: 1px solid rgba(255, 157, 143, .62);
+      border-radius: 999px;
+      padding: 9px 14px;
+      color: var(--coral);
+      background: rgba(95, 22, 24, .24);
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: .06em;
+    }
+    .status.ready {
+      border-color: rgba(169, 223, 208, .72);
+      color: var(--mint);
+      background: rgba(24, 82, 72, .34);
+    }
+    .facts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 34px 0 50px; }
+    .fact { border-radius: 18px; padding: 18px; background: rgba(255,255,255,.08); }
+    .fact strong { display: block; font-size: 25px; }
+    .fact span { color: var(--muted); font-size: 13px; }
+    section { margin-top: 48px; }
+    h2 { margin: 0 0 8px; font-size: clamp(28px, 5vw, 42px); letter-spacing: -.035em; }
+    .section-lead { max-width: 760px; margin: 0 0 22px; color: var(--muted); }
+    .list { display: grid; gap: 10px; }
+    .card {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 22px;
+      align-items: center;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 18px;
+      padding: 18px 20px;
+      background: rgba(9, 30, 60, .76);
+    }
+    .card strong { display: block; font-size: 18px; }
+    .card span, .card small { display: block; color: var(--muted); }
+    .card small { margin-top: 5px; color: var(--mint); font-size: 12px; }
+    .actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; }
+    .button {
+      display: inline-flex;
+      min-height: 44px;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 10px 16px;
+      color: var(--navy);
+      background: var(--gold);
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: .04em;
+      text-decoration: none;
+    }
+    .button.secondary { background: var(--mint); }
+    .note {
+      margin-top: 24px;
+      border-radius: 18px;
+      padding: 20px;
+      color: var(--ink);
+      background: var(--paper);
+    }
+    .note strong { display: block; margin-bottom: 4px; }
+    code { overflow-wrap: anywhere; font: 13px "SFMono-Regular", Consolas, monospace; }
+    footer { margin-top: 54px; color: var(--muted); font-size: 13px; }
+    @media (max-width: 700px) {
+      main { width: min(100% - 24px, 980px); padding-top: 28px; }
+      .facts { grid-template-columns: 1fr 1fr; }
+      .card { grid-template-columns: 1fr; align-items: start; }
+      .actions { justify-content: flex-start; }
+      .button { flex: 1 1 132px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">Kosmiczne Laboratorium · zacznij tutaj</p>
+      <h1>Pakiet Tomka</h1>
+      <p class="lead">Ta strona działa po rozpakowaniu ZIP-a. Dokumenty poniżej otwierają się lokalnie; sekcja internetowa prowadzi wyłącznie do bezpiecznych publicznych zasobów.</p>
+      <div class="status draft">DRAFT / DO NOT RECORD</div>
+      <div class="facts">
+        <div class="fact"><strong>104</strong><span>kwestii Tomka</span></div>
+        <div class="fact"><strong>15:34</strong><span>cel czystego audio</span></div>
+        <div class="fact"><strong>6</strong><span>blokad przed archive review</span></div>
+        <div class="fact"><strong>2026-06-14</strong><span>data aktualizacji</span></div>
+      </div>
+    </header>
+
+    <section>
+      <h2>Pliki w tej paczce</h2>
+      <p class="section-lead">Zacznij od podsumowania PDF, a podczas nagrania trzymaj obok scenariusz aktora i kartę sesji.</p>
+      <div class="list"><article class="card">
+        <div>
+          <strong>Podsumowanie i wszystkie linki</strong>
+          <span>Pięciostronicowy dokument operacyjny na sesję.</span>
+        </div>
+        <div class="actions">
+          <a class="button" href="./kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf">OTWÓRZ PDF</a>
+          <a class="button secondary" href="./kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.docx">DOCX</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Scenariusz Tomka Millera</strong>
+          <span>104 kwestii · około 15:34 czystego audio.</span>
+        </div>
+        <div class="actions">
+          <a class="button" href="./Kosmiczne-laboratorium-scenariusz-Tomek-Miller.pdf">OTWÓRZ SCENARIUSZ</a>
+          
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Scenariusz do edycji</strong>
+          <span>Wersje DOCX i RTF do notatek lub pracy bez PDF.</span>
+        </div>
+        <div class="actions">
+          <a class="button" href="./Kosmiczne-laboratorium-scenariusz-Tomek-Miller.docx">DOCX</a>
+          <a class="button secondary" href="./Kosmiczne-laboratorium-scenariusz-Tomek-Miller.rtf">RTF</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Karta sesji studyjnej</strong>
+          <span>Kolejność pracy, parametry mastera i sposób odbioru.</span>
+        </div>
+        <div class="actions">
+          <a class="button" href="./Kosmiczne-laboratorium-karta-sesji-studyjnej.docx">DOCX</a>
+          <a class="button secondary" href="./Kosmiczne-laboratorium-karta-sesji-studyjnej.md">TEKST</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Zgoda lektorska Tomka</strong>
+          <span>Wzór dokumentu do podpisania po uzgodnieniu warunków.</span>
+        </div>
+        <div class="actions">
+          <a class="button" href="./Zgoda-lektorska-Tomek-Miller.docx">DOCX</a>
+          
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Manifest i sumy kontrolne</strong>
+          <span>Lista plików, rozmiary, SHA-256, kandydat scenariusza i status prywatności.</span>
+        </div>
+        <div class="actions">
+          <a class="button" href="./kosmiczne-laboratorium-pakiet-przygotowawczy-tomek-manifest.json">OTWÓRZ MANIFEST</a>
+          
+        </div>
+      </article></div>
+      <div class="note">
+        <strong>Finalnego nagrania jeszcze nie rozpoczynaj.</strong>
+        Kandydat scenariusza 2b1fe0fd882ab77479414a8b347280e61ad52f3c515fda266abe19467e105322 nie ma jeszcze LOCK. Prywatne review tekstów nie jest publikowane w tej paczce.
+      </div>
+    </section>
+
+    <section>
+      <h2>Publiczne linki internetowe</h2>
+      <p class="section-lead">Wymagają połączenia z internetem. Kanoniczny indeks jest jednym miejscem ze wszystkimi aktualnymi materiałami projektu.</p>
+      <div class="list"><article class="card">
+        <div>
+          <strong>Kanoniczny indeks projektu</strong>
+          <span>Wszystkie publiczne materiały z main i SM, statusy, daty i pobieranie.</span>
+          <small>main + SM · aktualizacja 2026-06-14</small>
+        </div>
+        <div class="actions">
+          <a class="button" href="https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/" target="_blank" rel="noreferrer">OTWÓRZ</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Aktualna aplikacja</strong>
+          <span>Publiczna polska wersja Kosmicznego Laboratorium.</span>
+          <small>main · build 49a9adf80572</small>
+        </div>
+        <div class="actions">
+          <a class="button" href="https://jakiesluchawki.github.io/kosmiczne-laboratorium/" target="_blank" rel="noreferrer">OTWÓRZ</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Status wydania</strong>
+          <span>Bezpieczny publiczny snapshot narracji i App Store.</span>
+          <small>main · WAITING</small>
+        </div>
+        <div class="actions">
+          <a class="button" href="https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/" target="_blank" rel="noreferrer">OTWÓRZ</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Materiały social media</strong>
+          <span>Katalog materiałów tworzonych i publikowanych z brancha SM.</span>
+          <small>SM · aktualizacja 2026-06-14</small>
+        </div>
+        <div class="actions">
+          <a class="button" href="https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/" target="_blank" rel="noreferrer">OTWÓRZ</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Pobierz wszystkie materiały</strong>
+          <span>Zbiorczy publiczny ZIP social, media kit, CNK i współpraca.</span>
+          <small>SM · publiczny release GitHub</small>
+        </div>
+        <div class="actions">
+          <a class="button" href="https://github.com/jakiesluchawki/kosmiczne-laboratorium-media/releases/download/media-latest/kosmiczne-laboratorium-wszystkie-materialy.zip" target="_blank" rel="noreferrer">POBIERZ</a>
+        </div>
+      </article><article class="card">
+        <div>
+          <strong>Pobierz świeży pakiet tej sesji</strong>
+          <span>Publiczny ZIP tego pakietu. Przydatny, gdy lokalna kopia jest nieaktualna.</span>
+          <small>main · 2026-06-14</small>
+        </div>
+        <div class="actions">
+          <a class="button" href="https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.zip" target="_blank" rel="noreferrer">POBIERZ</a>
+        </div>
+      </article></div>
+    </section>
+
+    <footer>
+      Branch źródłowy pakietu: main · build aplikacji 49a9adf80572ebddc96ca011683e391af143ccf6deb9d9d5b7960705b36cfb85 · bez prywatnych głosów, danych urządzeń, haseł i adresów lokalnych.
+    </footer>
+  </main>
+</body>
+</html>

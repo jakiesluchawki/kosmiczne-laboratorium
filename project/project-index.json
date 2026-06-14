@@ -51,7 +51,7 @@
       "id": "piotr-recording-pack",
       "section": "narration",
       "name": "Pakiet na nagranie Piotra Makowskiego",
-      "description": "Pięciostronicowy PDF z klikalnymi linkami, scenariuszem 17 kwestii Piotra, kartą sesji, zgodą lektorską, stanem aplikacji i listą blokad przed wydaniem. Bez prywatnych nagrań i danych urządzeń.",
+      "description": "Samowystarczalny pakiet z responsywną stroną startową działającą po rozpakowaniu, pięciostronicowym PDF-em z linkami, scenariuszem 17 kwestii Piotra, kartą sesji, zgodą lektorską, stanem aplikacji i listą blokad. Bez prywatnych nagrań i danych urządzeń.",
       "status": {
         "label": "DRAFT · DO NOT RECORD",
         "tone": "waiting"
@@ -59,6 +59,11 @@
       "sourceBranch": "main",
       "updatedAt": "2026-06-14",
       "links": [
+        {
+          "label": "Otwórz stronę startową",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/",
+          "kind": "view"
+        },
         {
           "label": "Pobierz PDF z linkami",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.pdf",
@@ -85,7 +90,7 @@
       "id": "tomek-recording-pack",
       "section": "narration",
       "name": "Pakiet przygotowawczy Tomka Millera",
-      "description": "Pięciostronicowy PDF z klikalnymi linkami, scenariuszem 104 kwestii Tomka, kartą sesji, wzorem zgody, stanem aplikacji i listą blokad przed wydaniem. Termin nagrania pozostaje do ustalenia; pakiet nie zawiera prywatnych nagrań ani danych urządzeń.",
+      "description": "Samowystarczalny pakiet z responsywną stroną startową działającą po rozpakowaniu, pięciostronicowym PDF-em z linkami, scenariuszem 104 kwestii Tomka, kartą sesji, wzorem zgody, stanem aplikacji i listą blokad. Termin nagrania pozostaje do ustalenia; pakiet nie zawiera prywatnych nagrań ani danych urządzeń.",
       "status": {
         "label": "DRAFT · DO NOT RECORD",
         "tone": "waiting"
@@ -93,6 +98,11 @@
       "sourceBranch": "main",
       "updatedAt": "2026-06-14",
       "links": [
+        {
+          "label": "Otwórz stronę startową",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/",
+          "kind": "view"
+        },
         {
           "label": "Pobierz PDF z linkami",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf",
@@ -1964,7 +1974,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT WEB PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
