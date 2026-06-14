@@ -81,13 +81,13 @@
       }
     },
     "screenshotPlan": {
-      "status": "PREVIEW STALE",
-      "previewCurrent": false,
+      "status": "CURRENT WEB PREVIEW",
+      "previewCurrent": true,
       "captureEnvironment": "HEADLESS_WEB",
       "technicalReview": "TECHNICAL VISUAL REVIEW",
       "reviewedAt": "2026-06-14",
       "recordedCompositions": 18,
-      "screenshotSetHash": "9b1dc7c1c30560d6",
+      "screenshotSetHash": "8ae4cf66bc2ff41a",
       "shotsPerDevice": 9,
       "deviceClasses": 2,
       "totalCompositions": 18
