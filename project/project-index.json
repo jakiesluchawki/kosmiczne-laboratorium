@@ -1940,7 +1940,7 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 7 BLOKAD",
+        "label": "WAITING · 6 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",
