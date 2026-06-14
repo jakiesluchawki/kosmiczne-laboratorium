@@ -82,6 +82,40 @@
       ]
     },
     {
+      "id": "tomek-recording-pack",
+      "section": "narration",
+      "name": "Pakiet przygotowawczy Tomka Millera",
+      "description": "Pięciostronicowy PDF z klikalnymi linkami, scenariuszem 104 kwestii Tomka, kartą sesji, wzorem zgody, stanem aplikacji i listą blokad przed wydaniem. Termin nagrania pozostaje do ustalenia; pakiet nie zawiera prywatnych nagrań ani danych urządzeń.",
+      "status": {
+        "label": "DRAFT · DO NOT RECORD",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz PDF z linkami",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz cały ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Scenariusz Tomka PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek-manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
       "id": "privacy-support",
       "section": "release",
       "name": "Prywatność i wsparcie",
@@ -1930,7 +1964,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT WEB PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",

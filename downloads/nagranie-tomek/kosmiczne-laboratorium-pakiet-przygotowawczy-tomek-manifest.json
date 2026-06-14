@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "nagranie-tomek",
+  "status": "draft-do-not-record",
+  "sourceBranch": "main",
+  "updatedAt": "2026-06-14",
+  "recordingDate": null,
+  "publicUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/",
+  "actor": {
+    "id": "tomek",
+    "name": "Tomek Miller",
+    "speaker": "tomek",
+    "cueCount": 104
+  },
+  "script": {
+    "status": "DRAFT / UNLOCKED",
+    "hash": "2b1fe0fd882ab77479414a8b347280e61ad52f3c515fda266abe19467e105322",
+    "cueCount": 121,
+    "piotrCueCount": 17,
+    "tomekCueCount": 104
+  },
+  "release": {
+    "status": "WAITING",
+    "blockerCount": 6,
+    "buildFingerprint": "ce06ccb3de5377233bdc2516b7512c74b8c87b044f9773e5a68ec31a0b6d4562"
+  },
+  "privacy": {
+    "containsPrivateAudio": false,
+    "containsDeviceData": false,
+    "containsCredentials": false,
+    "containsLocalAddresses": false
+  },
+  "files": [
+    {
+      "name": "kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf",
+      "label": "Podsumowanie i linki · PDF",
+      "bytes": 388333,
+      "size": "379.2 KB",
+      "sha256": "83314844a457d21b7bfd565ea3709dc0441d300edf94247b6ea9dfb4bcb165b5",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf"
+    },
+    {
+      "name": "kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.docx",
+      "label": "Podsumowanie i linki · DOCX",
+      "bytes": 7206,
+      "size": "7.0 KB",
+      "sha256": "cb379eb1e2eed806c6cbe096cafc2033845c6536947776d37fb0ef9d3a54bd8b",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.docx"
+    },
+    {
+      "name": "Kosmiczne-laboratorium-scenariusz-Tomek-Miller.pdf",
+      "label": "Scenariusz Tomka · PDF",
+      "bytes": 366736,
+      "size": "358.1 KB",
+      "sha256": "08d03777e7394e2812a6bef1da9bccd21d2ba07ea5ae310c06dc0e80553d73aa",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.pdf"
+    },
+    {
+      "name": "Kosmiczne-laboratorium-scenariusz-Tomek-Miller.docx",
+      "label": "Scenariusz Tomka · DOCX",
+      "bytes": 14832,
+      "size": "14.5 KB",
+      "sha256": "ce13c8e59485da84c99695cd658eeb64d726ddf1887e156cff653aee93ecb610",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.docx"
+    },
+    {
+      "name": "Kosmiczne-laboratorium-scenariusz-Tomek-Miller.rtf",
+      "label": "Scenariusz Tomka · RTF",
+      "bytes": 42595,
+      "size": "41.6 KB",
+      "sha256": "e1d4c3843a35192cf9a29862c21719feac82f7e130cfd24e702ef15808ad89c5",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.rtf"
+    },
+    {
+      "name": "Kosmiczne-laboratorium-karta-sesji-studyjnej.docx",
+      "label": "Karta sesji · DOCX",
+      "bytes": 6316,
+      "size": "6.2 KB",
+      "sha256": "bdb23fe13c66a58ccaa1ed295cadd6171c2a66d54c88f882426271bd1c7f7749",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-karta-sesji-studyjnej.docx"
+    },
+    {
+      "name": "Kosmiczne-laboratorium-karta-sesji-studyjnej.md",
+      "label": "Karta sesji · tekst",
+      "bytes": 5531,
+      "size": "5.4 KB",
+      "sha256": "27720f5b8f89e2b244269396220798ee17b9db5c122da67bfc4c7cfde236cec8",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-karta-sesji-studyjnej.md"
+    },
+    {
+      "name": "Zgoda-lektorska-Tomek-Miller.docx",
+      "label": "Zgoda lektorska · DOCX",
+      "bytes": 5145,
+      "size": "5.0 KB",
+      "sha256": "418c4c22b24c0d18a4cb110510993e87506237440baee1706e9c272f7dd7a31d",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Zgoda-lektorska-Tomek-Miller.docx"
+    }
+  ]
+}
