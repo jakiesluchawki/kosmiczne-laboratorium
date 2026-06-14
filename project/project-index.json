@@ -80,6 +80,11 @@
           "kind": "download"
         },
         {
+          "label": "Zgoda lektorska Piotra PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Zgoda-lektorska-Piotr-Makowski.pdf",
+          "kind": "download"
+        },
+        {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15-manifest.json",
           "kind": "view"
@@ -116,6 +121,11 @@
         {
           "label": "Scenariusz Tomka PDF",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Zgoda lektorska Tomka PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Zgoda-lektorska-Tomek-Miller.pdf",
           "kind": "download"
         },
         {
