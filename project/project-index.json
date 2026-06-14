@@ -48,6 +48,40 @@
       ]
     },
     {
+      "id": "piotr-recording-pack",
+      "section": "narration",
+      "name": "Pakiet na nagranie Piotra Makowskiego",
+      "description": "Pięciostronicowy PDF z klikalnymi linkami, scenariuszem 17 kwestii Piotra, kartą sesji, zgodą lektorską, stanem aplikacji i listą blokad przed wydaniem. Bez prywatnych nagrań i danych urządzeń.",
+      "status": {
+        "label": "DRAFT · DO NOT RECORD",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz PDF z linkami",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz cały ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Scenariusz Piotra PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-scenariusz-Piotr-Makowski.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15-manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
       "id": "privacy-support",
       "section": "release",
       "name": "Prywatność i wsparcie",
