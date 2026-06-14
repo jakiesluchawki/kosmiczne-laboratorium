@@ -96,7 +96,7 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 145.3 MB",
+        "label": "READY · 154.4 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -118,9 +118,9 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "39 paczek · 195 Stories · 78 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "42 paczki · 210 Stories · 84 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 119.4 MB",
+        "label": "READY · 128.5 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -251,6 +251,108 @@
         {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-more-mass-more-curvature",
+      "section": "social",
+      "name": "Większa masa mocniej zmienia ruch",
+      "description": "5 Stories · 2 posty · copy · lekka i superciężka Ziemia.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/more-mass-more-curvature.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-gravity-works-whole-flight",
+      "section": "social",
+      "name": "Grawitacja działa przez cały lot",
+      "description": "5 Stories · 2 posty · copy · rzut pionowy i rzut w bok.",
+      "status": {
+        "label": "READY · 23 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/gravity-works-whole-flight.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-no-tilt-no-seasons",
+      "section": "social",
+      "name": "Bez przechyłu osi znikają wyraźne pory roku",
+      "description": "5 Stories · 2 posty · copy · model z przechyłem i bez niego.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/no-tilt-no-seasons.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/manifest.json",
           "kind": "view"
         }
       ]
