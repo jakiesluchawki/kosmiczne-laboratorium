@@ -1930,7 +1930,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT WEB PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
