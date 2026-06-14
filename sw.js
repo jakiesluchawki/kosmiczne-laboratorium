@@ -1,4 +1,4 @@
-const CACHE = "kosmiczne-laboratorium-2ab6539d80f1ec21";
+const CACHE = "kosmiczne-laboratorium-2b9efcd00bb70c9e";
 const OFFLINE_URL = "./index.html";
 const PROTECT_PRIVATE_ROUTES = true;
 const PRIVATE_SERVICE_WORKER_PREFIXES = ["review","__voice-review"];

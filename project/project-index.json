@@ -14,7 +14,7 @@
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Otwórz aplikację",
@@ -33,7 +33,7 @@
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Otwórz indeks",
@@ -1936,7 +1936,7 @@
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Zobacz zasady dostępu",
@@ -1955,7 +1955,7 @@
         "tone": "waiting"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Zobacz stan narracji",
@@ -1974,7 +1974,7 @@
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Zobacz gotowość studia",
@@ -1993,7 +1993,7 @@
         "tone": "waiting"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Zobacz stan wydania",
@@ -2013,11 +2013,11 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "PREVIEW STALE",
+        "label": "CURRENT WEB PREVIEW",
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Zobacz plan kadrów",
