@@ -8,7 +8,7 @@
       "id": "application",
       "section": "application",
       "name": "Kosmiczne Laboratorium",
-      "description": "Aktualna publiczna aplikacja webowa po polsku.",
+      "description": "Aktualna publiczna aplikacja webowa po polsku. Wydanie z 14 czerwca przebudowuje Ziemię jako kierunkowo oświetloną malarską sferę oraz zachowuje prawdziwą okluzję statków w scenach grawitacyjnych.",
       "status": {
         "label": "LIVE",
         "tone": "live"
@@ -1930,7 +1930,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "PREVIEW STALE",
+        "label": "CURRENT WEB PREVIEW",
         "tone": "review"
       },
       "sourceBranch": "main",
