@@ -91,12 +91,36 @@
       ]
     },
     {
+      "id": "social-kosmiczne-laboratorium-podsumowanie-i-linki-2026-06-14",
+      "section": "social",
+      "name": "Podsumowanie i wszystkie linki",
+      "description": "Stan prac · gotowe materiały · następne decyzje. Pięciostronicowy indeks z klikalnymi linkami. Najlepszy punkt wejścia na Macu.",
+      "status": {
+        "label": "READY · 209 KB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Otwórz PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-podsumowanie-i-linki-2026-06-14.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "DOCX",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-podsumowanie-i-linki-2026-06-14.docx",
+          "kind": "download"
+        }
+      ]
+    },
+    {
       "id": "social-complete-library",
       "section": "social",
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 154.4 MB",
+        "label": "READY · 163 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -118,9 +142,9 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "42 paczki · 210 Stories · 84 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "45 paczek · 225 Stories · 90 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 128.5 MB",
+        "label": "READY · 136.9 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -251,6 +275,108 @@
         {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-voice-stays-local",
+      "section": "social",
+      "name": "67 nagrań jest częścią aplikacji",
+      "description": "5 Stories · 2 posty · copy · gotowe nagrania i lokalny głos awaryjny.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/voice-stays-local.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-small-magnet-beats-fall",
+      "section": "social",
+      "name": "Mały magnes może zatrzymać spadanie spinacza",
+      "description": "5 Stories · 2 posty · copy · ten sam spinacz przy dwóch siłach.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/small-magnet-beats-fall.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-summer-two-light-effects",
+      "section": "social",
+      "name": "Latem dzień jest dłuższy, a światło pada bardziej prosto",
+      "description": "5 Stories · 2 posty · copy · prawdziwe odczyty lata i zimy.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/summer-two-light-effects.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/manifest.json",
           "kind": "view"
         }
       ]
@@ -1347,7 +1473,7 @@
       "id": "social-voice-makes-room",
       "section": "social",
       "name": "Głos robi miejsce na odkrycie",
-      "description": "5 Stories · 2 posty · copy · uczciwy stan narracji.",
+      "description": "5 Stories · 2 posty · copy · nagrania AI i lokalny głos awaryjny.",
       "status": {
         "label": "READY · 19 MB",
         "tone": "ready"
