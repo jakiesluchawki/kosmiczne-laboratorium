@@ -1,0 +1,1982 @@
+{
+  "schemaVersion": 1,
+  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/",
+  "title": "Kosmiczne Laboratorium - indeks projektu",
+  "summary": "Publiczna aplikacja, bezpieczne strony projektu oraz wszystkie gotowe materiały social media. Narzędzia review, głosy i dane urządzeń pozostają lokalne.",
+  "entries": [
+    {
+      "id": "application",
+      "section": "application",
+      "name": "Kosmiczne Laboratorium",
+      "description": "Aktualna publiczna aplikacja webowa po polsku. Wydanie z 14 czerwca przebudowuje Ziemię jako kierunkowo oświetloną malarską sferę oraz zachowuje prawdziwą okluzję statków w scenach grawitacyjnych.",
+      "status": {
+        "label": "LIVE",
+        "tone": "live"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Otwórz aplikację",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "review-hub",
+      "section": "application",
+      "name": "Publiczny indeks projektu",
+      "description": "Bezpieczne publiczne wejście do aplikacji i wszystkich opublikowanych paczek z main oraz SM.",
+      "status": {
+        "label": "LIVE",
+        "tone": "live"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Otwórz indeks",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz manifest JSON",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/project-index.json",
+          "kind": "download"
+        }
+      ]
+    },
+    {
+      "id": "piotr-recording-pack",
+      "section": "narration",
+      "name": "Pakiet na nagranie Piotra Makowskiego",
+      "description": "Pięciostronicowy PDF z klikalnymi linkami, scenariuszem 17 kwestii Piotra, kartą sesji, zgodą lektorską, stanem aplikacji i listą blokad przed wydaniem. Bez prywatnych nagrań i danych urządzeń.",
+      "status": {
+        "label": "DRAFT · DO NOT RECORD",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz PDF z linkami",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz cały ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Scenariusz Piotra PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-scenariusz-Piotr-Makowski.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15-manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "tomek-recording-pack",
+      "section": "narration",
+      "name": "Pakiet przygotowawczy Tomka Millera",
+      "description": "Pięciostronicowy PDF z klikalnymi linkami, scenariuszem 104 kwestii Tomka, kartą sesji, wzorem zgody, stanem aplikacji i listą blokad przed wydaniem. Termin nagrania pozostaje do ustalenia; pakiet nie zawiera prywatnych nagrań ani danych urządzeń.",
+      "status": {
+        "label": "DRAFT · DO NOT RECORD",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz PDF z linkami",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz cały ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Scenariusz Tomka PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek-manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "privacy-support",
+      "section": "release",
+      "name": "Prywatność i wsparcie",
+      "description": "Publiczne strony wymagane przez App Store, bez analityki i zbierania danych dzieci.",
+      "status": {
+        "label": "LIVE",
+        "tone": "live"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Polityka prywatności",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/privacy/",
+          "kind": "view"
+        },
+        {
+          "label": "Wsparcie",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/support/",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-hub",
+      "section": "social",
+      "name": "Wszystkie materiały social media",
+      "description": "Osobna publiczna strona pobrań publikowana z bezpiecznej białej listy brancha SM.",
+      "status": {
+        "label": "LIVE",
+        "tone": "live"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Otwórz stronę pobrań",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-kosmiczne-laboratorium-podsumowanie-i-linki-2026-06-14",
+      "section": "social",
+      "name": "Podsumowanie i wszystkie linki",
+      "description": "Stan prac · gotowe materiały · następne decyzje. Pięciostronicowy indeks z klikalnymi linkami. Najlepszy punkt wejścia na Macu.",
+      "status": {
+        "label": "READY · 209 KB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Otwórz PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-podsumowanie-i-linki-2026-06-14.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "DOCX",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-podsumowanie-i-linki-2026-06-14.docx",
+          "kind": "download"
+        }
+      ]
+    },
+    {
+      "id": "social-complete-library",
+      "section": "social",
+      "name": "Wszystkie materiały",
+      "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
+      "status": {
+        "label": "READY · 163 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz wszystko",
+          "url": "https://github.com/jakiesluchawki/kosmiczne-laboratorium-media/releases/download/media-latest/kosmiczne-laboratorium-wszystkie-materialy.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/wszystkie-materialy-manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-complete-posts",
+      "section": "social",
+      "name": "Wszystkie materiały social",
+      "description": "45 paczek · 225 Stories · 90 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "status": {
+        "label": "READY · 136.9 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz",
+          "url": "https://github.com/jakiesluchawki/kosmiczne-laboratorium-media/releases/download/media-latest/kosmiczne-laboratorium-social-wszystko-jpg.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-media-kit",
+      "section": "social",
+      "name": "Ogólny pakiet medialny",
+      "description": "Opis aplikacji · notka prasowa · FAQ · cytat · 7 obrazów. Gotowy dokument PDF, wersja edytowalna i pliki źródłowe.",
+      "status": {
+        "label": "READY · 3.9 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.zip",
+          "kind": "download"
+        },
+        {
+          "label": "PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "DOCX",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.docx",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/informacje-prasowe.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-cnk-pitch",
+      "section": "social",
+      "name": "Pitch dla Centrum Nauki Kopernik",
+      "description": "Propozycja rozmowy · pilotaż 4–6 tygodni · gotowy e-mail. Dokument oparty na publicznej misji CNK, działaniach B+R i programie ESERO.",
+      "status": {
+        "label": "READY · 3.4 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.zip",
+          "kind": "download"
+        },
+        {
+          "label": "PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "DOCX",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.docx",
+          "kind": "download"
+        },
+        {
+          "label": "E-mail",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/email-do-cnk.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-partner-kit",
+      "section": "social",
+      "name": "Uniwersalny pakiet współpracy",
+      "description": "One-pager · pełna propozycja · 4 wiadomości · checklista. Dla centrów nauki, muzeów, bibliotek, fundacji, wydawców i partnerów edukacyjnych.",
+      "status": {
+        "label": "READY · 17 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Pobierz",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/kosmiczne-laboratorium-pakiet-wspolpracy.zip",
+          "kind": "download"
+        },
+        {
+          "label": "One-pager PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/kosmiczne-laboratorium-one-pager-wspolpraca.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pełny PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/kosmiczne-laboratorium-pakiet-wspolpracy.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Wiadomości",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/wiadomosci-do-partnerow.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-voice-stays-local",
+      "section": "social",
+      "name": "67 nagrań jest częścią aplikacji",
+      "description": "5 Stories · 2 posty · copy · gotowe nagrania i lokalny głos awaryjny.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/voice-stays-local.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-voice-stays-local/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-small-magnet-beats-fall",
+      "section": "social",
+      "name": "Mały magnes może zatrzymać spadanie spinacza",
+      "description": "5 Stories · 2 posty · copy · ten sam spinacz przy dwóch siłach.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/small-magnet-beats-fall.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-small-magnet-beats-fall/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-summer-two-light-effects",
+      "section": "social",
+      "name": "Latem dzień jest dłuższy, a światło pada bardziej prosto",
+      "description": "5 Stories · 2 posty · copy · prawdziwe odczyty lata i zimy.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/summer-two-light-effects.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-summer-two-light-effects/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-more-mass-more-curvature",
+      "section": "social",
+      "name": "Większa masa mocniej zmienia ruch",
+      "description": "5 Stories · 2 posty · copy · lekka i superciężka Ziemia.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/more-mass-more-curvature.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-more-mass-more-curvature/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-gravity-works-whole-flight",
+      "section": "social",
+      "name": "Grawitacja działa przez cały lot",
+      "description": "5 Stories · 2 posty · copy · rzut pionowy i rzut w bok.",
+      "status": {
+        "label": "READY · 23 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/gravity-works-whole-flight.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-works-whole-flight/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-no-tilt-no-seasons",
+      "section": "social",
+      "name": "Bez przechyłu osi znikają wyraźne pory roku",
+      "description": "5 Stories · 2 posty · copy · model z przechyłem i bez niego.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/no-tilt-no-seasons.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-no-tilt-no-seasons/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-straight-until-gravity",
+      "section": "social",
+      "name": "Tor nie zakręca sam",
+      "description": "5 Stories · 2 posty · copy · pusta siatka i jedna planeta.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/straight-until-gravity.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-new-moon-still-lit",
+      "section": "social",
+      "name": "Nów nie gasi Księżyca",
+      "description": "5 Stories · 2 posty · copy · nów, sierp i geometria światła.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/new-moon-still-lit.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-galileo-inward-to-go-outward",
+      "section": "social",
+      "name": "Galileo poleciał ku Wenus, żeby dotrzeć do Jowisza",
+      "description": "5 Stories · 2 posty · copy · trasa VEEGA i dwa etapy rekonstrukcji.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/galileo-inward-to-go-outward.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-three-speeds-three-fates",
+      "section": "social",
+      "name": "Trzy prędkości, trzy zupełnie różne losy",
+      "description": "5 Stories · 2 posty · copy · upadek, zamknięta orbita i ucieczka.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/three-speeds-three-fates.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-three-speeds-three-fates/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-quarter-means-orbit-quarter",
+      "section": "social",
+      "name": "Kwadra to ćwiartka drogi, nie tarczy",
+      "description": "5 Stories · 2 posty · copy · pierwsza i ostatnia kwadra.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/quarter-means-orbit-quarter.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-quarter-means-orbit-quarter/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-gravity-assist-not-a-bounce",
+      "section": "social",
+      "name": "Proca grawitacyjna nie jest kosmicznym odbiciem",
+      "description": "5 Stories · 2 posty · copy · etapowa rekonstrukcja Voyagera 2.",
+      "status": {
+        "label": "READY · 23 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/gravity-assist-not-a-bounce.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-gravity-assist-not-a-bounce/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-every-visible-mass-pulls",
+      "section": "social",
+      "name": "Każda widoczna masa zmienia tor",
+      "description": "5 Stories · 2 posty · copy · jednoczesny wpływ wielu mas.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-every-visible-mass-pulls/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-every-visible-mass-pulls/every-visible-mass-pulls.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-every-visible-mass-pulls/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-every-visible-mass-pulls/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-keyboard-moves-the-model",
+      "section": "social",
+      "name": "Nie trzeba przeciągać planety",
+      "description": "5 Stories · 2 posty · copy · przyciski i sterowanie klawiaturą.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-keyboard-moves-the-model/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-keyboard-moves-the-model/keyboard-moves-the-model.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-keyboard-moves-the-model/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-keyboard-moves-the-model/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-reconstruction-not-live-simulation",
+      "section": "social",
+      "name": "Rekonstrukcja nie udaje symulacji na żywo",
+      "description": "5 Stories · 2 posty · copy · jawne rozróżnienie dwóch modeli.",
+      "status": {
+        "label": "READY · 23 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-reconstruction-not-live-simulation/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-reconstruction-not-live-simulation/reconstruction-not-live-simulation.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-reconstruction-not-live-simulation/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-reconstruction-not-live-simulation/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-earth-field-not-giant-magnet",
+      "section": "social",
+      "name": "Ziemia nie ma w środku wielkiego magnesu",
+      "description": "5 Stories · 2 posty · copy · pole magnetyczne i geodynamo.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/earth-field-not-giant-magnet.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-moon-keeps-one-face",
+      "section": "social",
+      "name": "Księżyc obraca się i pokazuje prawie tę samą stronę",
+      "description": "5 Stories · 2 posty · copy · obrót synchroniczny i libracja.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/moon-keeps-one-face.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-axis-keeps-direction",
+      "section": "social",
+      "name": "Oś Ziemi nie obraca się za Słońcem",
+      "description": "5 Stories · 2 posty · copy · stały kierunek osi i przełącznik przechyłu.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/axis-keeps-direction.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-local-reset-starts-over",
+      "section": "social",
+      "name": "Można zacząć odkrycia od początku",
+      "description": "5 Stories · 2 posty · copy · zabezpieczony reset lokalnego postępu.",
+      "status": {
+        "label": "READY · 17 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/local-reset-starts-over.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-mass-is-not-size",
+      "section": "social",
+      "name": "Cięższa planeta nie musi być większa",
+      "description": "5 Stories · 2 posty · copy · prawdziwe stany masy 1/3 i 3/3.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/mass-is-not-size.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-orbit-race-no-steering-wheel",
+      "section": "social",
+      "name": "W tym wyścigu nie ma kierownicy",
+      "description": "5 Stories · 2 posty · copy · hamulec, dopalacz i zielony tor.",
+      "status": {
+        "label": "READY · 23 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/orbit-race-no-steering-wheel.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-music-without-voice",
+      "section": "social",
+      "name": "Muzyka może zostać, kiedy głos milczy",
+      "description": "5 Stories · 2 posty · copy · niezależna narracja i muzyka.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-music-stays-voice-rests/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-music-stays-voice-rests/music-stays-voice-rests.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-music-stays-voice-rests/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-music-stays-voice-rests/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-opposite-seasons",
+      "section": "social",
+      "name": "Zima w Polsce, lato w Nowej Zelandii",
+      "description": "5 Stories · 2 posty · copy · ta sama pozycja na orbicie.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-one-orbit-opposite-seasons/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-one-orbit-opposite-seasons/one-orbit-opposite-seasons.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-one-orbit-opposite-seasons/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-one-orbit-opposite-seasons/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-same-moon-moving-light",
+      "section": "social",
+      "name": "To ten sam Księżyc. Zmienia się światło",
+      "description": "5 Stories · 2 posty · copy · jedna powierzchnia i dwie kwadry.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-moon-moving-light/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-moon-moving-light/same-moon-moving-light.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-moon-moving-light/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-moon-moving-light/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-touch-model",
+      "section": "social",
+      "name": "Ruch palca zmienia model",
+      "description": "5 Stories · 2 posty · copy · prawdziwa orbita i przyciski faz.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/touch-moves-the-model.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-six-open-discoveries",
+      "section": "social",
+      "name": "Sześć odkryć pozostaje otwartych",
+      "description": "5 Stories · 2 posty · copy · prawdziwa mapa po trzech i sześciu odkryciach.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/six-discoveries-stay-open.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-open-question",
+      "section": "social",
+      "name": "Dobre pytanie nie zamyka odkrycia",
+      "description": "5 Stories · 2 posty · copy · refleksja i rozmowa bez klucza odpowiedzi.",
+      "status": {
+        "label": "READY · 18 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/question-keeps-it-open.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-native-art",
+      "section": "social",
+      "name": "Grafiki do postów zaczynają się w aplikacji",
+      "description": "5 Stories · 2 posty · copy · wybrany kierunek i prawdziwy ekran.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-native-art-becomes-post/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-native-art-becomes-post/native-art-becomes-post.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-native-art-becomes-post/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-native-art-becomes-post/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-first-minute",
+      "section": "social",
+      "name": "Pierwsza minuta prowadzi do hipotezy",
+      "description": "5 Stories · 2 posty · copy · otwarcie, mapa i przewidywanie.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-first-minute-to-hypothesis/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-first-minute-to-hypothesis/first-minute-to-hypothesis.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-first-minute-to-hypothesis/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-first-minute-to-hypothesis/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-return-to-discovery",
+      "section": "social",
+      "name": "Do zapisanego odkrycia można wrócić",
+      "description": "5 Stories · 2 posty · copy · zeszyt i aktualizacja wyjaśnienia.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-return-to-discovery/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-return-to-discovery/return-to-discovery.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-return-to-discovery/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-return-to-discovery/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-grid-map",
+      "section": "social",
+      "name": "Siatka jest modelem, nie zdjęciem kosmosu",
+      "description": "5 Stories · 2 posty · copy · prawdziwy ekran siatki.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-grid-is-a-map/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-grid-is-a-map/grid-is-a-map.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-grid-is-a-map/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-grid-is-a-map/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-accessibility",
+      "section": "social",
+      "name": "Spokojniejszy odbiór, to samo laboratorium",
+      "description": "5 Stories · 2 posty · copy · preset dostępności.",
+      "status": {
+        "label": "READY · 17 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-calmer/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-calmer/same-lab-calmer.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-calmer/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-calmer/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-wrong-answer",
+      "section": "social",
+      "name": "Zaskoczenie jest częścią eksperymentu",
+      "description": "5 Stories · 2 posty · copy · nietrafione przewidywanie.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-wrong-answer-is-data/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-wrong-answer-is-data/wrong-answer-is-data.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-wrong-answer-is-data/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-wrong-answer-is-data/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-data-stays-here",
+      "section": "social",
+      "name": "Postęp zostaje na urządzeniu",
+      "description": "5 Stories · 2 posty · copy · prywatność dzieci.",
+      "status": {
+        "label": "READY · 17 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/data-stays-here.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-cooperative-signal",
+      "section": "social",
+      "name": "Dwa ruchy, jeden wspólny sygnał",
+      "description": "5 Stories · 2 posty · copy · prawdziwa misja załogi.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/two-moves-one-signal.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-voice-makes-room",
+      "section": "social",
+      "name": "Głos robi miejsce na odkrycie",
+      "description": "5 Stories · 2 posty · copy · nagrania AI i lokalny głos awaryjny.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/voice-makes-room.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-orbit",
+      "section": "social",
+      "name": "Orbita to ciągłe spadanie",
+      "description": "5 Stories · 2 posty · copy · źródła NASA.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-is-falling/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-is-falling/orbit-is-falling.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-is-falling/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-is-falling/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-discovery-notebook",
+      "section": "social",
+      "name": "Zeszyt odkryć zamiast punktów",
+      "description": "5 Stories · 2 posty · copy · decyzja produktowa.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/discovery-notebook.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-responsive-lab",
+      "section": "social",
+      "name": "To samo laboratorium na każdym ekranie",
+      "description": "5 Stories · 2 posty · copy · telefon i tablet.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-every-screen/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-every-screen/same-lab-every-screen.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-every-screen/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-every-screen/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-magnet",
+      "section": "social",
+      "name": "Czy magnes przyciąga każdy metal?",
+      "description": "5 Stories · 2 posty · copy · źródła.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/magnet-not-every-metal.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-seasons",
+      "section": "social",
+      "name": "To nachylenie osi, nie odległość",
+      "description": "5 Stories · 2 posty · copy · źródła.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-12",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-seasons-not-distance/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-seasons-not-distance/seasons-not-distance.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-seasons-not-distance/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-seasons-not-distance/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-moon",
+      "section": "social",
+      "name": "Fazy Księżyca to nie cień Ziemi",
+      "description": "5 Stories · 2 posty · copy · źródła.",
+      "status": {
+        "label": "READY · 18 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-12",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-moon-phases-not-earth-shadow/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-moon-phases-not-earth-shadow/moon-phases-not-earth-shadow.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-moon-phases-not-earth-shadow/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-moon-phases-not-earth-shadow/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-apollo13",
+      "section": "social",
+      "name": "Apollo 13: nie tylko grawitacja",
+      "description": "5 Stories · 2 posty · copy · źródła.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-11",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-apollo13-not-just-gravity/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-apollo13-not-just-gravity/apollo13-not-just-gravity.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-apollo13-not-just-gravity/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-apollo13-not-just-gravity/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-voyager",
+      "section": "social",
+      "name": "Voyager 2: jedna sonda, cztery planety",
+      "description": "5 Stories · 2 posty · copy · źródła.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-11",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-voyager-grand-tour/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-voyager-grand-tour/voyager-grand-tour.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-voyager-grand-tour/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-voyager-grand-tour/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-galileo",
+      "section": "social",
+      "name": "Galileo: dwa spotkania z Ziemią",
+      "description": "5 Stories · 2 posty · copy · źródła.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-11",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-galileo-earth-twice/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-galileo-earth-twice/galileo-earth-twice.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-galileo-earth-twice/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-galileo-earth-twice/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "private-review-summary",
+      "section": "application",
+      "name": "Review i stół reżyserski",
+      "description": "Publiczny indeks pokazuje stan prac, ale szczegółowe review i prywatne materiały działają wyłącznie lokalnie.",
+      "status": {
+        "label": "LOCAL ONLY",
+        "tone": "review"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Zobacz zasady dostępu",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#review",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "narration-summary",
+      "section": "narration",
+      "name": "Piotr i Tomek: stan narracji",
+      "description": "121 kwestii: 17 Piotra i 104 Tomka. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 2/121; lokalny głos systemowy: 119/121. Techniczna biblioteka audio jest sprawdzana osobno.",
+      "status": {
+        "label": "DRAFT / UNLOCKED",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Zobacz stan narracji",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#narration",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "studio-summary",
+      "section": "narration",
+      "name": "Pipeline nagrań studyjnych",
+      "description": "Dwa kompletne mastery są integrowane razem. Każdy zakodowany klip przechodzi kontrolę poziomu, czasu, balansu i SHA-256 oraz automatyczny rollback po błędzie.",
+      "status": {
+        "label": "READY AFTER LOCK",
+        "tone": "review"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Zobacz gotowość studia",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#studio",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "app-store-summary",
+      "section": "release",
+      "name": "Gotowość App Store",
+      "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
+      "status": {
+        "label": "WAITING · 6 BLOKAD",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Zobacz stan wydania",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#app-store",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz bezpieczny JSON",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/public-status.json",
+          "kind": "download"
+        }
+      ]
+    },
+    {
+      "id": "screenshots-summary",
+      "section": "release",
+      "name": "Materiały App Store",
+      "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
+      "status": {
+        "label": "PREVIEW STALE",
+        "tone": "review"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Zobacz plan kadrów",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#screenshots",
+          "kind": "view"
+        }
+      ]
+    }
+  ],
+  "access": "public"
+}
