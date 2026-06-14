@@ -6,7 +6,7 @@
   "build": {
     "version": "1.0",
     "number": "1",
-    "nativePreflightCurrent": true
+    "nativePreflightCurrent": false
   },
   "review": {
     "access": "local-only",
@@ -38,7 +38,7 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 6,
+    "blockerCount": 7,
     "blockers": [
       {
         "id": "metadata",
@@ -61,6 +61,10 @@
         "label": "Finalne nagrania Piotra i Tomka nie są jeszcze zintegrowane."
       },
       {
+        "id": "technical",
+        "label": "Techniczny preflight wydania wymaga odświeżenia."
+      },
+      {
         "id": "devices",
         "label": "Ręczne QA na fizycznym iPhonie i iPadzie pozostaje otwarte."
       }
@@ -81,8 +85,8 @@
       }
     },
     "screenshotPlan": {
-      "status": "CURRENT WEB PREVIEW",
-      "previewCurrent": true,
+      "status": "PREVIEW STALE",
+      "previewCurrent": false,
       "captureEnvironment": "HEADLESS_WEB",
       "technicalReview": "TECHNICAL VISUAL REVIEW",
       "reviewedAt": "2026-06-14",

@@ -1746,7 +1746,7 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 6 BLOKAD",
+        "label": "WAITING · 7 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",
@@ -1770,7 +1770,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT WEB PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
