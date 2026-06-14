@@ -22,7 +22,7 @@
   "release": {
     "status": "WAITING",
     "blockerCount": 6,
-    "buildFingerprint": "49a9adf80572ebddc96ca011683e391af143ccf6deb9d9d5b7960705b36cfb85"
+    "buildFingerprint": "fe42433fe9c92457e1494fd44609fe0ca8665a15188572ac685996a213cddbd1"
   },
   "privacy": {
     "containsPrivateAudio": false,
@@ -32,7 +32,7 @@
   },
   "generation": {
     "contractVersion": 1,
-    "inputHash": "78b72919dba459efd7b100de75aed5264580a28e0d4f83be65086005b030f4f3"
+    "inputHash": "56e340c9946c2ab27b4b7c0d3c9ffe27f4c5650b7e12d952842d883fb90c9f02"
   },
   "files": [
     {
@@ -40,15 +40,15 @@
       "label": "Zacznij tutaj · HTML",
       "bytes": 11063,
       "size": "10.8 KB",
-      "sha256": "4bb0976030650017c3cd697503819eb2eaea1a57444621cddeb309dd88f7cd39",
+      "sha256": "ebdd00ef0ea4d94a8ebd1bf5f2c44c3e4931c30538bae68831cd186bf3d237b2",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/index.html"
     },
     {
       "name": "kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf",
       "label": "Podsumowanie i linki · PDF",
-      "bytes": 391234,
+      "bytes": 391244,
       "size": "382.1 KB",
-      "sha256": "899807066e36a7a1f10318595b006472d716b406ead159f67023247c490c8de4",
+      "sha256": "ce70cbba57c57e1d1374695a280dd838d7ad5096a085b1e4f2b1f8b9013befc8",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.pdf"
     },
     {
@@ -56,7 +56,7 @@
       "label": "Podsumowanie i linki · DOCX",
       "bytes": 7237,
       "size": "7.1 KB",
-      "sha256": "ef3b8b19a132c68167383049ab871b1be1b106c739980770d42e6d69569098f8",
+      "sha256": "32e828e02d7b5c80d970f605f3d19f3ca8cf9754e3c53dfa47a4942daf108fb6",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/kosmiczne-laboratorium-pakiet-przygotowawczy-tomek.docx"
     },
     {
@@ -64,7 +64,7 @@
       "label": "Scenariusz Tomka · PDF",
       "bytes": 366615,
       "size": "358.0 KB",
-      "sha256": "426e2e3d996d8e33eece46a17280ec7d770d32699f1e4bb1189938e7ab794cca",
+      "sha256": "7730129c79c6ec82e97329ac770e80545b2b4d1bb872c9d8d037ac3e5c18c22a",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.pdf"
     },
     {
@@ -72,7 +72,7 @@
       "label": "Zgoda lektorska · PDF",
       "bytes": 120097,
       "size": "117.3 KB",
-      "sha256": "60ca115ea6961423b17859c75cfe03e8f0c361cfe7ac2599166f72aa9307082c",
+      "sha256": "bb85a64143db3a4c00a8b6a424e93e10ef69f08aceeb2d023d95e27b4a0e8a34",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Zgoda-lektorska-Tomek-Miller.pdf"
     },
     {
@@ -80,7 +80,7 @@
       "label": "Scenariusz Tomka · DOCX",
       "bytes": 14832,
       "size": "14.5 KB",
-      "sha256": "8f16c29fccc40ac7ce091ce92a1aea3f16a3ac86e75066f5813cead05f0d8cfe",
+      "sha256": "57419acfb9211f2791d963222488d6f88fd66f9023aca2601424322a023119e9",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-scenariusz-Tomek-Miller.docx"
     },
     {
@@ -96,7 +96,7 @@
       "label": "Karta sesji · DOCX",
       "bytes": 6316,
       "size": "6.2 KB",
-      "sha256": "2536adc31b9bea57736b9a9f09cf60e88fc089d93477ab4fbb0be534a46a1d68",
+      "sha256": "2b60db0e80fe03a9e5cd619e16a660ec1f6c3f175ec50d45e6e4fb27e69cdb5b",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-tomek/Kosmiczne-laboratorium-karta-sesji-studyjnej.docx"
     },
     {

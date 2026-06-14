@@ -81,8 +81,8 @@
       }
     },
     "screenshotPlan": {
-      "status": "CURRENT WEB PREVIEW",
-      "previewCurrent": true,
+      "status": "PREVIEW STALE",
+      "previewCurrent": false,
       "captureEnvironment": "HEADLESS_WEB",
       "technicalReview": "TECHNICAL VISUAL REVIEW",
       "reviewedAt": "2026-06-14",

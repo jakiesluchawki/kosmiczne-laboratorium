@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "checkpoint-przed-nagraniem-2026-06-14",
+  "sourceBranch": "main",
+  "updatedAt": "2026-06-14",
+  "status": "web-rc-recording-needs-lock",
+  "publicUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/checkpoint-przed-nagraniem-2026-06-14/",
+  "checkpoint": {
+    "plannedPause": "23:45 CEST",
+    "applicationSource": "fe42433fe9c92457e1494fd44609fe0ca8665a15188572ac685996a213cddbd1",
+    "scriptStatus": "DRAFT / UNLOCKED",
+    "cueCount": 121,
+    "blockerCount": 6
+  },
+  "privacy": {
+    "containsPrivateAudio": false,
+    "containsDeviceData": false,
+    "containsCredentials": false,
+    "containsLocalAddresses": false
+  },
+  "files": [
+    {
+      "name": "index.html",
+      "bytes": 4164,
+      "sha256": "dda42990646fd461fd6129db92f7cec2532d60970855630359fb94e7770956c3",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/checkpoint-przed-nagraniem-2026-06-14/index.html"
+    },
+    {
+      "name": "kosmiczne-laboratorium-checkpoint-przed-nagraniem.pdf",
+      "bytes": 279599,
+      "sha256": "25ad1714bb98a1ad728d7b201235b296be94451fc9269e93b310b62abf2b5a09",
+      "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/checkpoint-przed-nagraniem-2026-06-14/kosmiczne-laboratorium-checkpoint-przed-nagraniem.pdf"
+    }
+  ]
+}

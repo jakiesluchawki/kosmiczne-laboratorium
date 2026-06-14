@@ -136,6 +136,35 @@
       ]
     },
     {
+      "id": "pre-recording-checkpoint",
+      "section": "release",
+      "name": "Checkpoint RC przed nagraniem",
+      "description": "Kontrolowane zamknięcie etapu przed snem: stan aplikacji, rekomendacje, testy na jutro, blokady nagrania i bezpieczne linki projektu. Gotowe do testów webowych; finalne nagranie nadal wymaga LOCK.",
+      "status": {
+        "label": "WEB RC · RECORDING NEEDS LOCK",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Otwórz checkpoint",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/checkpoint-przed-nagraniem-2026-06-14/",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz raport PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/checkpoint-przed-nagraniem-2026-06-14/kosmiczne-laboratorium-checkpoint-przed-nagraniem.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Otwórz manifest",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/checkpoint-przed-nagraniem-2026-06-14/kosmiczne-laboratorium-checkpoint-przed-nagraniem-manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
       "id": "privacy-support",
       "section": "release",
       "name": "Prywatność i wsparcie",
@@ -1984,7 +2013,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT WEB PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
