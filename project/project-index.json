@@ -96,7 +96,7 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 136.3 MB",
+        "label": "READY · 145.3 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -118,9 +118,9 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "36 paczek · 180 Stories · 72 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "39 paczek · 195 Stories · 78 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 110.4 MB",
+        "label": "READY · 119.4 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -251,6 +251,108 @@
         {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-straight-until-gravity",
+      "section": "social",
+      "name": "Tor nie zakręca sam",
+      "description": "5 Stories · 2 posty · copy · pusta siatka i jedna planeta.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/straight-until-gravity.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-straight-until-gravity/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-new-moon-still-lit",
+      "section": "social",
+      "name": "Nów nie gasi Księżyca",
+      "description": "5 Stories · 2 posty · copy · nów, sierp i geometria światła.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/new-moon-still-lit.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-new-moon-still-lit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-galileo-inward-to-go-outward",
+      "section": "social",
+      "name": "Galileo poleciał ku Wenus, żeby dotrzeć do Jowisza",
+      "description": "5 Stories · 2 posty · copy · trasa VEEGA i dwa etapy rekonstrukcji.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/galileo-inward-to-go-outward.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-galileo-inward-to-go-outward/manifest.json",
           "kind": "view"
         }
       ]
