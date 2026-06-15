@@ -1,23 +1,23 @@
-const CACHE = "kosmiczne-laboratorium-9596c9a051878d2a";
+const CACHE = "kosmiczne-laboratorium-ed3ef77028febc41";
 const OFFLINE_URL = "./index.html";
 const PROTECT_PRIVATE_ROUTES = true;
 const PRIVATE_SERVICE_WORKER_PREFIXES = ["review","__voice-review"];
 const PRECACHE_URLS = [
   "./404.html",
+  "./assets/GravityAssistLab-BGak_p8o.js",
   "./assets/GravityAssistLab-CBgapCeg.css",
-  "./assets/GravityAssistLab-mG_bydD8.js",
-  "./assets/MoonLab-DkIYyYle.js",
-  "./assets/RaceGame-YduMOksl.js",
-  "./assets/englishTwin-DyigRPdB.js",
-  "./assets/index-BwVZkQzF.js",
+  "./assets/MoonLab-CWZrsdqK.js",
+  "./assets/RaceGame-B-9SHbMR.js",
+  "./assets/englishTwin-M5Wqjmqi.js",
   "./assets/index-CV4Cquht.js",
-  "./assets/index-Cw9_0125.js",
-  "./assets/index-DRpw6xQ9.js",
-  "./assets/index-PR_9xzCu.js",
+  "./assets/index-CW2FruyT.js",
+  "./assets/index-CfOSDMHW.js",
+  "./assets/index-UfweogV0.js",
+  "./assets/index-q_gwOdU4.js",
   "./assets/index-uu-OYqsD.css",
   "./assets/web-BeOpRGRz.js",
-  "./assets/web-C60u13aP.js",
   "./assets/web-CJJ3fygS.js",
+  "./assets/web-CUEK9X7M.js",
   "./build-info.json",
   "./en/index.html",
   "./fonts/nunito-latin-ext-variable.woff2",
