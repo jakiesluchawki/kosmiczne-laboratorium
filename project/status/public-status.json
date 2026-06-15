@@ -6,7 +6,7 @@
   "build": {
     "version": "1.0",
     "number": "1",
-    "nativePreflightCurrent": true
+    "nativePreflightCurrent": false
   },
   "review": {
     "access": "local-only",
@@ -24,15 +24,15 @@
     },
     "approvedSections": 0,
     "totalSections": 13,
-    "finalHumanCueCount": 0,
-    "missingHumanCueCount": 121,
-    "temporaryFallbackCueCount": 2,
-    "systemFallbackCueCount": 119,
+    "finalHumanCueCount": 121,
+    "missingHumanCueCount": 0,
+    "temporaryFallbackCueCount": 0,
+    "systemFallbackCueCount": 0,
     "playbackVerifiedCueCount": 121,
     "playbackCoverageComplete": true,
     "embeddedAudio": {
-      "referencedClipCount": 67,
-      "playableClipCount": 67
+      "referencedClipCount": 121,
+      "playableClipCount": 121
     },
     "studioPipeline": "READY AFTER LOCK"
   },
@@ -57,8 +57,8 @@
         "label": "Plansze wejściowe Piotra i przekazania Tomkowi czekają na akceptację."
       },
       {
-        "id": "narration",
-        "label": "Finalne nagrania Piotra i Tomka nie są jeszcze zintegrowane."
+        "id": "technical",
+        "label": "Techniczny preflight wydania wymaga odświeżenia."
       },
       {
         "id": "devices",
@@ -81,8 +81,8 @@
       }
     },
     "screenshotPlan": {
-      "status": "CURRENT WEB PREVIEW",
-      "previewCurrent": true,
+      "status": "PREVIEW STALE",
+      "previewCurrent": false,
       "captureEnvironment": "HEADLESS_WEB",
       "technicalReview": "TECHNICAL VISUAL REVIEW",
       "reviewedAt": "2026-06-14",
@@ -94,7 +94,7 @@
     },
     "complianceAudit": {
       "status": "passed",
-      "auditedAt": "2026-06-14",
+      "auditedAt": "2026-06-15",
       "controlCount": 9,
       "passedControlCount": 9
     }

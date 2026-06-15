@@ -1,8 +1,8 @@
 # Kosmiczne Laboratorium: karta sesji studyjnej
 
-**Status:** DRAFT / UNLOCKED · 2b1fe0fd882ab774 · NIE NAGRYWAĆ
+**Status:** DRAFT / UNLOCKED · d4e3485822e7e877 · NIE NAGRYWAĆ
 **Zakres:** 121 kwestii · Piotr 17 · Tomek 104
-**Szacowane czyste audio:** Piotr 3:26 · Tomek 15:34
+**Szacowane czyste audio:** Piotr 3:25 · Tomek 15:31
 **Prywatne review:** dostępne u właściciela projektu; adres nie jest publikowany.
 
 
@@ -13,7 +13,7 @@ Nagrania wolno rozpocząć dopiero po pełnym LOCK-u tego samego hasha.
 
 - [ ] W głównym review zaznaczono 13 sekcji i pełną akceptację całego scenariusza.
 - [ ] Nie ma otwartych komentarzy ani notatek w prawej kolumnie review.
-- [ ] Dokumenty aktorów i ta karta pokazują ten sam hash: 2b1fe0fd882ab774.
+- [ ] Dokumenty aktorów i ta karta pokazują ten sam hash: d4e3485822e7e877.
 - [ ] W studiu są otwarte osobne dokumenty Piotra i Tomka, nie dokument zbiorczy.
 - [ ] Sesja pracuje w 48 kHz, 24 bit, mono, Linear PCM WAV.
 - [ ] Nagrano minimum 15 sekund ciszy pomieszczenia przed pierwszą kwestią.
@@ -24,7 +24,7 @@ Nagrania wolno rozpocząć dopiero po pełnym LOCK-u tego samego hasha.
 **Master:** `kosmiczne-laboratorium-lektor-piotr-master.wav`
 
 - [ ] **Wstęp do obserwatorium** · 5 kwestii · około 1:19 czystego audio · `INTRO-001`–`INTRO-005`
-- [ ] **Przejścia między pracowniami** · 12 kwestii · około 2:08 czystego audio · `HOST-HOME-001`–`HOST-FINAL-001`
+- [ ] **Przejścia między pracowniami** · 12 kwestii · około 2:07 czystego audio · `HOST-HOME-001`–`HOST-FINAL-001`
 
 Po przejściach odsłuchaj jedną planszę razem z muzyką docelowego modułu.
 Końcówka ma zostawić oddech przed wejściem Tomka, bez tonu zwiastuna.
@@ -42,9 +42,9 @@ Końcówka ma zostawić oddech przed wejściem Tomka, bez tonu zwiastuna.
 - [ ] **Kosmiczny plac zabaw** · 6 kwestii · około 0:44 czystego audio · `TOMEK-PLAY-OPEN`–`PLAY-005`
 - [ ] **Pory roku** · 10 kwestii · około 1:47 czystego audio · `SEAS-001`–`SEAS-010`
 - [ ] **Gra orbitalna** · 5 kwestii · około 0:40 czystego audio · `RACE-001`–`RACE-005`
-- [ ] **Fazy Księżyca** · 9 kwestii · około 1:19 czystego audio · `MOON-001`–`MOON-009`
+- [ ] **Fazy Księżyca** · 9 kwestii · około 1:18 czystego audio · `MOON-001`–`MOON-009`
 - [ ] **Magnes i grawitacja** · 17 kwestii · około 2:13 czystego audio · `MAG-001`–`MAG-017`
-- [ ] **Prawdziwe misje kosmiczne** · 34 kwestii · około 5:55 czystego audio · `TOMEK-ASSIST-OPEN`–`ASSIST-033`
+- [ ] **Prawdziwe misje kosmiczne** · 34 kwestii · około 5:53 czystego audio · `TOMEK-ASSIST-OPEN`–`ASSIST-033`
 
 ## 4. Ujęcia podwójne
 
@@ -57,7 +57,7 @@ Końcówka ma zostawić oddech przed wejściem Tomka, bez tonu zwiastuna.
 - [ ] `MAG-001` · Tomek Miller · Magnes i grawitacja · 16.0–21.0 s
 - [ ] `ASSIST-001` · Tomek Miller · Prawdziwe misje kosmiczne · 15.5–20.5 s
 - [ ] `ASSIST-008` · Tomek Miller · Prawdziwe misje kosmiczne · 13.0–17.0 s
-- [ ] `ASSIST-014` · Tomek Miller · Prawdziwe misje kosmiczne · 12.0–15.5 s
+- [ ] `ASSIST-014` · Tomek Miller · Prawdziwe misje kosmiczne · 11.0–14.5 s
 - [ ] `ASSIST-025` · Tomek Miller · Prawdziwe misje kosmiczne · 14.0–18.0 s
 - [ ] `ASSIST-030` · Tomek Miller · Prawdziwe misje kosmiczne · 13.0–17.0 s
 

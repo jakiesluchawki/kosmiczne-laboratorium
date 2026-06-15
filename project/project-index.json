@@ -198,7 +198,7 @@
         "tone": "live"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Otwórz stronę pobrań",
@@ -213,11 +213,11 @@
       "name": "Podsumowanie i wszystkie linki",
       "description": "Stan prac · gotowe materiały · następne decyzje. Pięciostronicowy indeks z klikalnymi linkami. Najlepszy punkt wejścia na Macu.",
       "status": {
-        "label": "READY · 209 KB",
+        "label": "READY · 78 KB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Otwórz PDF",
@@ -237,11 +237,11 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 163 MB",
+        "label": "READY · 165.9 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Pobierz wszystko",
@@ -259,13 +259,13 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "45 paczek · 225 Stories · 90 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "46 paczek · 230 Stories · 92 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 136.9 MB",
+        "label": "READY · 139.8 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Pobierz",
@@ -289,7 +289,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Pobierz",
@@ -328,7 +328,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Pobierz",
@@ -367,7 +367,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-06-15",
       "links": [
         {
           "label": "Pobierz",
@@ -392,6 +392,40 @@
         {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-next-mission-or-notebook",
+      "section": "social",
+      "name": "Po zapisie czeka następna misja albo zeszyt",
+      "description": "5 Stories · 2 posty · copy · prawdziwe home i completion.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-15",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-next-mission-or-notebook/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-next-mission-or-notebook/next-mission-or-notebook.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-next-mission-or-notebook/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-next-mission-or-notebook/manifest.json",
           "kind": "view"
         }
       ]
@@ -1949,7 +1983,7 @@
       "id": "narration-summary",
       "section": "narration",
       "name": "Piotr i Tomek: stan narracji",
-      "description": "121 kwestii: 17 Piotra i 104 Tomka. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 2/121; lokalny głos systemowy: 119/121. Techniczna biblioteka audio jest sprawdzana osobno.",
+      "description": "121 kwestii: 17 Piotra i 104 Tomka. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 0/121; lokalny głos systemowy: 0/121. Techniczna biblioteka audio jest sprawdzana osobno.",
       "status": {
         "label": "DRAFT / UNLOCKED",
         "tone": "waiting"
@@ -2013,7 +2047,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT WEB PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
