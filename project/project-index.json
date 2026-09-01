@@ -14,7 +14,7 @@
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Otwórz aplikację",
@@ -33,7 +33,7 @@
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Otwórz indeks",
@@ -198,7 +198,7 @@
         "tone": "live"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Otwórz stronę pobrań",
@@ -217,7 +217,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Otwórz PDF",
@@ -237,11 +237,11 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 165.9 MB",
+        "label": "READY · 219.8 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Pobierz wszystko",
@@ -259,13 +259,13 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "46 paczek · 230 Stories · 92 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "68 paczek · 340 Stories · 136 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 139.8 MB",
+        "label": "READY · 195.0 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Pobierz",
@@ -289,7 +289,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Pobierz",
@@ -328,7 +328,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Pobierz",
@@ -367,7 +367,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Pobierz",
@@ -397,69 +397,749 @@
       ]
     },
     {
-      "id": "social-clean-story-backgrounds",
+      "id": "social-orbit-gauge-shows-good-orbit",
       "section": "social",
-      "name": "Czyste tła do Instagram Stories",
-      "description": "8 teł bez tekstu, logo i ramek · miejsce na własną typografię.",
+      "name": "Wyścig orbitalny pokazuje zielony pas dobrej orbity",
+      "description": "5 Stories · 2 posty · copy · prawdziwy desktop i telefon z widocznymi wskaźnikami `DOBRA ORBITA` między `DOPALAJ` i `HAMUJ`.",
       "status": {
-        "label": "READY · 23 MB",
+        "label": "READY · 19.5 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-08-30",
       "links": [
         {
           "label": "Podgląd",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-clean-story-backgrounds/preview.png",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-30-orbit-gauge-shows-good-orbit/preview.png",
           "kind": "view"
         },
         {
           "label": "Pobierz ZIP",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-clean-story-backgrounds/clean-story-backgrounds.zip",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-30-orbit-gauge-shows-good-orbit/orbit-gauge-shows-good-orbit.zip",
           "kind": "download"
         },
         {
-          "label": "Opis",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-clean-story-backgrounds/README.md",
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-30-orbit-gauge-shows-good-orbit/linkedin-facebook-post.md",
           "kind": "view"
         },
         {
           "label": "Manifest paczki",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-clean-story-backgrounds/manifest.json",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-30-orbit-gauge-shows-good-orbit/manifest.json",
           "kind": "view"
         }
       ]
     },
     {
-      "id": "social-human-voices-were-the-plan",
+      "id": "social-orbit-race-hints-match-pedals",
       "section": "social",
-      "name": "Prawdziwe głosy były planem",
-      "description": "8 Stories · 6 slajdów karuzeli · LinkedIn · Facebook · copy · statystyki.",
+      "name": "Wyścig orbitalny łączy podpowiedź z pedałami",
+      "description": "5 Stories · 2 posty · copy · prawdziwy desktop i telefon z tymi samymi słowami `HAMUJ` i `DOPALAJ` na podpowiedzi oraz pedałach sterowania.",
+      "status": {
+        "label": "READY · 20.7 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-29",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-29-orbit-race-hints-match-pedals/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-29-orbit-race-hints-match-pedals/orbit-race-hints-match-pedals.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-29-orbit-race-hints-match-pedals/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-29-orbit-race-hints-match-pedals/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-phone-orbit-settings-stay-on-stage",
+      "section": "social",
+      "name": "Telefoniczne `Ustaw grę` zostaje nad tą samą orbitą",
+      "description": "5 Stories · 2 posty · copy · prawdziwy desktop i telefon z żywą planszą `Misji załogi`, telefonicznym `Ustaw grę` oraz telefonicznym `Wyścigiem` z metą `3 / 5 / 10`.",
+      "status": {
+        "label": "READY · 19.4 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-28",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-28-phone-orbit-settings-stay-on-stage/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-28-phone-orbit-settings-stay-on-stage/phone-orbit-settings-stay-on-stage.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-28-phone-orbit-settings-stay-on-stage/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-28-phone-orbit-settings-stay-on-stage/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-orbit-pads-show-keys",
+      "section": "social",
+      "name": "Wspólna orbita pokazuje klawisze na pulpitach",
+      "description": "5 Stories · 2 posty · copy · prawdziwy desktop i telefon z widocznymi skrótami `Z/X` oraz `O/P` na tych samych pedałach `HAMUJ` i `DOPALAJ`.",
+      "status": {
+        "label": "READY · 37.7 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-27",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-27-orbit-pads-show-keys/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-27-orbit-pads-show-keys/orbit-pads-show-keys.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-27-orbit-pads-show-keys/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-27-orbit-pads-show-keys/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-phone-orbit-rotates-far-pad",
+      "section": "social",
+      "name": "Telefoniczna orbita obraca dalszy pulpit o 180°",
+      "description": "5 Stories · 2 posty · copy · prawdziwy telefon i desktop z odwróconym dalszym pulpitem, wspólną orbitą i panelem `Ustaw grę`.",
+      "status": {
+        "label": "READY · 19.3 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-26",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-26-phone-orbit-rotates-far-pad/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-26-phone-orbit-rotates-far-pad/phone-orbit-rotates-far-pad.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-26-phone-orbit-rotates-far-pad/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-26-phone-orbit-rotates-far-pad/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-one-screen-two-orbit-modes",
+      "section": "social",
+      "name": "Ten sam ekran orbity przełącza współpracę i wyścig",
+      "description": "5 Stories · 2 posty · copy · prawdziwy desktop i telefon z tym samym ekranem `Misji załogi` i `Wyścigu`.",
+      "status": {
+        "label": "READY · 19.4 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-25",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-25-one-screen-two-orbit-modes/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-25-one-screen-two-orbit-modes/one-screen-two-orbit-modes.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-25-one-screen-two-orbit-modes/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-25-one-screen-two-orbit-modes/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-orbit-race-three-gravity-levels",
+      "section": "social",
+      "name": "Ten sam wyścig porównuje lekką, ziemską i supermasywną grawitację",
+      "description": "5 Stories · 2 posty · copy · prawdziwy desktop i telefon z tym samym wyścigiem orbitalnym oraz wyborem `Lekka`, `Ziemska`, `Supermasa`.",
+      "status": {
+        "label": "READY · 20.1 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-24",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-24-orbit-race-three-gravity-levels/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-24-orbit-race-three-gravity-levels/orbit-race-three-gravity-levels.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-24-orbit-race-three-gravity-levels/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-24-orbit-race-three-gravity-levels/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-orbit-race-two-paces",
+      "section": "social",
+      "name": "Wyścig orbitalny daje dwa tempa tej samej orbity",
+      "description": "5 Stories · 2 posty · copy · prawdziwy desktop i telefon z wyborem `Spokojnie` albo `Normalnie` w tym samym wyścigu orbitalnym.",
+      "status": {
+        "label": "READY · 20.5 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-22",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-22-orbit-race-two-paces/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-22-orbit-race-two-paces/orbit-race-two-paces.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-22-orbit-race-two-paces/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-22-orbit-race-two-paces/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-one-screen-four-gravity-setups",
+      "section": "social",
+      "name": "Jeden ekran przełącza cztery układy grawitacji",
+      "description": "5 Stories · 2 posty · copy · prawdziwe stany bonusowego placu zabaw: `Pusta siatka`, `Jedna planeta`, `Dwie planety` i telefoniczna `Supermasa`.",
+      "status": {
+        "label": "READY · 20.0 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-13-one-screen-four-gravity-setups/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-13-one-screen-four-gravity-setups/one-screen-four-gravity-setups.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-13-one-screen-four-gravity-setups/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-13-one-screen-four-gravity-setups/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-supermass-harder-escape",
+      "section": "social",
+      "name": "Superciężka Ziemia nie rośnie, tylko mocniej trzyma",
+      "description": "5 Stories · 2 posty · copy · prawdziwy ekran odkrycia `Masa` oraz prawdziwe ekrany bonusowego placu z aktywną `Supermasą` na desktopie i telefonie.",
+      "status": {
+        "label": "READY · 35.3 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-11",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-11-supermass-harder-escape/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-11-supermass-harder-escape/supermass-harder-escape.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-11-supermass-harder-escape/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-11-supermass-harder-escape/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-solo-or-together-first",
+      "section": "social",
+      "name": "Pierwszy ekran pyta: solo czy we dwoje?",
+      "description": "5 Stories · 2 posty · copy · prawdziwe pierwsze ekrany aplikacji, krok z opcjonalnymi lokalnymi nazwami i mapa misji po wyborze solo.",
+      "status": {
+        "label": "READY · 39.5 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-10",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-solo-or-together-first/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-solo-or-together-first/solo-or-together-first.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-solo-or-together-first/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-solo-or-together-first/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-ball-rain-shows-gravity",
+      "section": "social",
+      "name": "Deszcz kulek pokazuje wiele torów naraz",
+      "description": "5 Stories · 2 posty · copy · prawdziwe ekrany bonusowego placu zabaw po uruchomieniu `Deszczu kulek` na desktopie i telefonie.",
+      "status": {
+        "label": "READY · 20.8 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-10",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-ball-rain-shows-gravity/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-ball-rain-shows-gravity/ball-rain-shows-gravity.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-ball-rain-shows-gravity/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-10-ball-rain-shows-gravity/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-playground-bonus-lab",
+      "section": "social",
+      "name": "Kosmiczny plac zabaw jest bonusową pracownią obok sześciu odkryć",
+      "description": "5 Stories · 2 posty · copy · prawdziwy ekran mapy misji oraz prawdziwe ekrany bonusowego placu na desktopie i telefonie.",
+      "status": {
+        "label": "READY · 19.3 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-08-09",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-09-playground-bonus-lab/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-09-playground-bonus-lab/playground-bonus-lab.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-09-playground-bonus-lab/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-08-09-playground-bonus-lab/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-crew-setup-before-shared-mission",
+      "section": "social",
+      "name": "Misja dla dwojga zaczyna się od wyboru załogi",
+      "description": "5 Stories · 2 posty · copy · prawdziwe ekrany mapy misji, wyboru załogi, lokalnych nazw i wspólnego ekranu orbitalnego na telefonie.",
+      "status": {
+        "label": "READY · 19.1 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-26",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-26-crew-setup-before-shared-mission/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-26-crew-setup-before-shared-mission/crew-setup-before-shared-mission.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-26-crew-setup-before-shared-mission/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-26-crew-setup-before-shared-mission/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-race-three-five-ten-laps",
+      "section": "social",
+      "name": "Wyścig orbitalny pozwala wybrać 3, 5 albo 10 zielonych okrążeń",
+      "description": "5 Stories · 2 posty · copy · prawdziwe ekrany wyścigu orbitalnego na desktopie i telefonie.",
+      "status": {
+        "label": "READY · 27.9 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-25",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-25-race-three-five-ten-laps/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-25-race-three-five-ten-laps/race-three-five-ten-laps.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-25-race-three-five-ten-laps/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-25-race-three-five-ten-laps/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-one-moon-two-perspectives",
+      "section": "social",
+      "name": "Ta sama faza Księżyca jest na orbicie i w okularze",
+      "description": "5 Stories · 2 posty · copy · prawdziwe ekrany Moon Lab na desktopie i telefonie.",
+      "status": {
+        "label": "READY · 19.3 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-24",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-24-one-moon-two-perspectives/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-24-one-moon-two-perspectives/one-moon-two-perspectives.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-24-one-moon-two-perspectives/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-24-one-moon-two-perspectives/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-gravity-assist-clickable-stages",
+      "section": "social",
+      "name": "Proca grawitacyjna ma etapy, do których można wrócić",
+      "description": "5 Stories · 2 posty · copy · prawdziwe ekrany Apollo 13, Voyagera 2 i Galileo z wyborem etapu.",
       "status": {
         "label": "READY · 19 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-06-23",
       "links": [
         {
           "label": "Podgląd",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-human-voices-were-the-plan/preview.png",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-23-gravity-assist-clickable-stages/preview.png",
           "kind": "view"
         },
         {
           "label": "Pobierz ZIP",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-human-voices-were-the-plan/human-voices-were-the-plan.zip",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-23-gravity-assist-clickable-stages/gravity-assist-clickable-stages.zip",
           "kind": "download"
         },
         {
           "label": "Tekst posta",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-human-voices-were-the-plan/linkedin-facebook-post.md",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-23-gravity-assist-clickable-stages/linkedin-facebook-post.md",
           "kind": "view"
         },
         {
           "label": "Manifest paczki",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-15-human-voices-were-the-plan/manifest.json",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-23-gravity-assist-clickable-stages/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-one-earth-four-seasons",
+      "section": "social",
+      "name": "Jedna Ziemia zostaje na orbicie w kilku chwilach roku",
+      "description": "5 Stories · 2 posty · copy · prawdziwe ekrany sezonów na desktopie i telefonie.",
+      "status": {
+        "label": "READY · 20.7 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-22",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-22-one-earth-four-seasons/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-22-one-earth-four-seasons/one-earth-four-seasons.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-22-one-earth-four-seasons/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-22-one-earth-four-seasons/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-three-missions-one-gravity-assist",
+      "section": "social",
+      "name": "Jedna sekcja pokazuje trzy role asysty grawitacyjnej",
+      "description": "5 Stories · 2 posty · copy · prawdziwe ekrany Apollo 13, Voyagera 2 i Galileo.",
+      "status": {
+        "label": "READY · 18 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-21",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-21-three-missions-one-gravity-assist/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-21-three-missions-one-gravity-assist/three-missions-one-gravity-assist.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-21-three-missions-one-gravity-assist/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-21-three-missions-one-gravity-assist/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-neutral-share-summary",
+      "section": "social",
+      "name": "Udostępnianie pokazuje tylko neutralny ślad odkryć",
+      "description": "5 Stories · 2 posty · copy · prawdziwy panel dorosłych i dokładna treść neutralnego share.",
+      "status": {
+        "label": "READY · 16.2 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-19",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-19-neutral-share-summary/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-19-neutral-share-summary/neutral-share-summary.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-19-neutral-share-summary/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-19-neutral-share-summary/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-gravity-assist-step-by-step",
+      "section": "social",
+      "name": "Spokojniejsza rekonstrukcja Apollo 13 krok po kroku",
+      "description": "5 Stories · 2 posty · copy · prawdziwe etapy Apollo 13 i sterowanie krokami.",
+      "status": {
+        "label": "READY · 19.4 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-18",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-18-gravity-assist-step-by-step/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-18-gravity-assist-step-by-step/gravity-assist-step-by-step.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-18-gravity-assist-step-by-step/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-18-gravity-assist-step-by-step/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-rewatch-intro-from-home",
+      "section": "social",
+      "name": "Wstęp można obejrzeć jeszcze raz z mapy misji",
+      "description": "5 Stories · 2 posty · copy · prawdziwy ekran home z przyciskiem.",
+      "status": {
+        "label": "READY · 20.9 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-17",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-17-rewatch-intro-from-home/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-17-rewatch-intro-from-home/rewatch-intro-from-home.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-17-rewatch-intro-from-home/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-17-rewatch-intro-from-home/manifest.json",
           "kind": "view"
         }
       ]
@@ -2038,7 +2718,7 @@
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Zobacz zasady dostępu",
@@ -2050,14 +2730,14 @@
     {
       "id": "narration-summary",
       "section": "narration",
-      "name": "Piotr i Tomek: stan narracji",
-      "description": "121 kwestii: 17 Piotra i 104 Tomka. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 0/121; lokalny głos systemowy: 0/121. Techniczna biblioteka audio jest sprawdzana osobno.",
+      "name": "Iza i Piotr: stan narracji",
+      "description": "121 kwestii: 17 Izy i 104 Piotra. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 0/121; lokalny głos systemowy: 0/121. Techniczna biblioteka audio jest sprawdzana osobno.",
       "status": {
-        "label": "DRAFT / UNLOCKED",
-        "tone": "waiting"
+        "label": "LOCK",
+        "tone": "ready"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Zobacz stan narracji",
@@ -2072,11 +2752,11 @@
       "name": "Pipeline nagrań studyjnych",
       "description": "Dwa kompletne mastery są integrowane razem. Każdy zakodowany klip przechodzi kontrolę poziomu, czasu, balansu i SHA-256 oraz automatyczny rollback po błędzie.",
       "status": {
-        "label": "READY AFTER LOCK",
-        "tone": "review"
+        "label": "READY FOR RECORDING",
+        "tone": "ready"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Zobacz gotowość studia",
@@ -2091,11 +2771,11 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 6 BLOKAD",
+        "label": "WAITING · 2 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Zobacz stan wydania",
@@ -2119,7 +2799,7 @@
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-15",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Zobacz plan kadrów",

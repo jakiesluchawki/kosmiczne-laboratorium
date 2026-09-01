@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "access": "public-summary",
   "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/",
-  "updatedAt": "2026-06-15",
+  "updatedAt": "2026-09-01",
   "build": {
     "version": "1.0",
     "number": "1",
@@ -14,15 +14,15 @@
     "note": "Szczegółowe review, scenariusze, głosy i raporty QA pozostają poza publicznym buildem."
   },
   "narration": {
-    "status": "DRAFT / UNLOCKED",
-    "scriptLocked": false,
-    "interludesApproved": false,
+    "status": "LOCK",
+    "scriptLocked": true,
+    "interludesApproved": true,
     "cueCount": 121,
     "roles": {
       "piotr": 17,
       "tomek": 104
     },
-    "approvedSections": 0,
+    "approvedSections": 13,
     "totalSections": 13,
     "finalHumanCueCount": 121,
     "missingHumanCueCount": 0,
@@ -34,28 +34,12 @@
       "referencedClipCount": 121,
       "playableClipCount": 121
     },
-    "studioPipeline": "READY AFTER LOCK"
+    "studioPipeline": "READY FOR RECORDING"
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 6,
+    "blockerCount": 2,
     "blockers": [
-      {
-        "id": "metadata",
-        "label": "Metadane App Store czekają na zatwierdzony LOCK."
-      },
-      {
-        "id": "kids",
-        "label": "Decyzja Made for Kids pozostaje otwarta."
-      },
-      {
-        "id": "script",
-        "label": "Scenariusz dwóch narratorów nie ma jeszcze LOCK."
-      },
-      {
-        "id": "interludes",
-        "label": "Plansze wejściowe Piotra i przekazania Tomkowi czekają na akceptację."
-      },
       {
         "id": "technical",
         "label": "Techniczny preflight wydania wymaga odświeżenia."
@@ -65,8 +49,8 @@
         "label": "Ręczne QA na fizycznym iPhonie i iPadzie pozostaje otwarte."
       }
     ],
-    "metadataLocked": false,
-    "madeForKidsDecision": "pending",
+    "metadataLocked": true,
+    "madeForKidsDecision": "yes",
     "physicalQaComplete": false,
     "physicalQa": {
       "manualComplete": false,
@@ -94,7 +78,7 @@
     },
     "complianceAudit": {
       "status": "passed",
-      "auditedAt": "2026-06-15",
+      "auditedAt": "2026-09-01",
       "controlCount": 9,
       "passedControlCount": 9
     }

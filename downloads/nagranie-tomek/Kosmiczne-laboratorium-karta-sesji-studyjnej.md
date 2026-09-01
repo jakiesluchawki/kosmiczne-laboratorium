@@ -1,6 +1,6 @@
 # Kosmiczne Laboratorium: karta sesji studyjnej
 
-**Status:** DRAFT / UNLOCKED · d4e3485822e7e877 · NIE NAGRYWAĆ
+**Status:** LOCK · d4e3485822e7e877 · Mieszko Mahboob
 **Zakres:** 121 kwestii · Piotr 17 · Tomek 104
 **Szacowane czyste audio:** Piotr 3:25 · Tomek 15:31
 **Prywatne review:** dostępne u właściciela projektu; adres nie jest publikowany.
