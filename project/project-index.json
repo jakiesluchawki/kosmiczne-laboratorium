@@ -8,7 +8,7 @@
       "id": "application",
       "section": "application",
       "name": "Kosmiczne Laboratorium",
-      "description": "Aktualna publiczna aplikacja webowa po polsku. Wydanie z 14 czerwca przebudowuje Ziemię jako kierunkowo oświetloną malarską sferę oraz zachowuje prawdziwą okluzję statków w scenach grawitacyjnych.",
+      "description": "Aktualna publiczna aplikacja po polsku. Rzut i orbita mają nowy układ na cały ekran: duża scena, wygodne sterowanie, przewidywanie i zapis bez przewijania podczas zabawy. Dopasowany do pionu i poziomu telefonu oraz iPada. Malarska oprawa, fizyka i nagrania Izy i Piotra pozostają bez zmian.",
       "status": {
         "label": "LIVE",
         "tone": "live"
