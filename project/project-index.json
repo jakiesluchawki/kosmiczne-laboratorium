@@ -50,14 +50,14 @@
     {
       "id": "piotr-recording-pack",
       "section": "narration",
-      "name": "Pakiet na nagranie Piotra Makowskiego",
-      "description": "Samowystarczalny pakiet z responsywną stroną startową działającą po rozpakowaniu, pięciostronicowym PDF-em z linkami, scenariuszem 17 kwestii Piotra, kartą sesji, zgodą lektorską, stanem aplikacji i listą blokad. Bez prywatnych nagrań i danych urządzeń.",
+      "name": "Archiwalny pakiet nagraniowy: Piotr Makowski",
+      "description": "Materiały przygotowawcze z czerwca 2026: PDF z linkami, scenariusz, karta sesji, wzór zgody i ZIP. Zachowują ówczesny podział ról, a nie obecną obsadę. Aktualna aplikacja zawiera zatwierdzone nagrania Izy Szeli i Piotra Makowskiego; bieżący stan jest w podsumowaniu narracji.",
       "status": {
-        "label": "DRAFT · DO NOT RECORD",
-        "tone": "waiting"
+        "label": "ARCHIWUM PRZYGOTOWAŃ",
+        "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Otwórz stronę startową",
@@ -94,14 +94,14 @@
     {
       "id": "tomek-recording-pack",
       "section": "narration",
-      "name": "Pakiet przygotowawczy Tomka Millera",
-      "description": "Samowystarczalny pakiet z responsywną stroną startową działającą po rozpakowaniu, pięciostronicowym PDF-em z linkami, scenariuszem 104 kwestii Tomka, kartą sesji, wzorem zgody, stanem aplikacji i listą blokad. Termin nagrania pozostaje do ustalenia; pakiet nie zawiera prywatnych nagrań ani danych urządzeń.",
+      "name": "Archiwalny pakiet przygotowawczy: Tomek Miller",
+      "description": "Historyczny wariant przygotowań do nagrania, sprzed wyboru obecnej obsady Izy Szeli i Piotra Makowskiego. Scenariusz, PDF, karta sesji, wzór zgody i ZIP pozostają dostępne jako archiwum; nie są instrukcją nowej sesji ani opisem głosów w opublikowanej aplikacji.",
       "status": {
-        "label": "DRAFT · DO NOT RECORD",
-        "tone": "waiting"
+        "label": "ARCHIWUM PRZYGOTOWAŃ",
+        "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Otwórz stronę startową",
@@ -138,14 +138,14 @@
     {
       "id": "pre-recording-checkpoint",
       "section": "release",
-      "name": "Checkpoint RC przed nagraniem",
-      "description": "Kontrolowane zamknięcie etapu przed snem: stan aplikacji, rekomendacje, testy na jutro, blokady nagrania i bezpieczne linki projektu. Gotowe do testów webowych; finalne nagranie nadal wymaga LOCK.",
+      "name": "Archiwalny checkpoint przed nagraniem",
+      "description": "Raport z etapu przygotowań z 14 czerwca 2026, wraz z ówczesnymi rekomendacjami i linkami. To dokument historyczny, nie bieżąca lista blokad. Aktualne nagrania i bramki wydania opisują podsumowania narracji oraz App Store w tym indeksie.",
       "status": {
-        "label": "WEB RC · RECORDING NEEDS LOCK",
-        "tone": "waiting"
+        "label": "ARCHIWUM · CZERWIEC 2026",
+        "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-06-14",
+      "updatedAt": "2026-09-01",
       "links": [
         {
           "label": "Otwórz checkpoint",
@@ -2793,7 +2793,7 @@
       "id": "screenshots-summary",
       "section": "release",
       "name": "Materiały App Store",
-      "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
+      "description": "18/18 zapisanych kompozycji technicznych: po 9 dla iPhone'a i iPada. Po zmianach interfejsu wymagają odświeżenia. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
         "label": "PREVIEW STALE",
         "tone": "review"
