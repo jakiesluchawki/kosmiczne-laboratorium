@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T21:13:31.600Z",
+  "generatedAt": "2026-09-02T04:18:40.752Z",
   "source": {
-    "app": "ac39d55366b3dfab224c47d962102db6a4adcd783e94aca07b231d15512a2fbd",
+    "app": "516a658e1c0eded8dc1bdcd010a796faa3554b7777adac61eedc98bd69324b67",
     "styles": "dd6132e8cbf812f71ffd8863e6df5443d22a8bcf5e11f1a0a187fc6aee749158",
-    "applicationSource": "66fa3aed326b7ab7b05fb20bc24f98cdd4c952f6ef0fa0ab363084a4abc9d5a0",
-    "applicationSourceFileCount": 81,
+    "applicationSource": "5785d8e8f0a299f98e272d32f61ad3ba7a7db0bb2ac6ee0acece943445f4f19c",
+    "applicationSourceFileCount": 87,
     "visualAssets": "52c0f27ec3b3de8eaba240fbe531cd572928da79cdb1d908b77b37a0e2a22ff3",
     "visualAssetCount": 62
   }
