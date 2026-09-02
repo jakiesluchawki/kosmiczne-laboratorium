@@ -6,7 +6,7 @@
   "build": {
     "version": "1.0",
     "number": "1",
-    "nativePreflightCurrent": false
+    "nativePreflightCurrent": true
   },
   "review": {
     "access": "local-only",
@@ -38,12 +38,8 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 2,
+    "blockerCount": 1,
     "blockers": [
-      {
-        "id": "technical",
-        "label": "Techniczny preflight wydania wymaga odświeżenia."
-      },
       {
         "id": "devices",
         "label": "Ręczne QA na fizycznym iPhonie i iPadzie pozostaje otwarte."
