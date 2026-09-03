@@ -14,7 +14,7 @@
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "links": [
         {
           "label": "Otwórz aplikację",
@@ -27,13 +27,13 @@
       "id": "review-hub",
       "section": "application",
       "name": "Publiczny indeks projektu",
-      "description": "Bezpieczne publiczne wejście do aplikacji i wszystkich opublikowanych paczek z main oraz SM.",
+      "description": "Bezpieczne publiczne wejście do aplikacji i wszystkich opublikowanych paczek z main oraz SM. App Store: wersja 1.0 (1) oczekuje na recenzję; zaplanowano ręczne wydanie po akceptacji i domknięciu formalności Apple.",
       "status": {
         "label": "LIVE",
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "links": [
         {
           "label": "Otwórz indeks",
@@ -2718,7 +2718,7 @@
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "links": [
         {
           "label": "Zobacz zasady dostępu",
@@ -2737,7 +2737,7 @@
         "tone": "ready"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "links": [
         {
           "label": "Zobacz stan narracji",
@@ -2756,7 +2756,7 @@
         "tone": "ready"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "links": [
         {
           "label": "Zobacz gotowość studia",
@@ -2775,7 +2775,7 @@
         "tone": "waiting"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "links": [
         {
           "label": "Zobacz stan wydania",
@@ -2793,13 +2793,13 @@
       "id": "screenshots-summary",
       "section": "release",
       "name": "Materiały App Store",
-      "description": "18/18 zapisanych kompozycji technicznych: po 9 dla iPhone'a i iPada. Po zmianach interfejsu wymagają odświeżenia. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
+      "description": "18/18 zapisanych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "PREVIEW STALE",
+        "label": "CURRENT SIMULATOR PREVIEW",
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "links": [
         {
           "label": "Zobacz plan kadrów",

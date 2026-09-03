@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "access": "public-summary",
   "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/",
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "build": {
     "version": "1.0",
     "number": "1",
@@ -61,13 +61,13 @@
       }
     },
     "screenshotPlan": {
-      "status": "PREVIEW STALE",
-      "previewCurrent": false,
-      "captureEnvironment": "HEADLESS_WEB",
+      "status": "CURRENT SIMULATOR PREVIEW",
+      "previewCurrent": true,
+      "captureEnvironment": "IOS_SIMULATOR",
       "technicalReview": "TECHNICAL VISUAL REVIEW",
-      "reviewedAt": "2026-06-14",
+      "reviewedAt": "2026-09-03",
       "recordedCompositions": 18,
-      "screenshotSetHash": "def6b3612c97632d",
+      "screenshotSetHash": "39e32639c5a19889",
       "shotsPerDevice": 9,
       "deviceClasses": 2,
       "totalCompositions": 18
