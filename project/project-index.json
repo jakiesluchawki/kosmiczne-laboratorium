@@ -27,7 +27,7 @@
       "id": "review-hub",
       "section": "application",
       "name": "Publiczny indeks projektu",
-      "description": "Bezpieczne publiczne wejście do aplikacji i wszystkich opublikowanych paczek z main oraz SM. App Store: wersja 1.0 (1) oczekuje na recenzję; zaplanowano ręczne wydanie po akceptacji i domknięciu formalności Apple.",
+      "description": "Bezpieczne publiczne wejście do aplikacji i wszystkich opublikowanych paczek z main oraz SM. App Store: recenzja wersji 1.0 (1) wymaga dodatkowych informacji. Nie ma jeszcze publicznego wydania sklepowego; zachowano ręczną publikację po akceptacji i domknięciu formalności Apple.",
       "status": {
         "label": "LIVE",
         "tone": "live"
