@@ -1,0 +1,10 @@
+Zrobiłem Kosmiczne Laboratorium. Najłatwiej będzie mi je pokazać na jednej próbie.
+
+Wybieram stalowy spinacz i sprawdzam magnes. Przyciąga. Zmieniam spinacz na drewniany klocek: ten zostaje na miejscu. Przełączam na grawitację i oba przedmioty reagują. Dwa przedmioty, dwie siły, różne wyniki.
+
+Takich tematów jest sześć. Poza magnesami można zmienić masę Ziemi bez powiększania planety, porównać rzuty, poszukać orbity, wyłączyć przechył osi i sprawdzić fazy Księżyca. Przed próbą wybiera się przewidywanie, a po niej można zapisać wybrane wyjaśnienie w zeszycie.
+
+To aplikacja dla dzieci w wieku 5-9 lat. Możesz najpierw zajrzeć samodzielnie i zobaczyć, co da się w niej zrobić. Usłyszysz też Izę Szelę i Piotra Makowskiego, którzy prowadzą przez ten świat głosem.
+
+Zostawiam link do wersji w przeglądarce. Wybierz jedną próbę:
+https://jakiesluchawki.github.io/kosmiczne-laboratorium/

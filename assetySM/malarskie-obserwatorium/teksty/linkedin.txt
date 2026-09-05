@@ -1,0 +1,12 @@
+Przy Kosmicznym Laboratorium chciałem połączyć atrakcyjną oprawę z czytelnym działaniem. Łatwo zatrzymać się na ładnym obrazku, zwłaszcza kiedy na obrazku jest Saturn.
+
+Wybrałem malarski świat i połączyłem go z konkretnymi działaniami. Można przesunąć Księżyc i zobaczyć zmianę, wybrać przewidywanie przed eksperymentem, zatrzymać ruch albo zacząć próbę od nowa.
+
+Na tym poziomie zależało mi na prostych rzeczach: żeby było wiadomo, co można zrobić, żeby skutek działania był widoczny i żeby łatwo było spróbować ponownie.
+
+Narracja ma swoje role. Iza Szela wprowadza do obserwatorium, Piotr Makowski prowadzi przez eksperymenty i wyjaśnienia. Notatnik pozwala wrócić do zapisanych odkryć i wcześniejszych przewidywań.
+
+Chciałem, żeby oprawa, obsługa i opowieść działały razem. Dziesięć kart pokazuje te wybory, a samą aplikację można sprawdzić w przeglądarce:
+https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+
+Chętnie przeczytam konkretne uwagi: co było od razu zrozumiałe, a gdzie trzeba było szukać następnego kroku.

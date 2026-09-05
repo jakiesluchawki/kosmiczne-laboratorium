@@ -1,0 +1,8 @@
+Zrobiłem Kosmiczne Laboratorium. Można w nim wystrzelić piłkę, zmienić prędkość i przekonać się, że „jeszcze trochę szybciej” nie zawsze kończy się orbitą.
+
+Podoba mi się możliwość wspólnego sprawdzania. Można usiąść razem i mieć różne pomysły na to, co będzie dalej. Potem wystarczy próba. Albo druga, jeśli po pierwszej pytań jest więcej.
+
+Na tych dziesięciu kartach pokazuję jedną drogę przez laboratorium: od pierwszego przewidywania do odkrycia zapisanego w notatniku. Po drodze można się rozmyślić i spróbować inaczej. Piłkę da się wystrzelić jeszcze raz.
+
+Zostawiam wejście do wersji przeglądarkowej:
+https://jakiesluchawki.github.io/kosmiczne-laboratorium/

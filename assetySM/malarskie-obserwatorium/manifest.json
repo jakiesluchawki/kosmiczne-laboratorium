@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "id": "malarskie-obserwatorium",
+  "title": "Kosmos, któremu warto się przyjrzeć.",
+  "language": "pl",
+  "date": "2026-09-05",
+  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/assetySM/malarskie-obserwatorium/",
+  "appUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+  "assets": [
+    {
+      "file": "stories/01-warto-sie-przyjrzec.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "286d9067918dba0102164480ede7c5ff72f3c105ad6e691249196e57918cbf1f",
+      "bytes": 2032759,
+      "alt": "Malarski Saturn z pierścieniami nad księżycowym horyzontem. Ciepłe światło i umowna skala zapraszają do przyjrzenia się światu kampanii; to ilustracja, nie ekran aplikacji. Kosmos, któremu warto się przyjrzeć. Zrobiłem Kosmiczne Laboratorium, bo chciałem połączyć przyjemność oglądania kosmosu z możliwością sprawdzania, jak coś działa. Takie małe obserwatorium, w którym wolno ruszać rzeczy."
+    },
+    {
+      "file": "stories/02-zacznij-od-swiatla.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "e34896127416e5cadbc943e7f43fd0fe1747232aa2990f234578234a82d81a72",
+      "bytes": 2082441,
+      "alt": "Malarska Ziemia o zmierzchu, z jasną krawędzią i ciemniejszą częścią globu. Uproszczona ilustracja kieruje uwagę na światło, nie przedstawia mapy. Najpierw chciałem zaprosić do środka Wybrałem malarski świat: nocne niebo, planety i ciepłe światło obserwatorium. Zależało mi, żeby chciało się tu zajrzeć, zanim jeszcze będzie wiadomo, co nacisnąć."
+    },
+    {
+      "file": "stories/03-daj-detalom-chwile.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "8b67e3c01449c0ecde80e1481e014c32a34ffef2e105c6910482cb59593300c5",
+      "bytes": 2154735,
+      "alt": "Saturn ze złotymi pierścieniami na ciemnym tle indygo. Ziarnista, malarska faktura podkreśla detal i atmosferę, a nie pomiarową dokładność obrazu. Przy Saturnie można zostać na chwilę Ładny kosmos potrafi zatrzymać wzrok. Chciałem dać też powód, żeby zostać. W aplikacji można więc coś poruszyć, zmienić i zobaczyć skutek. Samo podziwianie Saturna zostawiłem jako opcję."
+    },
+    {
+      "file": "stories/04-obraz-i-pytanie.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "6b038e0896d0338fd8bd4e4569b4cf04029322622c141133d83176da221130aa",
+      "bytes": 1951312,
+      "alt": "Jasny Księżyc nad warstwami ciemnych wzgórz i sylwetkami sosen. Malarska nocna scena wprowadza pytanie o obserwowany wygląd Księżyca. Na przykład: poruszyć Księżyc W laboratorium faz można przesuwać Księżyc i obserwować, jak zmienia się jego oświetlona część widziana z Ziemi. Takiego połączenia obrazu z działaniem szukałem."
+    },
+    {
+      "file": "stories/05-patrzenie-i-proba.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "bca766eaac826f07264dd10648aa513a9182fac9830a751a71694096843253af",
+      "bytes": 2252662,
+      "alt": "Dwie niewielkie kulki, koralowa i miętowa, w zakrzywionej, malarskiej scenerii. Ilustracyjna metafora eksperymentu, nie model czasoprzestrzeni ani ekran aplikacji. Najpierw pomysł. Potem próba. Dodałem przewidywania, żeby przed próbą można było wybrać własny pomysł na wynik. Potem jest eksperyment i wyjaśnienie. Ciekawsze od samego trafienia jest zobaczenie, co się właściwie wydarzyło."
+    },
+    {
+      "file": "stories/06-ilustracja-i-model.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "b4441ac70f52d0202b4b72c628c081e3bb16274fa0c1b87f173aa60ca3888b34",
+      "bytes": 1878084,
+      "alt": "Malarski łuk kolejnych faz Księżyca nad górami. To artystyczne zestawienie różnych chwil, nie widok kilku księżyców jednocześnie ani ścisły schemat astronomiczny. Jeszcze raz też można Dodałem pauzę, reset i możliwość powrotu do eksperymentu. Zależało mi, żeby można było spokojnie sprawdzić swój pomysł jeszcze raz. Pierwsza próba nie musi być tą rozstrzygającą."
+    },
+    {
+      "file": "stories/07-ten-swiat-ma-glos.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "397bdf934a8c234db50c8115e533ee9986e290df2a83a822a7bf7bb79f8dd55f",
+      "bytes": 1980899,
+      "alt": "Kometa z rozmytym, malarskim warkoczem nad małym obserwatorium. Ilustracja towarzyszy informacji o głosach narracji; nie przedstawia narratorów. Ten świat ma też głosy Iza Szela wprowadza do obserwatorium, a Piotr Makowski prowadzi przez eksperymenty i wyjaśnienia. Chciałem, żeby opowieść miała swój rytm i zostawiała też miejsce na samodzielne sprawdzanie."
+    },
+    {
+      "file": "stories/08-miejsce-na-odkrycia.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "cb6cfc326ce6fb65e5d599418bebfb362fae44605d142746c4f2042d2bceb385",
+      "bytes": 2060568,
+      "alt": "Otwarty zeszyt z pustymi kartkami w malarskiej nocnej scenerii. Motyw przywołuje notatnik odkryć, lecz nie jest zrzutem ekranu ani zapisem czyichś odpowiedzi. Żeby było do czego wrócić Zapisane odkrycia trafiają do notatnika. Zostaje tam także wcześniejsze przewidywanie. Chciałem dać tym próbom własne miejsce, żeby po eksperymencie można było jeszcze raz im się przyjrzeć."
+    },
+    {
+      "file": "stories/09-sztuka-i-pytania.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "9927f5ae25dec833c8241f88330cb8da5acf45524cd7efeba6fc5527cff577f5",
+      "bytes": 2032561,
+      "alt": "Saturn z pierścieniami nad surowym księżycowym horyzontem. Malarska scena o umownej skali łączy kosmiczny temat z kolorem i światłem. Chciałem, żeby to działało razem Obraz zaprasza do środka. Prosta obsługa pozwala sprawdzić pomysł. Głosy pomagają przejść dalej. Na takim połączeniu mi zależało. Kosmos jest wystarczająco ciekawy, nie trzeba go poganiać."
+    },
+    {
+      "file": "stories/10-otworz-laboratorium.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "2145d95e39b261370003bd8bd803700ce8ac625acf9d3223ca83bf20b2effa91",
+      "bytes": 2192931,
+      "alt": "Małe, ciepło oświetlone obserwatorium nad jeziorem, pod malarskim nocnym niebem. Finał kampanii zaprasza dorosłych do otwarcia aplikacji w przeglądarce. Można już zajrzeć Kosmiczne Laboratorium można otworzyć w przeglądarce. Zajrzyj, wybierz eksperyment i zobacz, co Cię zatrzyma. Chętnie usłyszę, gdzie było jasno, a gdzie trzeba było się domyślać."
+    },
+    {
+      "file": "karuzela/01-warto-sie-przyjrzec.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "c654a373ce9f6aaea408999f9961fd36a4ebf9c43e234264c2e23137b6331bc4",
+      "bytes": 971576,
+      "alt": "Malarski Saturn z pierścieniami nad księżycowym horyzontem. Ciepłe światło i umowna skala zapraszają do przyjrzenia się światu kampanii; to ilustracja, nie ekran aplikacji. Kosmos, któremu warto się przyjrzeć. Zrobiłem Kosmiczne Laboratorium, bo chciałem połączyć przyjemność oglądania kosmosu z możliwością sprawdzania, jak coś działa. Takie małe obserwatorium, w którym wolno ruszać rzeczy."
+    },
+    {
+      "file": "karuzela/02-zacznij-od-swiatla.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "59541e0c17529852ebbe1e15c9714e380a872d905268f445d3fc127cb8f5f32c",
+      "bytes": 1026294,
+      "alt": "Malarska Ziemia o zmierzchu, z jasną krawędzią i ciemniejszą częścią globu. Uproszczona ilustracja kieruje uwagę na światło, nie przedstawia mapy. Najpierw chciałem zaprosić do środka Wybrałem malarski świat: nocne niebo, planety i ciepłe światło obserwatorium. Zależało mi, żeby chciało się tu zajrzeć, zanim jeszcze będzie wiadomo, co nacisnąć."
+    },
+    {
+      "file": "karuzela/03-daj-detalom-chwile.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "ad086e43b7c7f32b0f96fc1c5801204c96ceaae3ad0f7a2929850ebb0b88ca93",
+      "bytes": 1020257,
+      "alt": "Saturn ze złotymi pierścieniami na ciemnym tle indygo. Ziarnista, malarska faktura podkreśla detal i atmosferę, a nie pomiarową dokładność obrazu. Przy Saturnie można zostać na chwilę Ładny kosmos potrafi zatrzymać wzrok. Chciałem dać też powód, żeby zostać. W aplikacji można więc coś poruszyć, zmienić i zobaczyć skutek. Samo podziwianie Saturna zostawiłem jako opcję."
+    },
+    {
+      "file": "karuzela/04-obraz-i-pytanie.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "313af63ab6f899abee304b2055c7a3fc6b93d6981138987ec2a7008bc7f37eee",
+      "bytes": 904771,
+      "alt": "Jasny Księżyc nad warstwami ciemnych wzgórz i sylwetkami sosen. Malarska nocna scena wprowadza pytanie o obserwowany wygląd Księżyca. Na przykład: poruszyć Księżyc W laboratorium faz można przesuwać Księżyc i obserwować, jak zmienia się jego oświetlona część widziana z Ziemi. Takiego połączenia obrazu z działaniem szukałem."
+    },
+    {
+      "file": "karuzela/05-patrzenie-i-proba.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "6866064a6a825cd449b1e6a942216ba1ffd478224494a3655bce6221bb32d9b7",
+      "bytes": 1009600,
+      "alt": "Dwie niewielkie kulki, koralowa i miętowa, w zakrzywionej, malarskiej scenerii. Ilustracyjna metafora eksperymentu, nie model czasoprzestrzeni ani ekran aplikacji. Najpierw pomysł. Potem próba. Dodałem przewidywania, żeby przed próbą można było wybrać własny pomysł na wynik. Potem jest eksperyment i wyjaśnienie. Ciekawsze od samego trafienia jest zobaczenie, co się właściwie wydarzyło."
+    },
+    {
+      "file": "karuzela/06-ilustracja-i-model.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "97cbf9f2519bd49d3bbbbba79b6ee1f0628349c8aa5ba46a573f249463f43322",
+      "bytes": 912808,
+      "alt": "Malarski łuk kolejnych faz Księżyca nad górami. To artystyczne zestawienie różnych chwil, nie widok kilku księżyców jednocześnie ani ścisły schemat astronomiczny. Jeszcze raz też można Dodałem pauzę, reset i możliwość powrotu do eksperymentu. Zależało mi, żeby można było spokojnie sprawdzić swój pomysł jeszcze raz. Pierwsza próba nie musi być tą rozstrzygającą."
+    },
+    {
+      "file": "karuzela/07-ten-swiat-ma-glos.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "bc8b063488f480dca76d7b1dc5d5b13edca46dc0da1ea8d0025efca087af41f5",
+      "bytes": 985366,
+      "alt": "Kometa z rozmytym, malarskim warkoczem nad małym obserwatorium. Ilustracja towarzyszy informacji o głosach narracji; nie przedstawia narratorów. Ten świat ma też głosy Iza Szela wprowadza do obserwatorium, a Piotr Makowski prowadzi przez eksperymenty i wyjaśnienia. Chciałem, żeby opowieść miała swój rytm i zostawiała też miejsce na samodzielne sprawdzanie."
+    },
+    {
+      "file": "karuzela/08-miejsce-na-odkrycia.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "fdf2bfb987e53e609f4c83a5e781194c35ba871e62f71490ffc2950875873137",
+      "bytes": 981229,
+      "alt": "Otwarty zeszyt z pustymi kartkami w malarskiej nocnej scenerii. Motyw przywołuje notatnik odkryć, lecz nie jest zrzutem ekranu ani zapisem czyichś odpowiedzi. Żeby było do czego wrócić Zapisane odkrycia trafiają do notatnika. Zostaje tam także wcześniejsze przewidywanie. Chciałem dać tym próbom własne miejsce, żeby po eksperymencie można było jeszcze raz im się przyjrzeć."
+    },
+    {
+      "file": "karuzela/09-sztuka-i-pytania.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "9e323c91e1027f976d41645276610f9442b2a86cbbe148414b49f7cb42171503",
+      "bytes": 966031,
+      "alt": "Saturn z pierścieniami nad surowym księżycowym horyzontem. Malarska scena o umownej skali łączy kosmiczny temat z kolorem i światłem. Chciałem, żeby to działało razem Obraz zaprasza do środka. Prosta obsługa pozwala sprawdzić pomysł. Głosy pomagają przejść dalej. Na takim połączeniu mi zależało. Kosmos jest wystarczająco ciekawy, nie trzeba go poganiać."
+    },
+    {
+      "file": "karuzela/10-otworz-laboratorium.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "7cdc622a60ff799ea5519051f12969ae15dca8917237ec880e0bae2ce43a5682",
+      "bytes": 1019549,
+      "alt": "Małe, ciepło oświetlone obserwatorium nad jeziorem, pod malarskim nocnym niebem. Finał kampanii zaprasza dorosłych do otwarcia aplikacji w przeglądarce. Można już zajrzeć Kosmiczne Laboratorium można otworzyć w przeglądarce. Zajrzyj, wybierz eksperyment i zobacz, co Cię zatrzyma. Chętnie usłyszę, gdzie było jasno, a gdzie trzeba było się domyślać."
+    },
+    {
+      "file": "facebook/okladka.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "87e3ee5e77f0962dc3de442e02c3bd914d286cfa4be0d5a07ad692b863a5225d",
+      "bytes": 545794,
+      "alt": "Malarski Saturn z pierścieniami nad księżycowym horyzontem. Ciepłe światło i umowna skala zapraszają do przyjrzenia się światu kampanii; to ilustracja, nie ekran aplikacji. Kosmos, któremu warto się przyjrzeć. "
+    }
+  ],
+  "files": [
+    {
+      "file": "CZYTAJ-MNIE.txt",
+      "bytes": 800,
+      "sha256": "c0e0ba8741c7f1d6113d01e5394e6d7c2b31b205aab2943abdf228ba953c22e9"
+    },
+    {
+      "file": "PLAN-PUBLIKACJI.txt",
+      "bytes": 2094,
+      "sha256": "e9e0db3e1ef5a9014b710587abb220b53a5151795a69a520191cefbe097b764c"
+    },
+    {
+      "file": "TEKSTY-I-LINKI.txt",
+      "bytes": 9478,
+      "sha256": "951cf08b2b87b203e82c50e3689e8d3c91fc8f455c0c00de31bc0cc2c1e08179"
+    },
+    {
+      "file": "facebook/okladka.png",
+      "bytes": 545794,
+      "sha256": "87e3ee5e77f0962dc3de442e02c3bd914d286cfa4be0d5a07ad692b863a5225d"
+    },
+    {
+      "file": "index.html",
+      "bytes": 38827,
+      "sha256": "15b3648f5888efe82ea65ebb401d6f436ba845ff6e4dea936366d9dc7319016c"
+    },
+    {
+      "file": "karuzela/01-warto-sie-przyjrzec.png",
+      "bytes": 971576,
+      "sha256": "c654a373ce9f6aaea408999f9961fd36a4ebf9c43e234264c2e23137b6331bc4"
+    },
+    {
+      "file": "karuzela/02-zacznij-od-swiatla.png",
+      "bytes": 1026294,
+      "sha256": "59541e0c17529852ebbe1e15c9714e380a872d905268f445d3fc127cb8f5f32c"
+    },
+    {
+      "file": "karuzela/03-daj-detalom-chwile.png",
+      "bytes": 1020257,
+      "sha256": "ad086e43b7c7f32b0f96fc1c5801204c96ceaae3ad0f7a2929850ebb0b88ca93"
+    },
+    {
+      "file": "karuzela/04-obraz-i-pytanie.png",
+      "bytes": 904771,
+      "sha256": "313af63ab6f899abee304b2055c7a3fc6b93d6981138987ec2a7008bc7f37eee"
+    },
+    {
+      "file": "karuzela/05-patrzenie-i-proba.png",
+      "bytes": 1009600,
+      "sha256": "6866064a6a825cd449b1e6a942216ba1ffd478224494a3655bce6221bb32d9b7"
+    },
+    {
+      "file": "karuzela/06-ilustracja-i-model.png",
+      "bytes": 912808,
+      "sha256": "97cbf9f2519bd49d3bbbbba79b6ee1f0628349c8aa5ba46a573f249463f43322"
+    },
+    {
+      "file": "karuzela/07-ten-swiat-ma-glos.png",
+      "bytes": 985366,
+      "sha256": "bc8b063488f480dca76d7b1dc5d5b13edca46dc0da1ea8d0025efca087af41f5"
+    },
+    {
+      "file": "karuzela/08-miejsce-na-odkrycia.png",
+      "bytes": 981229,
+      "sha256": "fdf2bfb987e53e609f4c83a5e781194c35ba871e62f71490ffc2950875873137"
+    },
+    {
+      "file": "karuzela/09-sztuka-i-pytania.png",
+      "bytes": 966031,
+      "sha256": "9e323c91e1027f976d41645276610f9442b2a86cbbe148414b49f7cb42171503"
+    },
+    {
+      "file": "karuzela/10-otworz-laboratorium.png",
+      "bytes": 1019549,
+      "sha256": "7cdc622a60ff799ea5519051f12969ae15dca8917237ec880e0bae2ce43a5682"
+    },
+    {
+      "file": "linkedin/kosmiczne-malarskie-obserwatorium.pdf",
+      "bytes": 32181081,
+      "sha256": "4223f9e069587c2bab4190628e52422cfbb2929d1f1ae3b3d464e07a1d689f01"
+    },
+    {
+      "file": "previews/carousel-01-warto-sie-przyjrzec.jpg",
+      "bytes": 41129,
+      "sha256": "6cf225363b7cc91ed99e8c01f52d56ebf041acb01c7d4efe5fd57c01e5ebbc6e"
+    },
+    {
+      "file": "previews/carousel-02-zacznij-od-swiatla.jpg",
+      "bytes": 39268,
+      "sha256": "116b2840e1ad382e0879fc7df1e4148d59549f0f802de45752a67103402a331b"
+    },
+    {
+      "file": "previews/carousel-03-daj-detalom-chwile.jpg",
+      "bytes": 36951,
+      "sha256": "247e0a529bcb539a3cc33e035373fc5bd34555c5981fb0ebd22c92d77165c27b"
+    },
+    {
+      "file": "previews/carousel-04-obraz-i-pytanie.jpg",
+      "bytes": 34716,
+      "sha256": "eee8621a8df58ed2e225b40b66a7d27fdca459259152ecda0a79f5c59ae96a6f"
+    },
+    {
+      "file": "previews/carousel-05-patrzenie-i-proba.jpg",
+      "bytes": 39050,
+      "sha256": "3d59017c163f08b928a1b3c92977445a892966d13d05e823f6cf6d281d59d1f4"
+    },
+    {
+      "file": "previews/carousel-06-ilustracja-i-model.jpg",
+      "bytes": 32430,
+      "sha256": "c6196e5e8d2461183c280b1d68ebe6524af570c0bfd85bf72ef769cb2e1c1da8"
+    },
+    {
+      "file": "previews/carousel-07-ten-swiat-ma-glos.jpg",
+      "bytes": 36890,
+      "sha256": "81c8f941561ec58a4752b206e8ba3952875c81b3f94bbbf3f4bbfdca25a5210a"
+    },
+    {
+      "file": "previews/carousel-08-miejsce-na-odkrycia.jpg",
+      "bytes": 38930,
+      "sha256": "5eeb7e3753125994e192b60cfb15ddf9d58947386f4ac7c79036cc6c349c29fe"
+    },
+    {
+      "file": "previews/carousel-09-sztuka-i-pytania.jpg",
+      "bytes": 40648,
+      "sha256": "a046e0cd5e8119e9a10d70d1c85ab8475a9f1c54306059278aba06ae2632f50b"
+    },
+    {
+      "file": "previews/carousel-10-otworz-laboratorium.jpg",
+      "bytes": 38117,
+      "sha256": "1a5542fe05fdc2060545563dd34716a8cb52996839815edc3c11570cbfa0e3e0"
+    },
+    {
+      "file": "previews/story-01-warto-sie-przyjrzec.jpg",
+      "bytes": 66525,
+      "sha256": "babbe26437fe03444ff0ce87bef274a72e4fbfaa8b2a1ef002fe232c80882e72"
+    },
+    {
+      "file": "previews/story-02-zacznij-od-swiatla.jpg",
+      "bytes": 60779,
+      "sha256": "e3e9b22bed81a3742d2228665e20d6ff2ee762e4903946da1cecc686eb6dcd08"
+    },
+    {
+      "file": "previews/story-03-daj-detalom-chwile.jpg",
+      "bytes": 62335,
+      "sha256": "955b7086d4792fabe90b8d7c45d0e9b3090be1744b95211293b0e84e6ae67645"
+    },
+    {
+      "file": "previews/story-04-obraz-i-pytanie.jpg",
+      "bytes": 57016,
+      "sha256": "1d9aed5d983004164903ade8cc8db3fd0b2c6fb435af33278ed93674ce5f32e0"
+    },
+    {
+      "file": "previews/story-05-patrzenie-i-proba.jpg",
+      "bytes": 66427,
+      "sha256": "82a3aad020f79b2ed4394f9dbfb6ad52e15860b093da6e4dedd2ae0e6a0bacd8"
+    },
+    {
+      "file": "previews/story-06-ilustracja-i-model.jpg",
+      "bytes": 52222,
+      "sha256": "67f8becaf2b09773b64eaef43b01a11e358b509089fe97e924ecda1040cb1d63"
+    },
+    {
+      "file": "previews/story-07-ten-swiat-ma-glos.jpg",
+      "bytes": 53102,
+      "sha256": "c155884d0e0678cdeee2152282d0aa1d40c8222fff4396cd2529f2d66225e59f"
+    },
+    {
+      "file": "previews/story-08-miejsce-na-odkrycia.jpg",
+      "bytes": 63284,
+      "sha256": "cd7b6c7db75fb99b072855e5fb1a6fc926d1202fbd161aaeab4fb2a8825e2bc4"
+    },
+    {
+      "file": "previews/story-09-sztuka-i-pytania.jpg",
+      "bytes": 65777,
+      "sha256": "5b8a352c4c319e1e8f5c80a13bc5e5ad7fa028d58f9bd6bda15edab882b28253"
+    },
+    {
+      "file": "previews/story-10-otworz-laboratorium.jpg",
+      "bytes": 62612,
+      "sha256": "6bcca52f0d957a5c6eae6bbfc1d789f4349ed6dfa58846cb01da56908e0521d1"
+    },
+    {
+      "file": "stories/01-warto-sie-przyjrzec.png",
+      "bytes": 2032759,
+      "sha256": "286d9067918dba0102164480ede7c5ff72f3c105ad6e691249196e57918cbf1f"
+    },
+    {
+      "file": "stories/02-zacznij-od-swiatla.png",
+      "bytes": 2082441,
+      "sha256": "e34896127416e5cadbc943e7f43fd0fe1747232aa2990f234578234a82d81a72"
+    },
+    {
+      "file": "stories/03-daj-detalom-chwile.png",
+      "bytes": 2154735,
+      "sha256": "8b67e3c01449c0ecde80e1481e014c32a34ffef2e105c6910482cb59593300c5"
+    },
+    {
+      "file": "stories/04-obraz-i-pytanie.png",
+      "bytes": 1951312,
+      "sha256": "6b038e0896d0338fd8bd4e4569b4cf04029322622c141133d83176da221130aa"
+    },
+    {
+      "file": "stories/05-patrzenie-i-proba.png",
+      "bytes": 2252662,
+      "sha256": "bca766eaac826f07264dd10648aa513a9182fac9830a751a71694096843253af"
+    },
+    {
+      "file": "stories/06-ilustracja-i-model.png",
+      "bytes": 1878084,
+      "sha256": "b4441ac70f52d0202b4b72c628c081e3bb16274fa0c1b87f173aa60ca3888b34"
+    },
+    {
+      "file": "stories/07-ten-swiat-ma-glos.png",
+      "bytes": 1980899,
+      "sha256": "397bdf934a8c234db50c8115e533ee9986e290df2a83a822a7bf7bb79f8dd55f"
+    },
+    {
+      "file": "stories/08-miejsce-na-odkrycia.png",
+      "bytes": 2060568,
+      "sha256": "cb6cfc326ce6fb65e5d599418bebfb362fae44605d142746c4f2042d2bceb385"
+    },
+    {
+      "file": "stories/09-sztuka-i-pytania.png",
+      "bytes": 2032561,
+      "sha256": "9927f5ae25dec833c8241f88330cb8da5acf45524cd7efeba6fc5527cff577f5"
+    },
+    {
+      "file": "stories/10-otworz-laboratorium.png",
+      "bytes": 2192931,
+      "sha256": "2145d95e39b261370003bd8bd803700ce8ac625acf9d3223ca83bf20b2effa91"
+    },
+    {
+      "file": "teksty/facebook.txt",
+      "bytes": 721,
+      "sha256": "1325228866a9c0e0f995edbc55b7c9eb44668ee62451d51cf7f76ee56f83653a"
+    },
+    {
+      "file": "teksty/instagram.txt",
+      "bytes": 439,
+      "sha256": "33b03666b3d2bcd6aecc3917236e24879aad35e021c920f344a36e1ba1b0a96a"
+    },
+    {
+      "file": "teksty/linkedin.txt",
+      "bytes": 1099,
+      "sha256": "5ac8216ad41721cb725231cbb207d798da538704b1825d54dd6e80b165b5d57b"
+    }
+  ],
+  "art": [
+    {
+      "sourceFile": "16-observatory-comet-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e5bc4568cf59d6fba8ffe97248dc1d4f3c27dad4e98bd577e70897b12072cc4d",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "16-observatory-comet-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "4be86e75b06b1c754196197b716f6832a6a8ed208f40d52cf61f98c41f4692c1",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "02-earth-twilight-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3cd05fcbd68d02f81da72d5652d4ace5e7eabe8087757bdd010b046203822f4e",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "02-earth-twilight-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "e113ff4ad398fa7a40afa333f4a021667c9b28dc4be60c5593ed74ba88bf5754",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "15-curved-space-play-desktop.png",
+      "file": "assets/15-curved-space-play-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "156f0e4bf162be169a6b43f01876693e0425109a1804f83320036f116cd7e508",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "15-curved-space-play-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "f17ac6654ef26b753743e8cbb430168e19d28da890d4da02881fabe9b2a8a9f5",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "04-moon-pine-hills-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "870ae16243e744f37b9ac6d69f02ec00c503f6450060d74999381feba7b9cb6a",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "04-moon-pine-hills-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "2edfa5e3ce48bfbd3c053e8d39cebdd0fb6d9cc62cef1a329ef4a52ca67893a5",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "13-blank-star-notebook-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ad022ee6d3d4bf0fffcaf0b1f2384379b58663f5eae25aa8dc72d50c1a81bf33",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "13-blank-star-notebook-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "91fce83d318996fa57a855ba589edee975c3270898fd80b7904261126b41e507",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "20-cosmic-home-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7fea08d4a5be694110a1723e797415cb1875354284ccc9b9a1f3b47b0ed581d1",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "20-cosmic-home-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "25c3f132c1d39a5d32801c4e138cec869192a82aefab36c7c52e8be07bda03e9",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "14-lunar-arc-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e2a98fbd30837b2f876d4eada3ff8a4603e1615cd0c127c3e0eb12ee1ee911ee",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "14-lunar-arc-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "17b675dd87614037b78aa8eb0aed0c13adc7f5ab4278a1207aa8303e8691ec75",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "19-saturn-moonrise-desktop.png",
+      "file": "assets/19-saturn-moonrise-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "950759645d3df0e6fd933a05e4627ba20316514dfe8d9b1bb82f8a2e86ec99b5",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "19-saturn-moonrise-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "aae2f23ba26a641d7d6be9e3ee5d156cf24958ca859e238854adfefb0a5cb7aa",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "03-golden-saturn-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ad00daf713f69c229e422db99d4f59d42a206a1df3e2c028445ed32b2ef58bd6",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "03-golden-saturn-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "d6337031058e75e7034aa53a4f62ce40bfceafd57481cf706135b89168aecd8c",
+      "role": "promotional illustration; not an application screenshot"
+    }
+  ],
+  "sourcePolicy": "Original illustration bytes preserved. Typography rendered at target size. No source-image enlargement. Promotional illustrations, not screenshots. sourceFile identifies local source artwork; only file entries are published hero assets."
+}

@@ -1,0 +1,10 @@
+Przy Kosmicznym Laboratorium zależało mi na czymś konkretnym: żeby po pytaniu dało się od razu coś sprawdzić.
+
+Dlatego przy orbicie można wybrać przewidywanie, uruchomić rzut, zmienić prędkość i porównać tory. Wyjaśnienie przychodzi po próbie. Można je wybrać i zachować w notatniku, ale można też jeszcze raz wrócić do piłki.
+
+Chciałem zostawić miejsce na wspólną ciekawość. Przy tym samym ekranie mogą pojawić się dwa różne pomysły. Aplikacja nie musi rozstrzygać ich samym tekstem: można uruchomić eksperyment i zobaczyć, co się wydarzy.
+
+W załączonych dziesięciu kartach pokazuję właśnie ten fragment laboratorium. Bez opowiadania o wszystkich możliwościach naraz. Jedna piłka, kilka prób, potem magnesy i kolejne pytania.
+
+Zrobiłem tę aplikację i udostępniam ją tutaj w wersji przeglądarkowej. Jestem ciekaw, przy którym eksperymencie zostaniecie na dłużej:
+https://jakiesluchawki.github.io/kosmiczne-laboratorium/

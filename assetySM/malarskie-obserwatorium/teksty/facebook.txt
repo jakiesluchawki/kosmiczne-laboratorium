@@ -1,0 +1,10 @@
+Mam Wam do pokazania Kosmiczne Laboratorium.
+
+Zrobiłem je z myślą o dzieciach w wieku 5-9 lat. Chciałem połączyć malarski kosmos z możliwością samodzielnego sprawdzania różnych pomysłów. Można poruszyć Księżyc, obserwować ruch, wybrać przewidywanie przed próbą i zapisać odkrycie w notatniku.
+
+Zależało mi też na głosach, które pomogą wejść w ten świat. Iza Szela wprowadza do obserwatorium, a Piotr Makowski prowadzi przez eksperymenty i wyjaśnienia.
+
+Można już otworzyć aplikację w przeglądarce:
+https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+
+Zajrzyjcie. Dajcie znać, co Was zaciekawiło albo w którym miejscu coś było niejasne. Taka uwaga naprawdę mi się przyda.

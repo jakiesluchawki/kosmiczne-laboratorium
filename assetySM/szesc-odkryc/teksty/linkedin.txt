@@ -1,0 +1,10 @@
+Przy robieniu Kosmicznego Laboratorium trzeba było pilnować dwóch rzeczy: prostych działań i tego, co naprawdę z nich wynika.
+
+W eksperymencie z masą zmieniam masę Ziemi, ale planeta nie rośnie. Inaczej łatwo byłoby połączyć dwie różne wielkości. W module orbity porównuję trzy konkretne warunki startowe. Najszybsza piłka ucieka, a ta na orbicie nadal spada ku Ziemi i stale ją mija.
+
+Podobnie z porami roku: można przesunąć Ziemię po orbicie, porównać Polskę z Nową Zelandią, a potem wyłączyć przechył osi. Model pozwala obserwować jego wpływ na długość dnia i kąt światła. Nie przypisuje pór roku odległości od Słońca.
+
+Zrobiłem sześć takich odkryć dla dzieci w wieku 5-9 lat. Przewidywanie i wyjaśnienie wybiera się z gotowych odpowiedzi. Między nimi jest konkretna próba, a na końcu zapis w lokalnym zeszycie. Dla mnie to ważna część tej konstrukcji: po zmianie ustawienia jest co zaobserwować i do czego wrócić.
+
+W dziesięciu kartach pokazuję cały zakres. Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Zapraszam do sprawdzenia jednego eksperymentu w wersji przeglądarkowej:
+https://jakiesluchawki.github.io/kosmiczne-laboratorium/
