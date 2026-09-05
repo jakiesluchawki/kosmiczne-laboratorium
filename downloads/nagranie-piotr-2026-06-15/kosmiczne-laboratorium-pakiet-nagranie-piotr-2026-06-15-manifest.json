@@ -22,7 +22,7 @@
   "release": {
     "status": "WAITING",
     "blockerCount": 2,
-    "buildFingerprint": "63a22cd449407b7cc1294311e722e0f64b3d352aee8510f844c18c894ab14967"
+    "buildFingerprint": "335e83a732c76cbbf17685252f8a49c37c776f3c432dba81feed01ba7fefbdfb"
   },
   "privacy": {
     "containsPrivateAudio": false,
@@ -32,7 +32,7 @@
   },
   "generation": {
     "contractVersion": 1,
-    "inputHash": "4b594391313efbaeb8deeeed907a611dc2b661cb4c31285c8d1748909a6271ce"
+    "inputHash": "a1f28fcd4f0c563b2aad46d1594b495db13c384735f0ada90b1bc78fe07690ec"
   },
   "files": [
     {
@@ -40,23 +40,23 @@
       "label": "Zacznij tutaj · HTML",
       "bytes": 11125,
       "size": "10.9 KB",
-      "sha256": "5c1b87b447cc618d1ec002ab75f05f1363d1f89a01fc895aae4040480bcab21f",
+      "sha256": "7a17bf5bf9706959ee5a5faa6f2d103aee9b85774ef6aef0f598b6741fcac6d5",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/index.html"
     },
     {
       "name": "kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.pdf",
       "label": "Podsumowanie i linki · PDF",
-      "bytes": 483710,
-      "size": "472.4 KB",
-      "sha256": "d048dac993a910cbc206f9b39dbc1edb8a5088a5d714ab59ae4a326798e636d2",
+      "bytes": 483356,
+      "size": "472.0 KB",
+      "sha256": "9b43679ac047fd675e98ad8ab874b4e620db5f966a09e25aa115de0a46f90a4a",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.pdf"
     },
     {
       "name": "kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.docx",
       "label": "Podsumowanie i linki · DOCX",
-      "bytes": 6811,
+      "bytes": 6810,
       "size": "6.7 KB",
-      "sha256": "f35e7e24ce3d70e44d29d67fd6b27cacfb5f7449692bc7ae82ff61e421fae491",
+      "sha256": "568b49c0156049bea6d76c3aec8187f5a51c8c463ec6e0870e5d2d9e816381f4",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.docx"
     },
     {
@@ -64,7 +64,7 @@
       "label": "Scenariusz Piotra · PDF",
       "bytes": 231135,
       "size": "225.7 KB",
-      "sha256": "9ad03133e99049482565e515ac4657b0e2c26eb57124aeeacf8f8d5be2d76e99",
+      "sha256": "7b142c8d027d84e25880d6c13f658b160f33bdf664b4d2205474298baa5b47b8",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-scenariusz-Piotr-Makowski.pdf"
     },
     {
@@ -72,7 +72,7 @@
       "label": "Zgoda lektorska · PDF",
       "bytes": 119312,
       "size": "116.5 KB",
-      "sha256": "417665d490038ddba5c4fff8cc26bf5744f5d3dd8a52fd3097f2d4878b4bc876",
+      "sha256": "6f8cd88fc920a280073e8720a1b01c7f67d9b6741612fce7d552282a7fceb13b",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Zgoda-lektorska-Piotr-Makowski.pdf"
     },
     {
@@ -80,7 +80,7 @@
       "label": "Scenariusz Piotra · DOCX",
       "bytes": 8337,
       "size": "8.1 KB",
-      "sha256": "b346de84b7736fe6a07740bd3b67a520ea72f82d5effff090b153f8bfa8a8e9e",
+      "sha256": "fa27f78ce4475ef065b1440138a038a957bc4b7bd3f1200b8134fc3540ee901a",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-scenariusz-Piotr-Makowski.docx"
     },
     {
@@ -96,7 +96,7 @@
       "label": "Karta sesji · DOCX",
       "bytes": 6293,
       "size": "6.1 KB",
-      "sha256": "e94962969fa8c57a8507dab560dfe20f43a4ec03a622e555f7b7fb4415458b7d",
+      "sha256": "2cb86ffb6c92ff554f82d74292df29433a7dc1b5a55ea891f2f755b9b1d30b0b",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-karta-sesji-studyjnej.docx"
     },
     {
