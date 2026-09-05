@@ -20,7 +20,7 @@
         {
           "file": "SHA256SUMS.txt",
           "bytes": 4972,
-          "sha256": "07bf24a474a5031c524aedb90bc3aeb5553af2169273c677c91dd011008524c6"
+          "sha256": "7d0aa8ddc1dc1b159562ed2f0190a96eb4943c14e70bec56d6c3e03ecf8668bb"
         },
         {
           "file": "TEKSTY-I-LINKI.txt",
@@ -29,8 +29,8 @@
         },
         {
           "file": "facebook/okladka.png",
-          "bytes": 588040,
-          "sha256": "be709efec0a879e14cdcd51b7e3191aedf3000f90bbb661cd2bc80f5b6c87163"
+          "bytes": 609215,
+          "sha256": "62864f509df1dcc08ebe90afb4d68b37d2c4e8562415f46931330be3734e0038"
         },
         {
           "file": "index.html",
@@ -89,38 +89,38 @@
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-facebook.zip",
-          "bytes": 599142,
-          "sha256": "1f741128eecfc1cde0a5e97c152ff20c2ac06c5759480c5e1903f7cc412fe97e"
+          "bytes": 620296,
+          "sha256": "34e08489f759d8e8a5da7f69e9ce0c698e6399c89195de0c0fca3e6230f56f3f"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-instagram.zip",
-          "bytes": 9770981,
-          "sha256": "1a200deacbb8200b4098ed444ec1896d302185513f0445827c006c9dc3ea43bd"
+          "bytes": 9770983,
+          "sha256": "e03a0a0b642cd627c1c8c974e74d42cc7c1d1cd505471028185764c7a2b9bb13"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-komplet.zip",
-          "bytes": 66579792,
-          "sha256": "18eef319ef4fc7d7d6a95b207e147b503ed28e4f9294be3046333aeeaf451833"
+          "bytes": 66600946,
+          "sha256": "4653de439483e69cf020d86d51495cb81b7d759444316cd08c963e1625adda92"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-linkedin.zip",
-          "bytes": 35347216,
-          "sha256": "89e9cee5eeb1240aaf904b03eb25a2dee0f7c279ef765fbfded89618d6decb96"
+          "bytes": 35347218,
+          "sha256": "9a3444f0e5504f81bbe47e62ee2efd3aba8e09ab7ec8a10e6fa3d52532a30adb"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-stories.zip",
-          "bytes": 20905950,
-          "sha256": "c821832fc89060ce6967d411459e85b97e2967857f2c698f9b62e4c95b370cb4"
+          "bytes": 20905952,
+          "sha256": "05de7afe86e2a070152f7ceb0cc884a0855a160a419500e1d9e7d7cd47aca638"
         },
         {
           "file": "linkedin/kosmiczne-wspolne-odkrywanie.pdf",
           "bytes": 35387082,
-          "sha256": "35c9b3c11fe71552bebe7705652afef8397f45f4f10beeadc24d431d69625c48"
+          "sha256": "e44fc64f582ada9c21a19788442ae9e31d03f80efae9100835d4be532d648f53"
         },
         {
           "file": "manifest.json",
           "bytes": 26968,
-          "sha256": "d0840a3feca66b8ad960206254571a49452a901cdea0ef27065b5c61d43793c6"
+          "sha256": "f35be6a2ec4ea50f8a90ca7ff1ea2910b65d8a6002ee32e8fc227f08aed26459"
         },
         {
           "file": "previews/carousel-01-sprawdzmy-razem.jpg",
@@ -306,7 +306,7 @@
         {
           "file": "SHA256SUMS.txt",
           "bytes": 4626,
-          "sha256": "d8313b5b172229e102c31ea9ab8206e429956c614f798b28157b5b0ef00d69bb"
+          "sha256": "76a54ffe5d19b9ca435c66449d706657f91264ebc7409faff99b797726bc1757"
         },
         {
           "file": "TEKSTY-I-LINKI.txt",
@@ -375,38 +375,38 @@
         },
         {
           "file": "kosmiczne-szesc-odkryc-facebook.zip",
-          "bytes": 621115,
-          "sha256": "35f5f12138daca9cf259296adb5bfad90181baf75d811ee92b3ae8e0b584fcd0"
+          "bytes": 621114,
+          "sha256": "51a540cb0cba0d63e0f8a45119d2b1e1d9e79b1f9c734b2f174ae2ec6e0116b4"
         },
         {
           "file": "kosmiczne-szesc-odkryc-instagram.zip",
-          "bytes": 9902749,
-          "sha256": "13b223f7d640de948aaa94dc6b648dcc73b5a15e2b0a5a881811d0a65b882bfa"
+          "bytes": 9902748,
+          "sha256": "898751a5618c0963867178666adeda25b96d864a0cb021d394d877dc9775e0e2"
         },
         {
           "file": "kosmiczne-szesc-odkryc-komplet.zip",
-          "bytes": 63370795,
-          "sha256": "17863ec60f293c1d0a1ec0a65a4d3bc467d14186b5e2fd8051ff2854e7c4aa4f"
+          "bytes": 63370794,
+          "sha256": "e213c73bed0c1a8326861398b990b4497db6fe8d6767bfe329bce0b247b2350f"
         },
         {
           "file": "kosmiczne-szesc-odkryc-linkedin.zip",
-          "bytes": 31990402,
-          "sha256": "75c622f5c943489dfaffb316eccf6270399418fbb1653d580a95f5dd57a72bbb"
+          "bytes": 31990401,
+          "sha256": "f3d2658adc025c37a9c74836e29b76a7dfa61b1575fea0d02d05026ca8e25501"
         },
         {
           "file": "kosmiczne-szesc-odkryc-stories.zip",
-          "bytes": 20900359,
-          "sha256": "ec96ad66930b069f8d027c8f26520bfcc00fdec2275c5f70b7a82d774ba286c7"
+          "bytes": 20900358,
+          "sha256": "2a1bde2143e5eda08fac1107ce130a02452308dc751a44edddbe4c0576a36f8e"
         },
         {
           "file": "linkedin/kosmiczne-szesc-odkryc.pdf",
           "bytes": 32031974,
-          "sha256": "d589298eea624f002d6031e5c40e38a8862a7c9e81b1f8be0b7966a829d9367f"
+          "sha256": "89849102c7e6bc9300f258836d424122d4c257e55934d1d9ea1522f34425bfaa"
         },
         {
           "file": "manifest.json",
           "bytes": 26799,
-          "sha256": "a8e91ee40eb39c17f216efafd145aa660f509228746182889e9fae35f466441b"
+          "sha256": "c7b26b498b728218e1932de490634f4ab77b23947c430673d2a7347d338b186b"
         },
         {
           "file": "previews/carousel-01-szesc-odkryc.jpg",
@@ -592,7 +592,7 @@
         {
           "file": "SHA256SUMS.txt",
           "bytes": 4953,
-          "sha256": "fb7c22c30b9f85a391ee8042695179339a94916510bd68b46dfd53496c2eb3b9"
+          "sha256": "4b0d0b0b720b025365547d770b8b2784b87d5c908ce0dcde66a8bc13fdcedc32"
         },
         {
           "file": "TEKSTY-I-LINKI.txt",
@@ -661,38 +661,38 @@
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-facebook.zip",
-          "bytes": 556445,
-          "sha256": "34a29ad678291fea8717ed736249b3d503450434533a48ad5a0717697672235d"
+          "bytes": 556444,
+          "sha256": "c0af6c0607d32018f1a87f0abde3cad419047762123b5ba58678ae25e957d50c"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-instagram.zip",
-          "bytes": 9748140,
-          "sha256": "ec0b75ac85d14131cf4f3b5da94336d7cf93f3f8f071a280e268d397b7b5f060"
+          "bytes": 9748139,
+          "sha256": "b9f6f5364ac267c7fe54c03a7480300c59bd2bd6de9dc63cf28598391131c360"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-komplet.zip",
-          "bytes": 62984712,
-          "sha256": "742aedc18e98a5d67e4a89b6b13b5d19b2cee5296fd48b2e6c01fabb51c94f8d"
+          "bytes": 62984711,
+          "sha256": "b53c8e559d60e4494529b77727d1e81368dee17bbb9363cc097ab275ad913a6d"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-linkedin.zip",
-          "bytes": 32141349,
-          "sha256": "16095b4e26ca89f00b95fc9d55558f9b66e1cb7fa55a8d2fd52b1f22ab72809c"
+          "bytes": 32141348,
+          "sha256": "c3020b92220f48e565f5a1a474caac54cfb51724a843bbb76c4e4ec8561fcb5c"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-stories.zip",
-          "bytes": 20580643,
-          "sha256": "d6f9964f56bd7447f295e65a5e4d19dc8e0c6c2ba1ebaa5a6cde5abe7531b64c"
+          "bytes": 20580642,
+          "sha256": "315a43b481c70d7e5a9ec0412012f752c812aa0e65fa36928e343a0ab57c9616"
         },
         {
           "file": "linkedin/kosmiczne-malarskie-obserwatorium.pdf",
           "bytes": 32181081,
-          "sha256": "4223f9e069587c2bab4190628e52422cfbb2929d1f1ae3b3d464e07a1d689f01"
+          "sha256": "ca2f40c80bc8e00a8ecb6aecd6e7e378cdbfed88345d23913fe7ae249722c1b3"
         },
         {
           "file": "manifest.json",
           "bytes": 26630,
-          "sha256": "04215f6d562ec76ba395625526298fd3111cceec57a0f3c5f68aa8d3c3e0155f"
+          "sha256": "70dd43c53861b1cff21d6e078ca230ce137cd95ed5cf6a2368820a8b4acad885"
         },
         {
           "file": "previews/carousel-01-warto-sie-przyjrzec.jpg",

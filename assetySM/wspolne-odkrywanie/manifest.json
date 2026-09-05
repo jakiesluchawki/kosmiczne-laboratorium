@@ -171,8 +171,8 @@
       "file": "facebook/okladka.png",
       "width": 1200,
       "height": 630,
-      "sha256": "be709efec0a879e14cdcd51b7e3191aedf3000f90bbb661cd2bc80f5b6c87163",
-      "bytes": 588040,
+      "sha256": "62864f509df1dcc08ebe90afb4d68b37d2c4e8562415f46931330be3734e0038",
+      "bytes": 609215,
       "alt": "Malarskie obserwatorium z ciepłym światłem w oknie pod Drogą Mleczną. Nocna ilustracja otwiera zaproszenie do wspólnego odkrywania. A co, jeśli sprawdzimy to razem? "
     }
   ],
@@ -194,8 +194,8 @@
     },
     {
       "file": "facebook/okladka.png",
-      "bytes": 588040,
-      "sha256": "be709efec0a879e14cdcd51b7e3191aedf3000f90bbb661cd2bc80f5b6c87163"
+      "bytes": 609215,
+      "sha256": "62864f509df1dcc08ebe90afb4d68b37d2c4e8562415f46931330be3734e0038"
     },
     {
       "file": "index.html",
@@ -255,7 +255,7 @@
     {
       "file": "linkedin/kosmiczne-wspolne-odkrywanie.pdf",
       "bytes": 35387082,
-      "sha256": "35c9b3c11fe71552bebe7705652afef8397f45f4f10beeadc24d431d69625c48"
+      "sha256": "e44fc64f582ada9c21a19788442ae9e31d03f80efae9100835d4be532d648f53"
     },
     {
       "file": "previews/carousel-01-sprawdzmy-razem.jpg",
