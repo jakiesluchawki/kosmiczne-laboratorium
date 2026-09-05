@@ -14,7 +14,7 @@
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-05",
       "links": [
         {
           "label": "Otwórz aplikację",
@@ -33,7 +33,7 @@
         "tone": "live"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-05",
       "links": [
         {
           "label": "Otwórz indeks",
@@ -2718,7 +2718,7 @@
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-05",
       "links": [
         {
           "label": "Zobacz zasady dostępu",
@@ -2737,7 +2737,7 @@
         "tone": "ready"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-05",
       "links": [
         {
           "label": "Zobacz stan narracji",
@@ -2756,7 +2756,7 @@
         "tone": "ready"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-05",
       "links": [
         {
           "label": "Zobacz gotowość studia",
@@ -2771,11 +2771,11 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 1 BLOKAD",
+        "label": "WAITING · 2 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-05",
       "links": [
         {
           "label": "Zobacz stan wydania",
@@ -2793,13 +2793,13 @@
       "id": "screenshots-summary",
       "section": "release",
       "name": "Materiały App Store",
-      "description": "18/18 zapisanych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
+      "description": "18/18 zapisanych kompozycji technicznych: po 9 dla iPhone'a i iPada. Po zmianach interfejsu wymagają odświeżenia. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT SIMULATOR PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-05",
       "links": [
         {
           "label": "Zobacz plan kadrów",

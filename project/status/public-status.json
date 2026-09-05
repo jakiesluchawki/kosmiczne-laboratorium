@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "access": "public-summary",
   "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/",
-  "updatedAt": "2026-09-03",
+  "updatedAt": "2026-09-05",
   "build": {
     "version": "1.0",
     "number": "1",
-    "nativePreflightCurrent": true
+    "nativePreflightCurrent": false
   },
   "review": {
     "access": "local-only",
@@ -38,8 +38,12 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 1,
+    "blockerCount": 2,
     "blockers": [
+      {
+        "id": "technical",
+        "label": "Techniczny preflight wydania wymaga odświeżenia."
+      },
       {
         "id": "devices",
         "label": "Ręczne QA na fizycznym iPhonie i iPadzie pozostaje otwarte."
@@ -61,8 +65,8 @@
       }
     },
     "screenshotPlan": {
-      "status": "CURRENT SIMULATOR PREVIEW",
-      "previewCurrent": true,
+      "status": "PREVIEW STALE",
+      "previewCurrent": false,
       "captureEnvironment": "IOS_SIMULATOR",
       "technicalReview": "TECHNICAL VISUAL REVIEW",
       "reviewedAt": "2026-09-03",
@@ -74,7 +78,7 @@
     },
     "complianceAudit": {
       "status": "passed",
-      "auditedAt": "2026-09-02",
+      "auditedAt": "2026-09-05",
       "controlCount": 9,
       "passedControlCount": 9
     }
