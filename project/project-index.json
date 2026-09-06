@@ -2731,7 +2731,7 @@
       "id": "narration-summary",
       "section": "narration",
       "name": "Iza i Piotr: stan narracji",
-      "description": "121 kwestii: 17 Izy i 104 Piotra. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 2/121; lokalny głos systemowy: 0/121. Techniczna biblioteka audio jest sprawdzana osobno.",
+      "description": "121 kwestii: 17 Izy i 104 Piotra. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 0/121; lokalny głos systemowy: 0/121. Techniczna biblioteka audio jest sprawdzana osobno.",
       "status": {
         "label": "LOCK",
         "tone": "ready"
@@ -2771,7 +2771,7 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 3 BLOKAD",
+        "label": "WAITING · 1 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",

@@ -6,7 +6,7 @@
   "build": {
     "version": "1.0",
     "number": "1",
-    "nativePreflightCurrent": false
+    "nativePreflightCurrent": true
   },
   "review": {
     "access": "local-only",
@@ -24,9 +24,9 @@
     },
     "approvedSections": 13,
     "totalSections": 13,
-    "finalHumanCueCount": 119,
-    "missingHumanCueCount": 2,
-    "temporaryFallbackCueCount": 2,
+    "finalHumanCueCount": 121,
+    "missingHumanCueCount": 0,
+    "temporaryFallbackCueCount": 0,
     "systemFallbackCueCount": 0,
     "playbackVerifiedCueCount": 121,
     "playbackCoverageComplete": true,
@@ -38,16 +38,8 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 3,
+    "blockerCount": 1,
     "blockers": [
-      {
-        "id": "narration",
-        "label": "Finalne nagrania Izy i Piotra wymagają aktualnej walidacji."
-      },
-      {
-        "id": "technical",
-        "label": "Techniczny preflight wydania wymaga odświeżenia."
-      },
       {
         "id": "devices",
         "label": "Ręczne QA na fizycznym iPhonie i iPadzie pozostaje otwarte."
