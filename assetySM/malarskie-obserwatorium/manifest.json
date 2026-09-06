@@ -201,8 +201,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 44307,
-      "sha256": "f1ecd6961f41352fec108f8b9ad9af21b1e9619f44458974ea48a5373d47edab"
+      "bytes": 44471,
+      "sha256": "d45c5dc57749f0dc5e7671f06d49c8f75b074a2152497d590660f6fc90127fff"
     },
     {
       "file": "karuzela/01-warto-sie-przyjrzec.png",
@@ -257,7 +257,7 @@
     {
       "file": "linkedin/kosmiczne-malarskie-obserwatorium.pdf",
       "bytes": 32194890,
-      "sha256": "d9d0e271fd23e77443d978c9f5b7e4583224a38866e49492484bbb7850a6372a"
+      "sha256": "a6b0061f8a4a0797d5c31742b309a6529d3bb333dc48b69c2c88f069bc147067"
     },
     {
       "file": "previews/carousel-01-warto-sie-przyjrzec.jpg",
@@ -427,20 +427,6 @@
   ],
   "art": [
     {
-      "sourceFile": "16-observatory-comet-desktop.png",
-      "width": 1672,
-      "height": 941,
-      "sha256": "e5bc4568cf59d6fba8ffe97248dc1d4f3c27dad4e98bd577e70897b12072cc4d",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
-      "sourceFile": "16-observatory-comet-phone.png",
-      "width": 941,
-      "height": 1672,
-      "sha256": "4be86e75b06b1c754196197b716f6832a6a8ed208f40d52cf61f98c41f4692c1",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
       "sourceFile": "02-earth-twilight-desktop.png",
       "width": 1672,
       "height": 941,
@@ -470,17 +456,17 @@
       "role": "promotional illustration; not an application screenshot"
     },
     {
-      "sourceFile": "04-moon-pine-hills-desktop.png",
+      "sourceFile": "14-lunar-arc-desktop.png",
       "width": 1672,
       "height": 941,
-      "sha256": "870ae16243e744f37b9ac6d69f02ec00c503f6450060d74999381feba7b9cb6a",
+      "sha256": "e2a98fbd30837b2f876d4eada3ff8a4603e1615cd0c127c3e0eb12ee1ee911ee",
       "role": "promotional illustration; not an application screenshot"
     },
     {
-      "sourceFile": "04-moon-pine-hills-phone.png",
+      "sourceFile": "14-lunar-arc-phone.png",
       "width": 941,
       "height": 1672,
-      "sha256": "2edfa5e3ce48bfbd3c053e8d39cebdd0fb6d9cc62cef1a329ef4a52ca67893a5",
+      "sha256": "17b675dd87614037b78aa8eb0aed0c13adc7f5ab4278a1207aa8303e8691ec75",
       "role": "promotional illustration; not an application screenshot"
     },
     {
@@ -498,6 +484,20 @@
       "role": "promotional illustration; not an application screenshot"
     },
     {
+      "sourceFile": "04-moon-pine-hills-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "870ae16243e744f37b9ac6d69f02ec00c503f6450060d74999381feba7b9cb6a",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "04-moon-pine-hills-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "2edfa5e3ce48bfbd3c053e8d39cebdd0fb6d9cc62cef1a329ef4a52ca67893a5",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
       "sourceFile": "20-cosmic-home-desktop.png",
       "width": 1672,
       "height": 941,
@@ -509,20 +509,6 @@
       "width": 941,
       "height": 1672,
       "sha256": "25c3f132c1d39a5d32801c4e138cec869192a82aefab36c7c52e8be07bda03e9",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
-      "sourceFile": "14-lunar-arc-desktop.png",
-      "width": 1672,
-      "height": 941,
-      "sha256": "e2a98fbd30837b2f876d4eada3ff8a4603e1615cd0c127c3e0eb12ee1ee911ee",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
-      "sourceFile": "14-lunar-arc-phone.png",
-      "width": 941,
-      "height": 1672,
-      "sha256": "17b675dd87614037b78aa8eb0aed0c13adc7f5ab4278a1207aa8303e8691ec75",
       "role": "promotional illustration; not an application screenshot"
     },
     {
@@ -538,6 +524,20 @@
       "width": 941,
       "height": 1672,
       "sha256": "aae2f23ba26a641d7d6be9e3ee5d156cf24958ca859e238854adfefb0a5cb7aa",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "16-observatory-comet-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e5bc4568cf59d6fba8ffe97248dc1d4f3c27dad4e98bd577e70897b12072cc4d",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "16-observatory-comet-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "4be86e75b06b1c754196197b716f6832a6a8ed208f40d52cf61f98c41f4692c1",
       "role": "promotional illustration; not an application screenshot"
     },
     {

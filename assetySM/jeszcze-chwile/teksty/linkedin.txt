@@ -1,0 +1,15 @@
+Najbardziej interesuje mnie moment między „wydaje mi się” a „sprawdzę”.
+
+W Kosmicznym Laboratorium próbuję zrobić dla niego miejsce. Zanim uruchomisz eksperyment, wybierasz przewidywanie. Potem możesz zmienić masę, nadać piłce prędkość albo przesunąć Księżyc. Widzisz skutek i wracasz do swojego pomysłu.
+
+To prosta kolejność. Znacznie mniej proste jest zrobienie jej tak, żeby duże ilustracje nie przeszkadzały w obsłudze, a opowieść nie wyprzedzała tego, co dzieje się na ekranie. Przy tej aplikacji sporo uwagi poświęcam właśnie takim szczegółom.
+
+Za głosy odpowiadają Iza Szela i Piotr Makowski. Sześć odkryć obejmuje masę, lot, orbitę, magnesy, pory roku i fazy Księżyca. Bez kont, reklam i analityki; postęp jest lokalny.
+
+Na początek wystarczy jedno pytanie.
+
+App Store, iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+Wersja WWW:
+https://jakiesluchawki.github.io/kosmiczne-laboratorium/

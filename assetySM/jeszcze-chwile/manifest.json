@@ -1,0 +1,574 @@
+{
+  "schemaVersion": 1,
+  "id": "jeszcze-chwile",
+  "title": "Jeszcze chwilę pod gwiazdami",
+  "language": "pl",
+  "date": "2026-09-06",
+  "updatedAt": "2026-09-06",
+  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/assetySM/jeszcze-chwile/",
+  "appUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+  "appStoreUrl": "https://apps.apple.com/pl/app/id6808138806",
+  "assets": [
+    {
+      "file": "stories/01-chwila.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "eaeb3a305b3b46c3dcbc89fbbbb9deb0cc7397ea5fa49f8fe9f957400eac7f42",
+      "bytes": 2179414,
+      "alt": "Malarskie obserwatorium pod rozległym nocnym niebem. Ilustracja otwiera spokojną opowieść o poznawaniu kosmosu. Jeszcze chwilę pod gwiazdami Kosmiczne Laboratorium ma sześć odkryć, ale dziś wystarczy jedno. Można wejść, poruszyć planetą i zobaczyć, co się zmieni. Reszta kosmosu nigdzie nie ucieknie."
+    },
+    {
+      "file": "stories/02-pytanie.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "b94784401a8e7a8086d076d019a1c70224d6cdd8aa001c7b8922a5513261cf04",
+      "bytes": 2088140,
+      "alt": "Malarska Ziemia na granicy światła i nocy. Promocyjna ilustracja do pytań o masę i ruch. Od czego zacząć? Od „a gdyby”. A gdyby Ziemia była cięższa? A gdyby piłka poleciała szybciej? W tej aplikacji można najpierw coś obstawić, a dopiero potem sprawdzić. Pomyłka nie zamyka żadnych drzwi."
+    },
+    {
+      "file": "stories/03-rzut.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "5987b6471b39e43c61251cca5d707b6d30f195bae909ac2a7346b07f2ad76112",
+      "bytes": 2250222,
+      "alt": "Malarska kompozycja zakrzywionej przestrzeni. To ilustracja promocyjna, nie wykres trajektorii. Piłka nie musi lecieć prosto Wystarczy zmienić kierunek albo szybkość rzutu, żeby zobaczyć inną drogę. Grawitacja działa przez cały lot. Lubię ten moment, gdy jedno przesunięcie daje od razu coś do porównania."
+    },
+    {
+      "file": "stories/04-orbita.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "5eb91810d9378c0951b642483db3b7ad32d90b35255759713c12a670d76752c0",
+      "bytes": 2058248,
+      "alt": "Świetlista, malarska przestrzeń wokół planety. Ilustracja towarzyszy wyjaśnieniu ruchu orbitalnego. A jeśli ciągle spada i nie trafia? Z odpowiednią prędkością w bok obiekt może stale spadać ku Ziemi, a jednak mijać jej powierzchnię. Tak można zacząć rozmowę o orbicie. Od piłki, nie od wielkiego wzoru."
+    },
+    {
+      "file": "stories/05-ksiezyc.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "9b5f6f0c7e3f6b8028894f77a5d6fc7701ef28debb560fb201eca11c0cec58a4",
+      "bytes": 1875336,
+      "alt": "Malarski motyw łuku księżycowego nad nocnym krajobrazem. Nie zastępuje diagramu oświetlenia w aplikacji. Ten sam Księżyc. Inny widok. Słońce oświetla połowę Księżyca. Z Ziemi widzimy różną część tej jasnej połowy. Przesuń go po orbicie i porównaj widok. Czasem łatwiej coś zrozumieć, kiedy można to ruszyć."
+    },
+    {
+      "file": "stories/06-podroz.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "0d7db19ab7b6bb8c221406dc0e694e6a2033f52687fef8527f54900c039e8da7",
+      "bytes": 2096332,
+      "alt": "Mała sonda w głębokim, malarskim kosmosie. Ilustracja zaprasza do opowieści o prawdziwych misjach. Jeszcze trochę dalej W pracowni czekają też Apollo 13, Voyager 2 i Galileo. Można przyjrzeć się etapowi podróży albo wrócić do całej trasy. Bliski przelot nabiera sensu, kiedy wiadomo, dokąd prowadzi."
+    },
+    {
+      "file": "stories/07-glosy.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "3f810dea597b3e15129d4a3c526d640d4c9ae55836c32e5e2b4f518f02a8df93",
+      "bytes": 2058725,
+      "alt": "Otwarty notes i gwiaździsty świat obserwatorium. Promocyjna ilustracja do informacji o głosach Izy Szeli i Piotra Makowskiego. Ten kosmos ma dwa głosy Iza Szela wprowadza w świat obserwatorium, a Piotr Makowski opowiada o eksperymentach i fizyce. Lubię, że obok obrazu jest też spokojna opowieść, której można po prostu posłuchać."
+    },
+    {
+      "file": "stories/08-notatka.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "d49bdef35b89186accc6fcb89ed9e50cf11953bbc3af3a3ab0511a0cdedc9784",
+      "bytes": 1915919,
+      "alt": "Księżyc nad ciemnymi wzgórzami. Spokojna malarska plansza o obserwacji i zapisywaniu odkryć. Nie trzeba zapamiętać wszystkiego Po próbie można wrócić do swojego przewidywania i zapisać odkrycie w zeszycie. Bez oceny za pierwszą odpowiedź. Ważniejsze jest to, co zauważysz po drodze."
+    },
+    {
+      "file": "stories/09-bez-pospiechu.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "1d16ef1f8b66e49e9378653b5839c8875b93190882f572de34c8e22af5d42bc1",
+      "bytes": 2153892,
+      "alt": "Małe, ciepło oświetlone obserwatorium nad wodą, pod rozległym niebem. Ilustracja o spokojnym powrocie do aplikacji. Można skończyć na jednym pytaniu Nie ma konta, reklam ani tabeli wyników. Opcjonalne nazwy i postęp zostają na urządzeniu. Można dziś sprawdzić jeden pomysł, a do następnego wrócić innym razem."
+    },
+    {
+      "file": "stories/10-zaproszenie.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "f69425b55f47aab639af854e6b32076d94e5e0b3bd04251d99c7371684194d0f",
+      "bytes": 2030229,
+      "alt": "Malarski Saturn nad nocnym krajobrazem. Finał zaprasza do aplikacji, bez obietnic efektów edukacyjnych. Zostawiam otwarte drzwi Zrobiłem małe miejsce do próbowania rzeczy, które na co dzień są za daleko, za duże albo niewidzialne. Kosmiczne Laboratorium znajdziesz w App Store i w przeglądarce. Zajrzyj, co Cię zaciekawi."
+    },
+    {
+      "file": "karuzela/01-chwila.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "d2cb2fffd0498354ade2a6189f1f008692f3e6e325491e3019c3181cfffe1fbd",
+      "bytes": 980900,
+      "alt": "Malarskie obserwatorium pod rozległym nocnym niebem. Ilustracja otwiera spokojną opowieść o poznawaniu kosmosu. Jeszcze chwilę pod gwiazdami Kosmiczne Laboratorium ma sześć odkryć, ale dziś wystarczy jedno. Można wejść, poruszyć planetą i zobaczyć, co się zmieni. Reszta kosmosu nigdzie nie ucieknie."
+    },
+    {
+      "file": "karuzela/02-pytanie.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "78872ee451f41d9b76a4940c5bf06d061bb3e8f70ddbc05dea7797f744a08150",
+      "bytes": 1025989,
+      "alt": "Malarska Ziemia na granicy światła i nocy. Promocyjna ilustracja do pytań o masę i ruch. Od czego zacząć? Od „a gdyby”. A gdyby Ziemia była cięższa? A gdyby piłka poleciała szybciej? W tej aplikacji można najpierw coś obstawić, a dopiero potem sprawdzić. Pomyłka nie zamyka żadnych drzwi."
+    },
+    {
+      "file": "karuzela/03-rzut.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "6091843d95f4b5abeb04fd0f6f759cdf89808ba8d930f90f56c5e271f20238e7",
+      "bytes": 1001766,
+      "alt": "Malarska kompozycja zakrzywionej przestrzeni. To ilustracja promocyjna, nie wykres trajektorii. Piłka nie musi lecieć prosto Wystarczy zmienić kierunek albo szybkość rzutu, żeby zobaczyć inną drogę. Grawitacja działa przez cały lot. Lubię ten moment, gdy jedno przesunięcie daje od razu coś do porównania."
+    },
+    {
+      "file": "karuzela/04-orbita.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "e3f902ec9f2194153ab766a280fd8208df80f8dbe12bbde7b7624d1e47198215",
+      "bytes": 992032,
+      "alt": "Świetlista, malarska przestrzeń wokół planety. Ilustracja towarzyszy wyjaśnieniu ruchu orbitalnego. A jeśli ciągle spada i nie trafia? Z odpowiednią prędkością w bok obiekt może stale spadać ku Ziemi, a jednak mijać jej powierzchnię. Tak można zacząć rozmowę o orbicie. Od piłki, nie od wielkiego wzoru."
+    },
+    {
+      "file": "karuzela/05-ksiezyc.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "75d06bab7c0c2a827c8cf0d10e3d5ae104058671a352af800a766b63a3b85761",
+      "bytes": 918349,
+      "alt": "Malarski motyw łuku księżycowego nad nocnym krajobrazem. Nie zastępuje diagramu oświetlenia w aplikacji. Ten sam Księżyc. Inny widok. Słońce oświetla połowę Księżyca. Z Ziemi widzimy różną część tej jasnej połowy. Przesuń go po orbicie i porównaj widok. Czasem łatwiej coś zrozumieć, kiedy można to ruszyć."
+    },
+    {
+      "file": "karuzela/06-podroz.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "dd9ae0d9336855c8fefe11033c28aa6fc16cd8df25af313b7a7a8431e9cea7bd",
+      "bytes": 981041,
+      "alt": "Mała sonda w głębokim, malarskim kosmosie. Ilustracja zaprasza do opowieści o prawdziwych misjach. Jeszcze trochę dalej W pracowni czekają też Apollo 13, Voyager 2 i Galileo. Można przyjrzeć się etapowi podróży albo wrócić do całej trasy. Bliski przelot nabiera sensu, kiedy wiadomo, dokąd prowadzi."
+    },
+    {
+      "file": "karuzela/07-glosy.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "3899d394c66e4a65b08e2de4a3060fe29c941187ab9f60932d491017a4ebe3be",
+      "bytes": 974961,
+      "alt": "Otwarty notes i gwiaździsty świat obserwatorium. Promocyjna ilustracja do informacji o głosach Izy Szeli i Piotra Makowskiego. Ten kosmos ma dwa głosy Iza Szela wprowadza w świat obserwatorium, a Piotr Makowski opowiada o eksperymentach i fizyce. Lubię, że obok obrazu jest też spokojna opowieść, której można po prostu posłuchać."
+    },
+    {
+      "file": "karuzela/08-notatka.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "b3f04ebc0ddd533cfdfdcdef91a97d935fc0aa9aa10bd05c5cd85ce016be4dc5",
+      "bytes": 907263,
+      "alt": "Księżyc nad ciemnymi wzgórzami. Spokojna malarska plansza o obserwacji i zapisywaniu odkryć. Nie trzeba zapamiętać wszystkiego Po próbie można wrócić do swojego przewidywania i zapisać odkrycie w zeszycie. Bez oceny za pierwszą odpowiedź. Ważniejsze jest to, co zauważysz po drodze."
+    },
+    {
+      "file": "karuzela/09-bez-pospiechu.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "cd8e3d05b8eb4b911e8be9d5e804b2e30ea7999542efdb08123025aeadf234e8",
+      "bytes": 1027435,
+      "alt": "Małe, ciepło oświetlone obserwatorium nad wodą, pod rozległym niebem. Ilustracja o spokojnym powrocie do aplikacji. Można skończyć na jednym pytaniu Nie ma konta, reklam ani tabeli wyników. Opcjonalne nazwy i postęp zostają na urządzeniu. Można dziś sprawdzić jeden pomysł, a do następnego wrócić innym razem."
+    },
+    {
+      "file": "karuzela/10-zaproszenie.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "b990c42e67e53fd304adbe015408bdff7b7944ce5751dc970796d541ac2630a2",
+      "bytes": 960589,
+      "alt": "Malarski Saturn nad nocnym krajobrazem. Finał zaprasza do aplikacji, bez obietnic efektów edukacyjnych. Zostawiam otwarte drzwi Zrobiłem małe miejsce do próbowania rzeczy, które na co dzień są za daleko, za duże albo niewidzialne. Kosmiczne Laboratorium znajdziesz w App Store i w przeglądarce. Zajrzyj, co Cię zaciekawi."
+    },
+    {
+      "file": "facebook/okladka.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "54698a727069071d7a4152f3d45d1e3b2f7202f48219eff8d56a4ee029af1c93",
+      "bytes": 604573,
+      "alt": "Malarskie obserwatorium pod rozległym nocnym niebem. Ilustracja otwiera spokojną opowieść o poznawaniu kosmosu. Jeszcze chwilę pod gwiazdami "
+    }
+  ],
+  "files": [
+    {
+      "file": "CZYTAJ-MNIE.txt",
+      "bytes": 862,
+      "sha256": "f3474999fc1762a4786941a6efdbdcd655a2e685ac6dd9e373f26e7320d970c5"
+    },
+    {
+      "file": "PLAN-PUBLIKACJI.txt",
+      "bytes": 1599,
+      "sha256": "e8957bd79c9de6ebd5e91abbf1952f0b907231c67b39e98c7b81b93db42b7a47"
+    },
+    {
+      "file": "TEKSTY-I-LINKI.txt",
+      "bytes": 10366,
+      "sha256": "9f1b1ee7aac74d20c77268f551cd7244ebff1b1c46082170d6bb32676d32a120"
+    },
+    {
+      "file": "facebook/okladka.png",
+      "bytes": 604573,
+      "sha256": "54698a727069071d7a4152f3d45d1e3b2f7202f48219eff8d56a4ee029af1c93"
+    },
+    {
+      "file": "index.html",
+      "bytes": 39225,
+      "sha256": "e640d78b7edd35e02830d5013bd0ff43339a2be8ce46d9f5d93110efc393d142"
+    },
+    {
+      "file": "karuzela/01-chwila.png",
+      "bytes": 980900,
+      "sha256": "d2cb2fffd0498354ade2a6189f1f008692f3e6e325491e3019c3181cfffe1fbd"
+    },
+    {
+      "file": "karuzela/02-pytanie.png",
+      "bytes": 1025989,
+      "sha256": "78872ee451f41d9b76a4940c5bf06d061bb3e8f70ddbc05dea7797f744a08150"
+    },
+    {
+      "file": "karuzela/03-rzut.png",
+      "bytes": 1001766,
+      "sha256": "6091843d95f4b5abeb04fd0f6f759cdf89808ba8d930f90f56c5e271f20238e7"
+    },
+    {
+      "file": "karuzela/04-orbita.png",
+      "bytes": 992032,
+      "sha256": "e3f902ec9f2194153ab766a280fd8208df80f8dbe12bbde7b7624d1e47198215"
+    },
+    {
+      "file": "karuzela/05-ksiezyc.png",
+      "bytes": 918349,
+      "sha256": "75d06bab7c0c2a827c8cf0d10e3d5ae104058671a352af800a766b63a3b85761"
+    },
+    {
+      "file": "karuzela/06-podroz.png",
+      "bytes": 981041,
+      "sha256": "dd9ae0d9336855c8fefe11033c28aa6fc16cd8df25af313b7a7a8431e9cea7bd"
+    },
+    {
+      "file": "karuzela/07-glosy.png",
+      "bytes": 974961,
+      "sha256": "3899d394c66e4a65b08e2de4a3060fe29c941187ab9f60932d491017a4ebe3be"
+    },
+    {
+      "file": "karuzela/08-notatka.png",
+      "bytes": 907263,
+      "sha256": "b3f04ebc0ddd533cfdfdcdef91a97d935fc0aa9aa10bd05c5cd85ce016be4dc5"
+    },
+    {
+      "file": "karuzela/09-bez-pospiechu.png",
+      "bytes": 1027435,
+      "sha256": "cd8e3d05b8eb4b911e8be9d5e804b2e30ea7999542efdb08123025aeadf234e8"
+    },
+    {
+      "file": "karuzela/10-zaproszenie.png",
+      "bytes": 960589,
+      "sha256": "b990c42e67e53fd304adbe015408bdff7b7944ce5751dc970796d541ac2630a2"
+    },
+    {
+      "file": "linkedin/kosmiczne-jeszcze-chwile.pdf",
+      "bytes": 34944852,
+      "sha256": "7030e5664f0e98cf5a3c00d077efcf3c771cf205fc86b03ef0032696233f4444"
+    },
+    {
+      "file": "previews/carousel-01-chwila.jpg",
+      "bytes": 35997,
+      "sha256": "88ef5c500853b51081c44c3338b004f389b08c54ee30875eb3dbed9727738420"
+    },
+    {
+      "file": "previews/carousel-02-pytanie.jpg",
+      "bytes": 40692,
+      "sha256": "3f386b8f8ed86c3b35f346323c869d23a678db58bad6ff5c49d725f4cec39efb"
+    },
+    {
+      "file": "previews/carousel-03-rzut.jpg",
+      "bytes": 38843,
+      "sha256": "94a58b17833236282daea7aae42617b918bdbe3e442f2aa0c7b06b5931d11495"
+    },
+    {
+      "file": "previews/carousel-04-orbita.jpg",
+      "bytes": 37790,
+      "sha256": "b4978c3c8cbdb1d12b388de1f3004ac25368eac12b56dc7f307ac3ecbb2d2164"
+    },
+    {
+      "file": "previews/carousel-05-ksiezyc.jpg",
+      "bytes": 34743,
+      "sha256": "5604142fd5475ec6137c948bbee2e0db1fd7035d6ae821e5be40b3422a27795b"
+    },
+    {
+      "file": "previews/carousel-06-podroz.jpg",
+      "bytes": 33917,
+      "sha256": "a6dab4fd556f1be63b49b5165ed23872888ebcd0f48b28b99960117668074089"
+    },
+    {
+      "file": "previews/carousel-07-glosy.jpg",
+      "bytes": 39896,
+      "sha256": "3b3d49b805f431d9f929617d33d9463cb08144fe021260e54185d030f165574f"
+    },
+    {
+      "file": "previews/carousel-08-notatka.jpg",
+      "bytes": 36760,
+      "sha256": "8f44ff89d991eced5d02e19653d53c2c00dae5909b3f23adb76a305578561011"
+    },
+    {
+      "file": "previews/carousel-09-bez-pospiechu.jpg",
+      "bytes": 42084,
+      "sha256": "3cd4d1bef249e2acc04ee81d4d7f3324cc9be42e753a26dfc0c7b2e5541e3540"
+    },
+    {
+      "file": "previews/carousel-10-zaproszenie.jpg",
+      "bytes": 41727,
+      "sha256": "4d189bd8863959f84da561e3e1957ac6a66af1ed4cee836226db54c634e4d6f7"
+    },
+    {
+      "file": "previews/story-01-chwila.jpg",
+      "bytes": 60961,
+      "sha256": "a043084c8c08c77ab954185fc32cfb6b3ae2b59c5ee7f5b3f518d4e00dce1098"
+    },
+    {
+      "file": "previews/story-02-pytanie.jpg",
+      "bytes": 60624,
+      "sha256": "4d0f6c7114f7c1162cb85308ce1ec9cadc54fe18f78e43301926991e5c5954c7"
+    },
+    {
+      "file": "previews/story-03-rzut.jpg",
+      "bytes": 65324,
+      "sha256": "13d846b9dc5892c32e2c089de60075bf9c8cc442a9f7d66af68c3b94724f3a61"
+    },
+    {
+      "file": "previews/story-04-orbita.jpg",
+      "bytes": 61339,
+      "sha256": "bf370fbe19d2946c6a874cff21cec77f48d2e440737d34ae22c724182e36b8c2"
+    },
+    {
+      "file": "previews/story-05-ksiezyc.jpg",
+      "bytes": 54485,
+      "sha256": "26ef8891bb2a813c2b6e1987ceb22f343f91c75599d69289dd0026912c6ce46a"
+    },
+    {
+      "file": "previews/story-06-podroz.jpg",
+      "bytes": 54890,
+      "sha256": "a8be7219857f3d2f7c8b5e031b86d89026b283e6091862dd57e6a395bb825af7"
+    },
+    {
+      "file": "previews/story-07-glosy.jpg",
+      "bytes": 63746,
+      "sha256": "845536356b124434efc87d3c314508a2e2cdb4132ddb57973d0b1d3aca2c697b"
+    },
+    {
+      "file": "previews/story-08-notatka.jpg",
+      "bytes": 56604,
+      "sha256": "f4bca87456d2c6547167a24bf1493178a6041aac1607c7cd9b18463bfb5d22f0"
+    },
+    {
+      "file": "previews/story-09-bez-pospiechu.jpg",
+      "bytes": 63961,
+      "sha256": "2d23f66e5be944dfea0c02e79fb922b5db74b61999fa7e776ac2382fa72c0d90"
+    },
+    {
+      "file": "previews/story-10-zaproszenie.jpg",
+      "bytes": 64811,
+      "sha256": "aaa4a9ea4005e14fa7ebdb7380f88fd10537d0d2b711794169f731d6cdda98bc"
+    },
+    {
+      "file": "stories/01-chwila.png",
+      "bytes": 2179414,
+      "sha256": "eaeb3a305b3b46c3dcbc89fbbbb9deb0cc7397ea5fa49f8fe9f957400eac7f42"
+    },
+    {
+      "file": "stories/02-pytanie.png",
+      "bytes": 2088140,
+      "sha256": "b94784401a8e7a8086d076d019a1c70224d6cdd8aa001c7b8922a5513261cf04"
+    },
+    {
+      "file": "stories/03-rzut.png",
+      "bytes": 2250222,
+      "sha256": "5987b6471b39e43c61251cca5d707b6d30f195bae909ac2a7346b07f2ad76112"
+    },
+    {
+      "file": "stories/04-orbita.png",
+      "bytes": 2058248,
+      "sha256": "5eb91810d9378c0951b642483db3b7ad32d90b35255759713c12a670d76752c0"
+    },
+    {
+      "file": "stories/05-ksiezyc.png",
+      "bytes": 1875336,
+      "sha256": "9b5f6f0c7e3f6b8028894f77a5d6fc7701ef28debb560fb201eca11c0cec58a4"
+    },
+    {
+      "file": "stories/06-podroz.png",
+      "bytes": 2096332,
+      "sha256": "0d7db19ab7b6bb8c221406dc0e694e6a2033f52687fef8527f54900c039e8da7"
+    },
+    {
+      "file": "stories/07-glosy.png",
+      "bytes": 2058725,
+      "sha256": "3f810dea597b3e15129d4a3c526d640d4c9ae55836c32e5e2b4f518f02a8df93"
+    },
+    {
+      "file": "stories/08-notatka.png",
+      "bytes": 1915919,
+      "sha256": "d49bdef35b89186accc6fcb89ed9e50cf11953bbc3af3a3ab0511a0cdedc9784"
+    },
+    {
+      "file": "stories/09-bez-pospiechu.png",
+      "bytes": 2153892,
+      "sha256": "1d16ef1f8b66e49e9378653b5839c8875b93190882f572de34c8e22af5d42bc1"
+    },
+    {
+      "file": "stories/10-zaproszenie.png",
+      "bytes": 2030229,
+      "sha256": "f69425b55f47aab639af854e6b32076d94e5e0b3bd04251d99c7371684194d0f"
+    },
+    {
+      "file": "teksty/facebook.txt",
+      "bytes": 844,
+      "sha256": "53bfa5e28be01ea94177446ebd9c7f9785f1f6c2f17aa7421e07b64cbb0ed984"
+    },
+    {
+      "file": "teksty/instagram.txt",
+      "bytes": 766,
+      "sha256": "17e5cd6eb7389cf2a524af49b2e578231a5abd959e4cbebd1d496f03e09a3055"
+    },
+    {
+      "file": "teksty/linkedin.txt",
+      "bytes": 960,
+      "sha256": "de0efa5babf16628ebd7b434aab2dc86c8d4b4caf8815a15cfe4b4f6605e4633"
+    }
+  ],
+  "art": [
+    {
+      "sourceFile": "01-observatory-milky-way-desktop.png",
+      "file": "assets/01-observatory-milky-way-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8d3605762dbac53ee58912a2bed61e1054132e38d93ac458d49ea309041eb445",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "01-observatory-milky-way-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "1c4c50aeaa8d768dc4eb9bff04e4bf015cc02928a4d783e080cbbe8dd63547a6",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "02-earth-twilight-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3cd05fcbd68d02f81da72d5652d4ace5e7eabe8087757bdd010b046203822f4e",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "02-earth-twilight-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "e113ff4ad398fa7a40afa333f4a021667c9b28dc4be60c5593ed74ba88bf5754",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "15-curved-space-play-desktop.png",
+      "file": "assets/15-curved-space-play-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "156f0e4bf162be169a6b43f01876693e0425109a1804f83320036f116cd7e508",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "15-curved-space-play-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "f17ac6654ef26b753743e8cbb430168e19d28da890d4da02881fabe9b2a8a9f5",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "05-luminous-gravity-well-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bf7db13f22ff72d56bfdb1660641901348a4cc5bd8584db9123bce05e83e3e1e",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "05-luminous-gravity-well-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "f209cafd1a18bbe5da50893bfaaee28ee77a87ce681d4fbafbe641614c64ee47",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "14-lunar-arc-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e2a98fbd30837b2f876d4eada3ff8a4603e1615cd0c127c3e0eb12ee1ee911ee",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "14-lunar-arc-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "17b675dd87614037b78aa8eb0aed0c13adc7f5ab4278a1207aa8303e8691ec75",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "07-voyager-deep-space-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b4d91646c65c0fddb810fbcb5d227fc140fa4856cfefe180d3a2abe94b7a1dca",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "07-voyager-deep-space-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "7b1d6d2352c09536a6556242e81e1684e680a9575f61efc38dc2272a6e351ee6",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "13-blank-star-notebook-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ad022ee6d3d4bf0fffcaf0b1f2384379b58663f5eae25aa8dc72d50c1a81bf33",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "13-blank-star-notebook-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "91fce83d318996fa57a855ba589edee975c3270898fd80b7904261126b41e507",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "04-moon-pine-hills-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "870ae16243e744f37b9ac6d69f02ec00c503f6450060d74999381feba7b9cb6a",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "04-moon-pine-hills-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "2edfa5e3ce48bfbd3c053e8d39cebdd0fb6d9cc62cef1a329ef4a52ca67893a5",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "20-cosmic-home-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7fea08d4a5be694110a1723e797415cb1875354284ccc9b9a1f3b47b0ed581d1",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "20-cosmic-home-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "25c3f132c1d39a5d32801c4e138cec869192a82aefab36c7c52e8be07bda03e9",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "19-saturn-moonrise-desktop.png",
+      "file": "assets/19-saturn-moonrise-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "950759645d3df0e6fd933a05e4627ba20316514dfe8d9b1bb82f8a2e86ec99b5",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "19-saturn-moonrise-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "aae2f23ba26a641d7d6be9e3ee5d156cf24958ca859e238854adfefb0a5cb7aa",
+      "role": "promotional illustration; not an application screenshot"
+    }
+  ],
+  "sourcePolicy": "Original illustration bytes preserved. Typography rendered at target size. No source-image enlargement. Promotional illustrations, not screenshots. sourceFile identifies local source artwork; only file entries are published hero assets."
+}

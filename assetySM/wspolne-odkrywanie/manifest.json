@@ -201,8 +201,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 44249,
-      "sha256": "3864d926756014b5d4a79cdaa65eb7c6d05472f38b6ecebc7b8ac25663cf0990"
+      "bytes": 44413,
+      "sha256": "112c9599fdfd0a51bd26fd3e5efc2945c260024295dbad7e1e0c26d1e14a1d34"
     },
     {
       "file": "karuzela/01-sprawdzmy-razem.png",
@@ -257,7 +257,7 @@
     {
       "file": "linkedin/kosmiczne-wspolne-odkrywanie.pdf",
       "bytes": 35400190,
-      "sha256": "6789d3eaa8a25f203f8d680448bbda8c53f7856f3f824cb733eee6365012a0c2"
+      "sha256": "5e6cb62d4b1697e54f4e026ae93d79a012bd7bb5bf37657125e4924dce41a7df"
     },
     {
       "file": "previews/carousel-01-sprawdzmy-razem.jpg",
@@ -442,20 +442,6 @@
       "role": "promotional illustration; not an application screenshot"
     },
     {
-      "sourceFile": "16-observatory-comet-desktop.png",
-      "width": 1672,
-      "height": 941,
-      "sha256": "e5bc4568cf59d6fba8ffe97248dc1d4f3c27dad4e98bd577e70897b12072cc4d",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
-      "sourceFile": "16-observatory-comet-phone.png",
-      "width": 941,
-      "height": 1672,
-      "sha256": "4be86e75b06b1c754196197b716f6832a6a8ed208f40d52cf61f98c41f4692c1",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
       "sourceFile": "02-earth-twilight-desktop.png",
       "width": 1672,
       "height": 941,
@@ -499,6 +485,20 @@
       "role": "promotional illustration; not an application screenshot"
     },
     {
+      "sourceFile": "13-blank-star-notebook-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ad022ee6d3d4bf0fffcaf0b1f2384379b58663f5eae25aa8dc72d50c1a81bf33",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "13-blank-star-notebook-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "91fce83d318996fa57a855ba589edee975c3270898fd80b7904261126b41e507",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
       "sourceFile": "04-moon-pine-hills-desktop.png",
       "width": 1672,
       "height": 941,
@@ -513,17 +513,31 @@
       "role": "promotional illustration; not an application screenshot"
     },
     {
-      "sourceFile": "13-blank-star-notebook-desktop.png",
+      "sourceFile": "20-cosmic-home-desktop.png",
       "width": 1672,
       "height": 941,
-      "sha256": "ad022ee6d3d4bf0fffcaf0b1f2384379b58663f5eae25aa8dc72d50c1a81bf33",
+      "sha256": "7fea08d4a5be694110a1723e797415cb1875354284ccc9b9a1f3b47b0ed581d1",
       "role": "promotional illustration; not an application screenshot"
     },
     {
-      "sourceFile": "13-blank-star-notebook-phone.png",
+      "sourceFile": "20-cosmic-home-phone.png",
       "width": 941,
       "height": 1672,
-      "sha256": "91fce83d318996fa57a855ba589edee975c3270898fd80b7904261126b41e507",
+      "sha256": "25c3f132c1d39a5d32801c4e138cec869192a82aefab36c7c52e8be07bda03e9",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "16-observatory-comet-desktop.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e5bc4568cf59d6fba8ffe97248dc1d4f3c27dad4e98bd577e70897b12072cc4d",
+      "role": "promotional illustration; not an application screenshot"
+    },
+    {
+      "sourceFile": "16-observatory-comet-phone.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "4be86e75b06b1c754196197b716f6832a6a8ed208f40d52cf61f98c41f4692c1",
       "role": "promotional illustration; not an application screenshot"
     },
     {
@@ -552,20 +566,6 @@
       "width": 941,
       "height": 1672,
       "sha256": "72e05f8bc80eeaab7a33926a15f978893a601ebedfba9625ac5852a766363e41",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
-      "sourceFile": "20-cosmic-home-desktop.png",
-      "width": 1672,
-      "height": 941,
-      "sha256": "7fea08d4a5be694110a1723e797415cb1875354284ccc9b9a1f3b47b0ed581d1",
-      "role": "promotional illustration; not an application screenshot"
-    },
-    {
-      "sourceFile": "20-cosmic-home-phone.png",
-      "width": 941,
-      "height": 1672,
-      "sha256": "25c3f132c1d39a5d32801c4e138cec869192a82aefab36c7c52e8be07bda03e9",
       "role": "promotional illustration; not an application screenshot"
     }
   ],
