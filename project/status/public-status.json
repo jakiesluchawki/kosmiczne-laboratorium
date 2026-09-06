@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "access": "public-summary",
   "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/",
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "build": {
     "version": "1.0",
     "number": "1",
@@ -78,7 +78,7 @@
     },
     "complianceAudit": {
       "status": "passed",
-      "auditedAt": "2026-09-05",
+      "auditedAt": "2026-09-06",
       "controlCount": 9,
       "passedControlCount": 9
     }

@@ -22,7 +22,7 @@
   "release": {
     "status": "WAITING",
     "blockerCount": 2,
-    "buildFingerprint": "335e83a732c76cbbf17685252f8a49c37c776f3c432dba81feed01ba7fefbdfb"
+    "buildFingerprint": "7cbf090b9545af5adc98a564bdd8bb8e0dcd233a225098e47271c5d7a2402f7f"
   },
   "privacy": {
     "containsPrivateAudio": false,
@@ -32,7 +32,7 @@
   },
   "generation": {
     "contractVersion": 1,
-    "inputHash": "a1f28fcd4f0c563b2aad46d1594b495db13c384735f0ada90b1bc78fe07690ec"
+    "inputHash": "62ca2fc99f5a1995a3afd7ab1054a7d142968a8dedd1ffc96141786883b94ee3"
   },
   "files": [
     {
@@ -40,39 +40,39 @@
       "label": "Zacznij tutaj · HTML",
       "bytes": 11125,
       "size": "10.9 KB",
-      "sha256": "7a17bf5bf9706959ee5a5faa6f2d103aee9b85774ef6aef0f598b6741fcac6d5",
+      "sha256": "3aab449d1ff963fb8ecbdeac77d21cf9e604c5d3028e6343e411ab05d6547712",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/index.html"
     },
     {
       "name": "kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.pdf",
       "label": "Podsumowanie i linki · PDF",
-      "bytes": 483356,
-      "size": "472.0 KB",
-      "sha256": "9b43679ac047fd675e98ad8ab874b4e620db5f966a09e25aa115de0a46f90a4a",
+      "bytes": 483834,
+      "size": "472.5 KB",
+      "sha256": "3255c2d519c671bf0e39193ebaa64d5265ca4334af7da5de024f890d133c655e",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.pdf"
     },
     {
       "name": "kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.docx",
       "label": "Podsumowanie i linki · DOCX",
-      "bytes": 6810,
+      "bytes": 6813,
       "size": "6.7 KB",
-      "sha256": "568b49c0156049bea6d76c3aec8187f5a51c8c463ec6e0870e5d2d9e816381f4",
+      "sha256": "310d24b0f6bf345a37d54c228f489f8474380d7e97c6be22b0470b3a675e11b9",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/kosmiczne-laboratorium-pakiet-nagranie-piotr-2026-06-15.docx"
     },
     {
       "name": "Kosmiczne-laboratorium-scenariusz-Piotr-Makowski.pdf",
       "label": "Scenariusz Piotra · PDF",
-      "bytes": 231135,
-      "size": "225.7 KB",
-      "sha256": "7b142c8d027d84e25880d6c13f658b160f33bdf664b4d2205474298baa5b47b8",
+      "bytes": 231256,
+      "size": "225.8 KB",
+      "sha256": "318dce006aef5b64ceee83898178449953979e713a0face0012eb40fe93a2797",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-scenariusz-Piotr-Makowski.pdf"
     },
     {
       "name": "Zgoda-lektorska-Piotr-Makowski.pdf",
       "label": "Zgoda lektorska · PDF",
-      "bytes": 119312,
-      "size": "116.5 KB",
-      "sha256": "6f8cd88fc920a280073e8720a1b01c7f67d9b6741612fce7d552282a7fceb13b",
+      "bytes": 119433,
+      "size": "116.6 KB",
+      "sha256": "67183ed3ef404b4ee79e0b2d092325a1ffb46f37a9158bd25f486ac1955ac366",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Zgoda-lektorska-Piotr-Makowski.pdf"
     },
     {
@@ -80,7 +80,7 @@
       "label": "Scenariusz Piotra · DOCX",
       "bytes": 8337,
       "size": "8.1 KB",
-      "sha256": "fa27f78ce4475ef065b1440138a038a957bc4b7bd3f1200b8134fc3540ee901a",
+      "sha256": "67cd4d858d7c832f63a79dd4e4a96f0a78e6a9e45b45579c31923ca08fa3c7d8",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-scenariusz-Piotr-Makowski.docx"
     },
     {
@@ -96,7 +96,7 @@
       "label": "Karta sesji · DOCX",
       "bytes": 6293,
       "size": "6.1 KB",
-      "sha256": "2cb86ffb6c92ff554f82d74292df29433a7dc1b5a55ea891f2f755b9b1d30b0b",
+      "sha256": "bf3b76e03845dcda8af31dd84b9a44aa8733e3d8e7b27115fa449a2b1373ca58",
       "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/downloads/nagranie-piotr-2026-06-15/Kosmiczne-laboratorium-karta-sesji-studyjnej.docx"
     },
     {
