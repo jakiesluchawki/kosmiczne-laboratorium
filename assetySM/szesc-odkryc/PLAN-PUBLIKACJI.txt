@@ -24,4 +24,8 @@ Opublikuj okładkę 1200x630 z tekstem posts.facebook i zawartym w nim kanoniczn
 Dzień 7 | LinkedIn
 Opublikuj dziesięciostronicowy PDF 01-10 z tekstem posts.linkedin. Nadaj dokumentowi tytuł Sześć odkryć. Własne odpowiedzi. Przed publikacją sprawdź kolejność i czytelność stron oraz link do aplikacji w poście.
 
-Plan jest propozycją kolejności, nie automatyczną publikacją. Linki prowadzą do WWW. Naklejki dodaj w aplikacji społecznościowej; zostaw miejsce na interfejs Stories. Materiały statyczne nie zawierają muzyki ani nagrań.
+Plan jest propozycją kolejności, nie automatyczną publikacją. Posty i PDF-y zawierają dwa linki: App Store oraz WWW. Dla naklejki wybierz jeden adres: App Store z etykietą „Pobierz aplikację” lub WWW z etykietą karty. Adresy WWW w planie są przykładem wariantu przeglądarkowego.
+
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+ Naklejki dodaj w aplikacji społecznościowej; zostaw miejsce na interfejs Stories. Materiały statyczne nie zawierają muzyki ani nagrań.

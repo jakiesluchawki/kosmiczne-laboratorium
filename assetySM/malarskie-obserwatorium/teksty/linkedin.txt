@@ -6,7 +6,12 @@ Na tym poziomie zależało mi na prostych rzeczach: żeby było wiadomo, co moż
 
 Narracja ma swoje role. Iza Szela wprowadza do obserwatorium, Piotr Makowski prowadzi przez eksperymenty i wyjaśnienia. Notatnik pozwala wrócić do zapisanych odkryć i wcześniejszych przewidywań.
 
-Chciałem, żeby oprawa, obsługa i opowieść działały razem. Dziesięć kart pokazuje te wybory, a samą aplikację można sprawdzić w przeglądarce:
+Chciałem, żeby oprawa, obsługa i opowieść działały razem. Dziesięć kart pokazuje te wybory, a samą aplikację można sprawdzić na iPhonie, iPadzie albo w przeglądarce:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 
 Chętnie przeczytam konkretne uwagi: co było od razu zrozumiałe, a gdzie trzeba było szukać następnego kroku.

@@ -4,5 +4,10 @@ Są malowane planety, interaktywne eksperymenty, przewidywania i notatnik odkry�
 
 Samo podziwianie Saturna również jest dopuszczalne.
 
-Przesuń karty, a potem zajrzyj do aplikacji w przeglądarce:
+Przesuń karty, a potem zajrzyj do aplikacji. Jest w App Store i w przeglądarce:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/

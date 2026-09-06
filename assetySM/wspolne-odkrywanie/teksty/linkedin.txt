@@ -6,5 +6,10 @@ Chciałem zostawić miejsce na wspólną ciekawość. Przy tym samym ekranie mog
 
 W załączonych dziesięciu kartach pokazuję właśnie ten fragment laboratorium. Bez opowiadania o wszystkich możliwościach naraz. Jedna piłka, kilka prób, potem magnesy i kolejne pytania.
 
-Zrobiłem tę aplikację i udostępniam ją tutaj w wersji przeglądarkowej. Jestem ciekaw, przy którym eksperymencie zostaniecie na dłużej:
+Zrobiłem tę aplikację i udostępniam ją w App Store oraz w przeglądarce. Jestem ciekaw, przy którym eksperymencie zostaniecie na dłużej:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/

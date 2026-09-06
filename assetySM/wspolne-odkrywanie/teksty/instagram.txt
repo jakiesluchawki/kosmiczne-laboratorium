@@ -4,5 +4,10 @@ Podoba mi się możliwość wspólnego sprawdzania. Można usiąść razem i mie
 
 Na tych dziesięciu kartach pokazuję jedną drogę przez laboratorium: od pierwszego przewidywania do odkrycia zapisanego w notatniku. Po drodze można się rozmyślić i spróbować inaczej. Piłkę da się wystrzelić jeszcze raz.
 
-Zostawiam wejście do wersji przeglądarkowej:
+Zostawiam dwa wejścia: aplikację na iPhone’a i iPada oraz wersję w przeglądarce.
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/

@@ -6,5 +6,10 @@ Takich tematów jest sześć. Poza magnesami można zmienić masę Ziemi bez pow
 
 To aplikacja dla dzieci w wieku 5-9 lat. Możesz najpierw zajrzeć samodzielnie i zobaczyć, co da się w niej zrobić. Usłyszysz też Izę Szelę i Piotra Makowskiego, którzy prowadzą przez ten świat głosem.
 
-Zostawiam link do wersji w przeglądarce. Wybierz jedną próbę:
+Zostawiam dwa linki: do App Store i do wersji w przeglądarce. Wybierz jedną próbę:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/

@@ -4,423 +4,425 @@
   "title": "A co, jeśli sprawdzimy to razem?",
   "language": "pl",
   "date": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/assetySM/wspolne-odkrywanie/",
   "appUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+  "appStoreUrl": "https://apps.apple.com/pl/app/id6808138806",
   "assets": [
     {
       "file": "stories/01-sprawdzmy-razem.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "427f7dc05780ad80013fe617d3cf0b9ac2ae467d5f5f1ab7278ac394ce2051cd",
-      "bytes": 2161139,
+      "sha256": "a9059727c648b895a232dd9cb62417d9a9dac39838ac3bf35fb52eefae7ee4e2",
+      "bytes": 2162545,
       "alt": "Malarskie obserwatorium z ciepłym światłem w oknie pod Drogą Mleczną. Nocna ilustracja otwiera zaproszenie do wspólnego odkrywania. A co, jeśli sprawdzimy to razem? Zrobiłem miejsce, w którym można usiąść razem i sprawdzić, co się stanie z piłką w kosmosie. Jest Ziemia, jest piłka, można zmienić prędkość. I już jest o czym porozmawiać."
     },
     {
       "file": "stories/02-bez-gotowej-odpowiedzi.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "1fe49cdf8f6a77ecf26dd1ba2b6bd76d4afeec11d808df243ea8e6dcea9acc8c",
-      "bytes": 1989301,
+      "sha256": "2a87a02407f674a01f16a8a3a1fc9f92ffe6d831f049ee505103384a982c9385",
+      "bytes": 1990969,
       "alt": "Delikatna kometa nad małym obserwatorium wśród ciemnych wzgórz. Malarskie niebo towarzyszy zachęcie do zadawania pytań. Tu można zacząć od: nie wiem Zależało mi, żeby dało się wejść tu bez gotowej odpowiedzi. Można mieć dwa różne pomysły na to, co zrobi piłka, i sprawdzić oba. Nie trzeba najpierw ustalać, kto z nas ma rację."
     },
     {
       "file": "stories/03-najpierw-przewidywanie.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "1aa865ba0b530294fd349aff2d7b2d63c4493c8b74ae1d493df517f380e4c63b",
-      "bytes": 2118923,
+      "sha256": "db1489cc5d60910d11b59dbd0beb9b0bf76cffe741ba08b12aff208663a67d39",
+      "bytes": 2120338,
       "alt": "Malowana niebieska Ziemia nad księżycowym horyzontem. Ilustracja wprowadza pytanie o orbitę, nie przedstawia przebiegu eksperymentu. Zanim piłka ruszy W pracowni orbity najpierw jest pytanie: co jest potrzebne, żeby piłka krążyła wokół Ziemi? Można wybrać odpowiedź, nawet jeśli to na razie tylko przeczucie. Za chwilę będzie co porównać z ruchem."
     },
     {
       "file": "stories/04-wspolna-obserwacja.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "6104a08c51d72bff41332dcadf9271e15883f29c77897a4a6b9bf736e3b62b41",
-      "bytes": 2253286,
+      "sha256": "84d09956277ff28e03edd15e2f4203674776407130a3401eea8cb4c85739d294",
+      "bytes": 2254758,
       "alt": "Koralowa i miętowa kulka na malarsko pofałdowanym, granatowym tle. Dekoracyjna metafora eksperymentu, nie naukowy model przestrzeni. Jeden rzut i zaczyna się rozmowa Potem wystarczy jeden z trzech przycisków prędkości. Piłka może spaść, krążyć albo uciec. Właśnie to chciałem tu pokazać: ta sama piłka, to samo miejsce startu, a droga za każdym razem inna."
     },
     {
       "file": "stories/05-druga-proba.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "e8e91e54ce6b018204b53ce4ef6304f9b4eb392cda38c638ae1ed687cc4a2b60",
-      "bytes": 2089488,
+      "sha256": "ae5e59b00e6599329b62d20c7da543cb8df5ff6d36bab8f33e0b015fc8b10960",
+      "bytes": 2091482,
       "alt": "Mała Ziemia nad jasną siatką łagodnie ugiętą na granatowym tle. Malarska metafora grawitacji zachęca do porównania prób; nie jest wykresem. Jeszcze jeden rzut Lubię tę możliwość: zmienić tylko prędkość i zobaczyć, jak inaczej poleci ta sama piłka. Można powtórzyć pierwszy rzut, zrobić następny, porównać pomysły. W końcu po to są te przyciski."
     },
     {
       "file": "stories/06-wspolne-wyjasnienie.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "29b72deac5c80bb7f37a628526163f79327de2a8a9a6b91abdc9d4ef78e74169",
-      "bytes": 1956025,
+      "sha256": "4fd349ede79d461a3428f78881ff91da1c8e2a860a8f9ce66dc2ace17a2e3aaf",
+      "bytes": 1957592,
       "alt": "Jasny, malowany Księżyc nad sosnami i warstwami ciemnych wzgórz. Spokojna ilustracja towarzyszy rozmowie po eksperymencie z orbitą. Spadanie, które nie trafia w Ziemię Słowo „orbita” brzmi poważnie. A tu można zobaczyć piłkę, która ciągle spada i ciągle mija Ziemię. Dodałem też gotowe wyjaśnienia do wyboru, żeby po próbie było do czego wrócić w rozmowie."
     },
     {
       "file": "stories/07-zapis-w-notatniku.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "fe6b03ce2181120ffdbb0da0d00453ea3cc8599f62afe517e0b4950d9ef0d129",
-      "bytes": 2082754,
+      "sha256": "50f2c51d7fac4273a18cff9a6ee645ac8fdf6f02113707609602557ee019f565",
+      "bytes": 2085236,
       "alt": "Otwarty zeszyt z pustymi, kremowymi stronami w ciepłym świetle przy gwiaździstym oknie. Ilustracyjny symbol notatnika, nie jego ekran. Coś na później Dodałem notatnik, żeby odkrycie miało gdzie zostać. Po próbie zapisuje się wybrane wyjaśnienie i można wrócić do niego później. Zapis zostaje w tej samej przeglądarce, nie wędruje za nami między urządzeniami."
     },
     {
       "file": "stories/08-kolejne-porownanie.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "391708f8a99877ac7be85cca5b9c84dc94a548100c50e76673e251346e2fb7cb",
-      "bytes": 1955389,
+      "sha256": "157c633d90bde882c48fe3f245845fd62358221d85a48e50d49f8bf91060f2af",
+      "bytes": 1957070,
       "alt": "Dwukolorowy magnes i drobne opiłki na jasnej kartce przy lampie w nocnym obserwatorium. Malarska zapowiedź porównania magnesu i grawitacji. A z magnesem będzie tak samo? Po orbicie można zajrzeć do magnesów. Lubię to zestawienie: zmieniamy siłę, wybieramy przedmiot i porównujemy reakcje. Magnes nie przyciąga wszystkiego. Grawitacja działa na każdą rzecz, która ma masę."
     },
     {
       "file": "stories/09-nastepne-pytanie.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "dfd7a1339d268eae21f8532fcc1d5970b6e099a681c8fd36d199c796576d4506",
-      "bytes": 2186714,
+      "sha256": "f0625481da7731fefdc6aad75dab510de69f764165b2bd4088ea61918f3c0620",
+      "bytes": 2187358,
       "alt": "Kwiaty, zielona łąka, jesienne drzewa i śnieżne grzbiety w jednym malarskim krajobrazie. Poetycka ilustracja pór roku, nie diagram ich przyczyn. I już jest następne pytanie Za orbitą i magnesami czekają jeszcze pory roku i fazy Księżyca. Można ruszyć dalej albo wrócić do piłki. Chciałem zostawić taki wybór, bo czasem ciekawsze od nowego tematu jest sprawdzenie poprzedniego jeszcze raz."
     },
     {
       "file": "stories/10-zaproszenie-do-aplikacji.png",
       "width": 1080,
       "height": 1920,
-      "sha256": "30686b8bc9ab47790b760c700f05c59ac04a31392a93dbb2bb7230ce3f3284df",
-      "bytes": 2151607,
-      "alt": "Małe obserwatorium nad spokojnym jeziorem pod granatowym niebem z turkusowo-fioletową poświatą. Malarskie zaproszenie do wspólnej wizyty. Zostawiam otwarte drzwi Kosmiczne Laboratorium można otworzyć w przeglądarce. Zapraszam do środka, samemu albo razem z dzieckiem. Jest co poruszyć, zmienić i sprawdzić. A ja jestem ciekaw, od którego pytania zaczniecie."
+      "sha256": "89fe635a78cc5ab0348e0c4123f3d3b5644a8f054209aad5f6d427ee849217ad",
+      "bytes": 2153284,
+      "alt": "Małe obserwatorium nad spokojnym jeziorem pod granatowym niebem z turkusowo-fioletową poświatą. Malarskie zaproszenie do wspólnej wizyty. Zostawiam otwarte drzwi Kosmiczne Laboratorium jest w App Store i w przeglądarce. Zapraszam do środka, samemu albo razem z dzieckiem. Jest co poruszyć, zmienić i sprawdzić. A ja jestem ciekaw, od którego pytania zaczniecie."
     },
     {
       "file": "karuzela/01-sprawdzmy-razem.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "99e4ecf7e6873cccceff51c405fff196dbdb7d7833fd495cb1ff6e652278fb4f",
-      "bytes": 989409,
+      "sha256": "2df8b06e47e1b03da86137793cd91803c1ab904f5adec109c0ff314db58272b1",
+      "bytes": 993269,
       "alt": "Malarskie obserwatorium z ciepłym światłem w oknie pod Drogą Mleczną. Nocna ilustracja otwiera zaproszenie do wspólnego odkrywania. A co, jeśli sprawdzimy to razem? Zrobiłem miejsce, w którym można usiąść razem i sprawdzić, co się stanie z piłką w kosmosie. Jest Ziemia, jest piłka, można zmienić prędkość. I już jest o czym porozmawiać."
     },
     {
       "file": "karuzela/02-bez-gotowej-odpowiedzi.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "2c6323867ca4d691bdb149ef417ea8132f65eb3bc2b474698d54523db2a8dd02",
-      "bytes": 985701,
+      "sha256": "0030a318b38923d587a3bc4b21b33e3e09a62916641dc0946ce73b27f4b1499c",
+      "bytes": 989471,
       "alt": "Delikatna kometa nad małym obserwatorium wśród ciemnych wzgórz. Malarskie niebo towarzyszy zachęcie do zadawania pytań. Tu można zacząć od: nie wiem Zależało mi, żeby dało się wejść tu bez gotowej odpowiedzi. Można mieć dwa różne pomysły na to, co zrobi piłka, i sprawdzić oba. Nie trzeba najpierw ustalać, kto z nas ma rację."
     },
     {
       "file": "karuzela/03-najpierw-przewidywanie.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "06213e43b7306e4c0463048e1017d3248d9ffb8c79b69f6434d6eeddc7b8a431",
-      "bytes": 1020605,
+      "sha256": "e75280942397523448a8720f2b8242075c305a60c6fd555367a72c93551139d1",
+      "bytes": 1024494,
       "alt": "Malowana niebieska Ziemia nad księżycowym horyzontem. Ilustracja wprowadza pytanie o orbitę, nie przedstawia przebiegu eksperymentu. Zanim piłka ruszy W pracowni orbity najpierw jest pytanie: co jest potrzebne, żeby piłka krążyła wokół Ziemi? Można wybrać odpowiedź, nawet jeśli to na razie tylko przeczucie. Za chwilę będzie co porównać z ruchem."
     },
     {
       "file": "karuzela/04-wspolna-obserwacja.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "ea1615d6db7156bb2c7b7c8cc18517185607c6596333f83effb7055d83b62af0",
-      "bytes": 1009767,
+      "sha256": "b933ed435ba72c6f76cfe10c75b1c5d453db34cb3fa1110b65fc4af515931bcc",
+      "bytes": 1013479,
       "alt": "Koralowa i miętowa kulka na malarsko pofałdowanym, granatowym tle. Dekoracyjna metafora eksperymentu, nie naukowy model przestrzeni. Jeden rzut i zaczyna się rozmowa Potem wystarczy jeden z trzech przycisków prędkości. Piłka może spaść, krążyć albo uciec. Właśnie to chciałem tu pokazać: ta sama piłka, to samo miejsce startu, a droga za każdym razem inna."
     },
     {
       "file": "karuzela/05-druga-proba.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "4d08c61b35d163ed90d3b331edc2cc494305ac7a0e1cb58b502c016a12d95971",
-      "bytes": 987740,
+      "sha256": "333c9979e486d6e79e8916dc7b766e54ce520df643ae93be561cd75fa4e9709a",
+      "bytes": 991691,
       "alt": "Mała Ziemia nad jasną siatką łagodnie ugiętą na granatowym tle. Malarska metafora grawitacji zachęca do porównania prób; nie jest wykresem. Jeszcze jeden rzut Lubię tę możliwość: zmienić tylko prędkość i zobaczyć, jak inaczej poleci ta sama piłka. Można powtórzyć pierwszy rzut, zrobić następny, porównać pomysły. W końcu po to są te przyciski."
     },
     {
       "file": "karuzela/06-wspolne-wyjasnienie.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "3e609e7f5aa014d95b9fa850c43f3c9722d44a256a361de21ef537c1aa061cda",
-      "bytes": 916254,
+      "sha256": "1dd7ad04edb32da15eeb9e8ff26f9a89c2e6322eeb30c3fd2bf7f37ed594430a",
+      "bytes": 920094,
       "alt": "Jasny, malowany Księżyc nad sosnami i warstwami ciemnych wzgórz. Spokojna ilustracja towarzyszy rozmowie po eksperymencie z orbitą. Spadanie, które nie trafia w Ziemię Słowo „orbita” brzmi poważnie. A tu można zobaczyć piłkę, która ciągle spada i ciągle mija Ziemię. Dodałem też gotowe wyjaśnienia do wyboru, żeby po próbie było do czego wrócić w rozmowie."
     },
     {
       "file": "karuzela/07-zapis-w-notatniku.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "4844e466d2b35c605aada38c1ec2b50993da1a63ee6354d8d56ad29f2ae43ded",
-      "bytes": 978642,
+      "sha256": "4c99906510328062f7515571be0a462a6ea739b80844cc72e6d53433f0c6b373",
+      "bytes": 982524,
       "alt": "Otwarty zeszyt z pustymi, kremowymi stronami w ciepłym świetle przy gwiaździstym oknie. Ilustracyjny symbol notatnika, nie jego ekran. Coś na później Dodałem notatnik, żeby odkrycie miało gdzie zostać. Po próbie zapisuje się wybrane wyjaśnienie i można wrócić do niego później. Zapis zostaje w tej samej przeglądarce, nie wędruje za nami między urządzeniami."
     },
     {
       "file": "karuzela/08-kolejne-porownanie.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "e62e4679323fbd7388553516bb9487ddd6cb470dc8cdbd04d96a7b8a9e797203",
-      "bytes": 866532,
+      "sha256": "9368b0558931f1b2f0c050b927260ec17c5f03804a90e7e2b9ee1bc2a8a198b5",
+      "bytes": 870242,
       "alt": "Dwukolorowy magnes i drobne opiłki na jasnej kartce przy lampie w nocnym obserwatorium. Malarska zapowiedź porównania magnesu i grawitacji. A z magnesem będzie tak samo? Po orbicie można zajrzeć do magnesów. Lubię to zestawienie: zmieniamy siłę, wybieramy przedmiot i porównujemy reakcje. Magnes nie przyciąga wszystkiego. Grawitacja działa na każdą rzecz, która ma masę."
     },
     {
       "file": "karuzela/09-nastepne-pytanie.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "520bdfc4496967d6a60a10b982fed395f8d412f5347687cc390fa3df6a70c73a",
-      "bytes": 1038016,
+      "sha256": "0cb224bef67d0af1ceb3af14faa4430d959ea899c8d4425442f674c68bd3504b",
+      "bytes": 1041905,
       "alt": "Kwiaty, zielona łąka, jesienne drzewa i śnieżne grzbiety w jednym malarskim krajobrazie. Poetycka ilustracja pór roku, nie diagram ich przyczyn. I już jest następne pytanie Za orbitą i magnesami czekają jeszcze pory roku i fazy Księżyca. Można ruszyć dalej albo wrócić do piłki. Chciałem zostawić taki wybór, bo czasem ciekawsze od nowego tematu jest sprawdzenie poprzedniego jeszcze raz."
     },
     {
       "file": "karuzela/10-zaproszenie-do-aplikacji.png",
       "width": 1080,
       "height": 1350,
-      "sha256": "40800c77ff955c894b8c895886f8a910187d04bf648a2c92e383e62b23dd3930",
-      "bytes": 1026423,
-      "alt": "Małe obserwatorium nad spokojnym jeziorem pod granatowym niebem z turkusowo-fioletową poświatą. Malarskie zaproszenie do wspólnej wizyty. Zostawiam otwarte drzwi Kosmiczne Laboratorium można otworzyć w przeglądarce. Zapraszam do środka, samemu albo razem z dzieckiem. Jest co poruszyć, zmienić i sprawdzić. A ja jestem ciekaw, od którego pytania zaczniecie."
+      "sha256": "b66b47053d40d16fb2eb20324f860f4549856818f449289cdb8024773f7762bd",
+      "bytes": 1030933,
+      "alt": "Małe obserwatorium nad spokojnym jeziorem pod granatowym niebem z turkusowo-fioletową poświatą. Malarskie zaproszenie do wspólnej wizyty. Zostawiam otwarte drzwi Kosmiczne Laboratorium jest w App Store i w przeglądarce. Zapraszam do środka, samemu albo razem z dzieckiem. Jest co poruszyć, zmienić i sprawdzić. A ja jestem ciekaw, od którego pytania zaczniecie."
     },
     {
       "file": "facebook/okladka.png",
       "width": 1200,
       "height": 630,
-      "sha256": "62864f509df1dcc08ebe90afb4d68b37d2c4e8562415f46931330be3734e0038",
-      "bytes": 609215,
+      "sha256": "71f9463b830c99be48ab9797dc855dfc1b55915d03cdeeefe4f1fe9ffb45761b",
+      "bytes": 613252,
       "alt": "Malarskie obserwatorium z ciepłym światłem w oknie pod Drogą Mleczną. Nocna ilustracja otwiera zaproszenie do wspólnego odkrywania. A co, jeśli sprawdzimy to razem? "
     }
   ],
   "files": [
     {
       "file": "CZYTAJ-MNIE.txt",
-      "bytes": 789,
-      "sha256": "450a2ed9892eb3d25fd3d9d052b1c1b7a343ad249df30e7ec978aa9943919c4d"
+      "bytes": 870,
+      "sha256": "6e5eeae21042fc20af8b741ac3613a113b5e79df7c0646d3db2036ac1b15eaf0"
     },
     {
       "file": "PLAN-PUBLIKACJI.txt",
-      "bytes": 2207,
-      "sha256": "698fa3c7128d67110680a8d60361f61c8df3dea23b7a6ae4bfb283c777d99969"
+      "bytes": 2566,
+      "sha256": "5c3e7afd524b74d4a336c80c4337b822edfa9be8c7e476c3df0365d7e6e17c35"
     },
     {
       "file": "TEKSTY-I-LINKI.txt",
-      "bytes": 9789,
-      "sha256": "12f4415b6b94820e406bff8c60b17894e6223a9a486caa0ac2031129e66229d4"
+      "bytes": 11524,
+      "sha256": "ae646fa5684371274157c9441f5afe8823e3e5e656c10de3da92aec41485e312"
     },
     {
       "file": "facebook/okladka.png",
-      "bytes": 609215,
-      "sha256": "62864f509df1dcc08ebe90afb4d68b37d2c4e8562415f46931330be3734e0038"
+      "bytes": 613252,
+      "sha256": "71f9463b830c99be48ab9797dc855dfc1b55915d03cdeeefe4f1fe9ffb45761b"
     },
     {
       "file": "index.html",
-      "bytes": 38823,
-      "sha256": "78a04a1751365610de7ec1bc55bdc4b2e772bcbfd8b37c80cb7c380ed55a6015"
+      "bytes": 44249,
+      "sha256": "3864d926756014b5d4a79cdaa65eb7c6d05472f38b6ecebc7b8ac25663cf0990"
     },
     {
       "file": "karuzela/01-sprawdzmy-razem.png",
-      "bytes": 989409,
-      "sha256": "99e4ecf7e6873cccceff51c405fff196dbdb7d7833fd495cb1ff6e652278fb4f"
+      "bytes": 993269,
+      "sha256": "2df8b06e47e1b03da86137793cd91803c1ab904f5adec109c0ff314db58272b1"
     },
     {
       "file": "karuzela/02-bez-gotowej-odpowiedzi.png",
-      "bytes": 985701,
-      "sha256": "2c6323867ca4d691bdb149ef417ea8132f65eb3bc2b474698d54523db2a8dd02"
+      "bytes": 989471,
+      "sha256": "0030a318b38923d587a3bc4b21b33e3e09a62916641dc0946ce73b27f4b1499c"
     },
     {
       "file": "karuzela/03-najpierw-przewidywanie.png",
-      "bytes": 1020605,
-      "sha256": "06213e43b7306e4c0463048e1017d3248d9ffb8c79b69f6434d6eeddc7b8a431"
+      "bytes": 1024494,
+      "sha256": "e75280942397523448a8720f2b8242075c305a60c6fd555367a72c93551139d1"
     },
     {
       "file": "karuzela/04-wspolna-obserwacja.png",
-      "bytes": 1009767,
-      "sha256": "ea1615d6db7156bb2c7b7c8cc18517185607c6596333f83effb7055d83b62af0"
+      "bytes": 1013479,
+      "sha256": "b933ed435ba72c6f76cfe10c75b1c5d453db34cb3fa1110b65fc4af515931bcc"
     },
     {
       "file": "karuzela/05-druga-proba.png",
-      "bytes": 987740,
-      "sha256": "4d08c61b35d163ed90d3b331edc2cc494305ac7a0e1cb58b502c016a12d95971"
+      "bytes": 991691,
+      "sha256": "333c9979e486d6e79e8916dc7b766e54ce520df643ae93be561cd75fa4e9709a"
     },
     {
       "file": "karuzela/06-wspolne-wyjasnienie.png",
-      "bytes": 916254,
-      "sha256": "3e609e7f5aa014d95b9fa850c43f3c9722d44a256a361de21ef537c1aa061cda"
+      "bytes": 920094,
+      "sha256": "1dd7ad04edb32da15eeb9e8ff26f9a89c2e6322eeb30c3fd2bf7f37ed594430a"
     },
     {
       "file": "karuzela/07-zapis-w-notatniku.png",
-      "bytes": 978642,
-      "sha256": "4844e466d2b35c605aada38c1ec2b50993da1a63ee6354d8d56ad29f2ae43ded"
+      "bytes": 982524,
+      "sha256": "4c99906510328062f7515571be0a462a6ea739b80844cc72e6d53433f0c6b373"
     },
     {
       "file": "karuzela/08-kolejne-porownanie.png",
-      "bytes": 866532,
-      "sha256": "e62e4679323fbd7388553516bb9487ddd6cb470dc8cdbd04d96a7b8a9e797203"
+      "bytes": 870242,
+      "sha256": "9368b0558931f1b2f0c050b927260ec17c5f03804a90e7e2b9ee1bc2a8a198b5"
     },
     {
       "file": "karuzela/09-nastepne-pytanie.png",
-      "bytes": 1038016,
-      "sha256": "520bdfc4496967d6a60a10b982fed395f8d412f5347687cc390fa3df6a70c73a"
+      "bytes": 1041905,
+      "sha256": "0cb224bef67d0af1ceb3af14faa4430d959ea899c8d4425442f674c68bd3504b"
     },
     {
       "file": "karuzela/10-zaproszenie-do-aplikacji.png",
-      "bytes": 1026423,
-      "sha256": "40800c77ff955c894b8c895886f8a910187d04bf648a2c92e383e62b23dd3930"
+      "bytes": 1030933,
+      "sha256": "b66b47053d40d16fb2eb20324f860f4549856818f449289cdb8024773f7762bd"
     },
     {
       "file": "linkedin/kosmiczne-wspolne-odkrywanie.pdf",
-      "bytes": 35387082,
-      "sha256": "e44fc64f582ada9c21a19788442ae9e31d03f80efae9100835d4be532d648f53"
+      "bytes": 35400190,
+      "sha256": "6789d3eaa8a25f203f8d680448bbda8c53f7856f3f824cb733eee6365012a0c2"
     },
     {
       "file": "previews/carousel-01-sprawdzmy-razem.jpg",
-      "bytes": 36563,
-      "sha256": "2f46d4151a17e4528f4ac110f61838b317c98d835051c8fa16310b0cb3c20ff8"
+      "bytes": 37705,
+      "sha256": "2767f03077ac6eeae183a1557481e321ab6d42ea0779d4639ed1cca84353d76c"
     },
     {
       "file": "previews/carousel-02-bez-gotowej-odpowiedzi.jpg",
-      "bytes": 38105,
-      "sha256": "ce024f2f83e80bd0336f274f0aad50945098c0e32d172e77134be47232052f8c"
+      "bytes": 39235,
+      "sha256": "3c9e2606662bc05200d4c6c06ea5b1a4dadc4467dbde87264235e8f25913f821"
     },
     {
       "file": "previews/carousel-03-najpierw-przewidywanie.jpg",
-      "bytes": 39296,
-      "sha256": "9d0554c0044b06c1a4b446f13e881f291f889b24f8081e14b4ef76117484314a"
+      "bytes": 40426,
+      "sha256": "a74c11372650a09dc29dc4b68f4cfdb39f89ade0039d2adf9cc6c564c425e656"
     },
     {
       "file": "previews/carousel-04-wspolna-obserwacja.jpg",
-      "bytes": 39539,
-      "sha256": "d59292cb183596ebef53660ee5497eaa47ee4c77d7bf23d02f02eeb141095a16"
+      "bytes": 40696,
+      "sha256": "c47491a7dfb587d50240d9e14ca751290c57d820a19fcd55579ea9695f95fbe6"
     },
     {
       "file": "previews/carousel-05-druga-proba.jpg",
-      "bytes": 35514,
-      "sha256": "d230f82b0a60d60df80ae03750fffd7126ff871553653ead88cb67fa4849b548"
+      "bytes": 36691,
+      "sha256": "693804f530662982b16093956adb527e13776727c57490aa27aa5240490ad676"
     },
     {
       "file": "previews/carousel-06-wspolne-wyjasnienie.jpg",
-      "bytes": 37826,
-      "sha256": "44aa9a9a3bfa3ae3e67212d910e66bc402de9da407129723bd8cc42a846c89b3"
+      "bytes": 38990,
+      "sha256": "884c2d836bdbd61760f879b02f56e8ac2768b0cb2b7473f370d04978048c1959"
     },
     {
       "file": "previews/carousel-07-zapis-w-notatniku.jpg",
-      "bytes": 39329,
-      "sha256": "304b66811c3fb4970b83b6bca98c72bc8256da1384ad6b37c3b60be6a9e741a9"
+      "bytes": 40410,
+      "sha256": "0e808f76f7d205d83a2445e2e35cf65d135b74c9a5048f858d38c76fdf5c05b0"
     },
     {
       "file": "previews/carousel-08-kolejne-porownanie.jpg",
-      "bytes": 40637,
-      "sha256": "a71602717f3c762409c2dad8cb0dd15656d9356bdecbe0c54eaa44a2558610af"
+      "bytes": 41777,
+      "sha256": "079874252fb4291ef4b8ee71a83d20baa6d41a12f1258f5b7bdd04e1c33cbbfd"
     },
     {
       "file": "previews/carousel-09-nastepne-pytanie.jpg",
-      "bytes": 42773,
-      "sha256": "4d40522b4e2eaea894438c9a6d3ebb44e85829309e8cad3a608c180a450e5634"
+      "bytes": 43872,
+      "sha256": "3ea5cb7e89c4901f42a7e2b3d585e2c8fb345a595891b374c0587e4dac88eda9"
     },
     {
       "file": "previews/carousel-10-zaproszenie-do-aplikacji.jpg",
-      "bytes": 42248,
-      "sha256": "1af1bfa9452d550bd53a284716799aa6fbe27a48175850d041b6a8af0d0eb9af"
+      "bytes": 43472,
+      "sha256": "a5ec2d01fd84dc1b17efc79b7c779405e1a44ae90fd9e28ae39759994ab931fc"
     },
     {
       "file": "previews/story-01-sprawdzmy-razem.jpg",
-      "bytes": 60505,
-      "sha256": "c4b041037ebbd6565fbd709f23a5409bceaa8def4cbf626533a0feaa514db3b6"
+      "bytes": 61714,
+      "sha256": "d4a1a2a9093c34c715a87312d73b38c6473cf19bc0f9b5796e67b1191f1c31cb"
     },
     {
       "file": "previews/story-02-bez-gotowej-odpowiedzi.jpg",
-      "bytes": 54303,
-      "sha256": "e35fb076f406bcb19398f39e11077442c85c7ba8578f0ea681f091db1b536077"
+      "bytes": 55486,
+      "sha256": "6377a13271a49db401720a716499edbf57283d444f5e4180098fa27aace27ce7"
     },
     {
       "file": "previews/story-03-najpierw-przewidywanie.jpg",
-      "bytes": 59497,
-      "sha256": "a3e23f533268c8bf7ab8c9308a88b7a490bd1c7db109a0473816f06a8b2217fe"
+      "bytes": 60670,
+      "sha256": "255424fea741b2c67c8e922b81cb7902e63e1a1ab7eeb7b239c64f55108367df"
     },
     {
       "file": "previews/story-04-wspolna-obserwacja.jpg",
-      "bytes": 66247,
-      "sha256": "2552fea1627777aeac65c917aec8509b2b1c52058976f8cc5999fa3cdbaccf1c"
+      "bytes": 67439,
+      "sha256": "ce1e44839ea87e51d0f5109a703bf7c45360160f1298742056bb9afd107148df"
     },
     {
       "file": "previews/story-05-druga-proba.jpg",
-      "bytes": 59996,
-      "sha256": "bbedc6235f5b73723018598904c8016c5447122531a28d7557651d1117b56258"
+      "bytes": 61258,
+      "sha256": "5d7317632b5518e3d75dbdeb62e46f87571c1429e439d85b0b7ee6243d01cd2b"
     },
     {
       "file": "previews/story-06-wspolne-wyjasnienie.jpg",
-      "bytes": 59072,
-      "sha256": "986ac7d77057cc905d2bcea7dcdc5ac06d0c745fafb22d354cc0cb2352213361"
+      "bytes": 60316,
+      "sha256": "3ba1b607fd7f06f08a0d5a2ff3bb3e31d5a110b24d7724c6b502c34f156ae252"
     },
     {
       "file": "previews/story-07-zapis-w-notatniku.jpg",
-      "bytes": 64004,
-      "sha256": "c88163bdc6395ea9fce7a3ce30410e4aae2b3bbfa1c269af4e5079dc5d112975"
+      "bytes": 65262,
+      "sha256": "9e47d5bb21d512ebdc31177e60babc51fe648a07a3655f8b537f472557da9b0c"
     },
     {
       "file": "previews/story-08-kolejne-porownanie.jpg",
-      "bytes": 60442,
-      "sha256": "f527d8fee98948be3e1a212fb78cd64e269970d8828261633227d7b7f49c0615"
+      "bytes": 61622,
+      "sha256": "260234edf503ad9eb655dec11553d45deeb5474f09b58922023364764b3b6740"
     },
     {
       "file": "previews/story-09-nastepne-pytanie.jpg",
-      "bytes": 68655,
-      "sha256": "560c2f474db5d8f7f380c72e95620479b120690c457cef1799574e20b6525921"
+      "bytes": 69739,
+      "sha256": "59e4e58af17590ec49c151693dea15423604452af195eb6dab5ac53d49bb6a7e"
     },
     {
       "file": "previews/story-10-zaproszenie-do-aplikacji.jpg",
-      "bytes": 62218,
-      "sha256": "b1bf483ad5797cb9c944fba6f518d4acb4a7697063b1d54f2ca3f78fd6d65b36"
+      "bytes": 63541,
+      "sha256": "0449e15ce11fb0c22aeddc1598ed36a79a073109da1d5b4d87943936c23a0069"
     },
     {
       "file": "stories/01-sprawdzmy-razem.png",
-      "bytes": 2161139,
-      "sha256": "427f7dc05780ad80013fe617d3cf0b9ac2ae467d5f5f1ab7278ac394ce2051cd"
+      "bytes": 2162545,
+      "sha256": "a9059727c648b895a232dd9cb62417d9a9dac39838ac3bf35fb52eefae7ee4e2"
     },
     {
       "file": "stories/02-bez-gotowej-odpowiedzi.png",
-      "bytes": 1989301,
-      "sha256": "1fe49cdf8f6a77ecf26dd1ba2b6bd76d4afeec11d808df243ea8e6dcea9acc8c"
+      "bytes": 1990969,
+      "sha256": "2a87a02407f674a01f16a8a3a1fc9f92ffe6d831f049ee505103384a982c9385"
     },
     {
       "file": "stories/03-najpierw-przewidywanie.png",
-      "bytes": 2118923,
-      "sha256": "1aa865ba0b530294fd349aff2d7b2d63c4493c8b74ae1d493df517f380e4c63b"
+      "bytes": 2120338,
+      "sha256": "db1489cc5d60910d11b59dbd0beb9b0bf76cffe741ba08b12aff208663a67d39"
     },
     {
       "file": "stories/04-wspolna-obserwacja.png",
-      "bytes": 2253286,
-      "sha256": "6104a08c51d72bff41332dcadf9271e15883f29c77897a4a6b9bf736e3b62b41"
+      "bytes": 2254758,
+      "sha256": "84d09956277ff28e03edd15e2f4203674776407130a3401eea8cb4c85739d294"
     },
     {
       "file": "stories/05-druga-proba.png",
-      "bytes": 2089488,
-      "sha256": "e8e91e54ce6b018204b53ce4ef6304f9b4eb392cda38c638ae1ed687cc4a2b60"
+      "bytes": 2091482,
+      "sha256": "ae5e59b00e6599329b62d20c7da543cb8df5ff6d36bab8f33e0b015fc8b10960"
     },
     {
       "file": "stories/06-wspolne-wyjasnienie.png",
-      "bytes": 1956025,
-      "sha256": "29b72deac5c80bb7f37a628526163f79327de2a8a9a6b91abdc9d4ef78e74169"
+      "bytes": 1957592,
+      "sha256": "4fd349ede79d461a3428f78881ff91da1c8e2a860a8f9ce66dc2ace17a2e3aaf"
     },
     {
       "file": "stories/07-zapis-w-notatniku.png",
-      "bytes": 2082754,
-      "sha256": "fe6b03ce2181120ffdbb0da0d00453ea3cc8599f62afe517e0b4950d9ef0d129"
+      "bytes": 2085236,
+      "sha256": "50f2c51d7fac4273a18cff9a6ee645ac8fdf6f02113707609602557ee019f565"
     },
     {
       "file": "stories/08-kolejne-porownanie.png",
-      "bytes": 1955389,
-      "sha256": "391708f8a99877ac7be85cca5b9c84dc94a548100c50e76673e251346e2fb7cb"
+      "bytes": 1957070,
+      "sha256": "157c633d90bde882c48fe3f245845fd62358221d85a48e50d49f8bf91060f2af"
     },
     {
       "file": "stories/09-nastepne-pytanie.png",
-      "bytes": 2186714,
-      "sha256": "dfd7a1339d268eae21f8532fcc1d5970b6e099a681c8fd36d199c796576d4506"
+      "bytes": 2187358,
+      "sha256": "f0625481da7731fefdc6aad75dab510de69f764165b2bd4088ea61918f3c0620"
     },
     {
       "file": "stories/10-zaproszenie-do-aplikacji.png",
-      "bytes": 2151607,
-      "sha256": "30686b8bc9ab47790b760c700f05c59ac04a31392a93dbb2bb7230ce3f3284df"
+      "bytes": 2153284,
+      "sha256": "89fe635a78cc5ab0348e0c4123f3d3b5644a8f054209aad5f6d427ee849217ad"
     },
     {
       "file": "teksty/facebook.txt",
-      "bytes": 912,
-      "sha256": "41cad9a19abc2d7416576c4b26456803fc3ad2dfaf53f4a478fbbd5bd75ad50a"
+      "bytes": 1016,
+      "sha256": "0c80eafc8711d6419913f32d46909e1ab49f50976a11a7b777be03d37eb1994c"
     },
     {
       "file": "teksty/instagram.txt",
-      "bytes": 719,
-      "sha256": "ba7edeb8eb36c51a78f7deee75bd5af870afd3f0fdee8df57d91fee65d2fa6b0"
+      "bytes": 857,
+      "sha256": "59aea93de2362b30dff097201acb6aeda4196fc986bcec5c3d60bb14cde2be83"
     },
     {
       "file": "teksty/linkedin.txt",
-      "bytes": 983,
-      "sha256": "1d86f7679b2d33be113577bf9fd80404d201cd25de7eb19da75e51760cf85a27"
+      "bytes": 1082,
+      "sha256": "bb19d17c45f29ae011d0e61666cbf0123ba5d7cc1eb61ccb5674e9738e6614cf"
     }
   ],
   "art": [

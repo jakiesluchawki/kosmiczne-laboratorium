@@ -6,5 +6,10 @@ Podobnie z porami roku: można przesunąć Ziemię po orbicie, porównać Polsk�
 
 Zrobiłem sześć takich odkryć dla dzieci w wieku 5-9 lat. Przewidywanie i wyjaśnienie wybiera się z gotowych odpowiedzi. Między nimi jest konkretna próba, a na końcu zapis w lokalnym zeszycie. Dla mnie to ważna część tej konstrukcji: po zmianie ustawienia jest co zaobserwować i do czego wrócić.
 
-W dziesięciu kartach pokazuję cały zakres. Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Zapraszam do sprawdzenia jednego eksperymentu w wersji przeglądarkowej:
+W dziesięciu kartach pokazuję cały zakres. Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Zapraszam do sprawdzenia jednego eksperymentu. Na iPhonie, iPadzie albo w przeglądarce:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/

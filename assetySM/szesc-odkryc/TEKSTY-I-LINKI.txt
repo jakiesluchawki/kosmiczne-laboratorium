@@ -2,63 +2,83 @@ Sześć odkryć. Własne odpowiedzi.
 
 01. Sześć odkryć. Własne odpowiedzi.
 Zrobiłem Kosmiczne Laboratorium, w którym można zmienić masę Ziemi, puścić piłkę i sprawdzić, dokąd poleci. Zebrałem sześć takich eksperymentów. Pokażę Ci, co można w nich ruszyć i zaobserwować.
-Naklejka: Poznaj sześć odkryć
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Poznaj sześć odkryć
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Koralowa i miętowa kulka w malarskiej, pofałdowanej przestrzeni. Ilustracja otwiera opowieść twórcy o sześciu eksperymentach; nie jest ekranem aplikacji ani dokładnym modelem fizyki. Sześć odkryć. Własne odpowiedzi. Zrobiłem Kosmiczne Laboratorium, w którym można zmienić masę Ziemi, puścić piłkę i sprawdzić, dokąd poleci. Zebrałem sześć takich eksperymentów. Pokażę Ci, co można w nich ruszyć i zaobserwować.
 
 02. Najpierw wybieram swój typ.
 Zanim uruchomię eksperyment, wybieram jedną z odpowiedzi. Na przykład: co jest potrzebne do orbity? Potem sprawdzam wynik i porównuję go ze swoim typem. Mogę zmienić przewidywanie i spróbować ponownie.
-Naklejka: Przewidź i sprawdź
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Przewidź i sprawdź
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Kometa z delikatnym warkoczem nad obserwatorium i ciemnymi wzgórzami. Malarska scena towarzyszy pytaniu przed próbą, nie pokazuje trajektorii z aplikacji. Najpierw wybieram swój typ. Zanim uruchomię eksperyment, wybieram jedną z odpowiedzi. Na przykład: co jest potrzebne do orbity? Potem sprawdzam wynik i porównuję go ze swoim typem. Mogę zmienić przewidywanie i spróbować ponownie.
 
 03. Zmieniam masę. Planeta nie rośnie.
 Zaczynam od Ziemi. Mam trzy ustawienia masy, ale rozmiar planety na ekranie pozostaje ten sam. Przełączam je i patrzę na siatkę wokół niej. Masa i wielkość to dwie różne rzeczy, więc tutaj je rozdzieliłem.
-Naklejka: Zmień masę
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Zmień masę
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Mała Ziemia nad płytko ugiętą, jasną siatką na granatowym tle. Malarska metafora grawitacji zapowiada zmianę masy; nie jest pomiarem czasoprzestrzeni. Zmieniam masę. Planeta nie rośnie. Zaczynam od Ziemi. Mam trzy ustawienia masy, ale rozmiar planety na ekranie pozostaje ten sam. Przełączam je i patrzę na siatkę wokół niej. Masa i wielkość to dwie różne rzeczy, więc tutaj je rozdzieliłem.
 
 04. Puszczam piłkę. Potem rzucam ją obok.
 Teraz wprawiam piłkę w ruch. Mogę puścić ją z góry, rzucić obok Ziemi albo bardzo szybko. Za każdym razem obserwuję cały tor. Grawitacja działa przez cały lot, a różne początki dają różne drogi.
-Naklejka: Wypróbuj rzuty
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Wypróbuj rzuty
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Koralowa i miętowa kulka w pofałdowanej, granatowo-lawendowej scenerii. Artystyczna zapowiedź eksperymentu z ruchem, nie dokładny model przestrzeni ani zapis trajektorii. Puszczam piłkę. Potem rzucam ją obok. Teraz wprawiam piłkę w ruch. Mogę puścić ją z góry, rzucić obok Ziemi albo bardzo szybko. Za każdym razem obserwuję cały tor. Grawitacja działa przez cały lot, a różne początki dają różne drogi.
 
 05. Szybciej nie zawsze znaczy: orbita.
 Przechodzę do trzech prędkości: „Za wolno”, „W sam raz” i „Za szybko”. W tych próbach piłka spada, krąży albo ucieka. Kiedy trafiam na orbitę, piłka nadal spada ku Ziemi, tylko stale ją mija.
-Naklejka: Sprawdź orbitę
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Sprawdź orbitę
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Malowana niebieska Ziemia nad księżycowym horyzontem w ciepłym świetle. Ilustracja wprowadza temat orbitowania wokół Ziemi; nie jest schematem lotu ani mapą. Szybciej nie zawsze znaczy: orbita. Przechodzę do trzech prędkości: „Za wolno”, „W sam raz” i „Za szybko”. W tych próbach piłka spada, krąży albo ucieka. Kiedy trafiam na orbitę, piłka nadal spada ku Ziemi, tylko stale ją mija.
 
 06. A jeśli zamiast Ziemi wybiorę magnes?
 Sprawdzam stalowy spinacz, potem drewniany klocek. Przełączam magnes na grawitację i porównuję wyniki. Magnes przyciąga spinacz, a klocek zostawia w spokoju. Grawitacja działa na oba, bo oba mają masę.
-Naklejka: Porównaj siły
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Porównaj siły
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Dwukolorowy magnes i drobne opiłki na jasnym podłożu przy ciepłej lampie. Malarska ilustracja zapowiada porównanie sił, nie przedstawia wyboru przedmiotów w aplikacji. A jeśli zamiast Ziemi wybiorę magnes? Sprawdzam stalowy spinacz, potem drewniany klocek. Przełączam magnes na grawitację i porównuję wyniki. Magnes przyciąga spinacz, a klocek zostawia w spokoju. Grawitacja działa na oba, bo oba mają masę.
 
 07. Wyłączam przechył osi Ziemi.
 Teraz przesuwam Ziemię po orbicie i porównuję Polskę z Nową Zelandią. Potem wyłączam przechył osi. Patrzę na długość dnia i kąt światła w modelu. To nachylenie osi jest główną przyczyną pór roku.
-Naklejka: Sprawdź przechył osi
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Sprawdź przechył osi
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Kwitnące rośliny, zielona łąka, jesienne drzewa i śnieżne góry w jednym malarskim krajobrazie. Zestawienie różnych pór roku, nie diagram ich przyczyn. Wyłączam przechył osi Ziemi. Teraz przesuwam Ziemię po orbicie i porównuję Polskę z Nową Zelandią. Potem wyłączam przechył osi. Patrzę na długość dnia i kąt światła w modelu. To nachylenie osi jest główną przyczyną pór roku.
 
 08. Przesuwam Księżyc i odsłaniam wynik.
 Zostaję przy Ziemi, ale przesuwam Księżyc. Najpierw przewiduję, ile jasnej tarczy zobaczę z Ziemi, potem odsłaniam wynik. W innym położeniu widzę inną część oświetlonej połowy. Tak powstają fazy, choć Księżyc nie zmienia kształtu.
-Naklejka: Odsłoń fazę
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Odsłoń fazę
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Łuk pięciu malowanych faz tego samego Księżyca nad ciemnymi górami. Artystyczne zestawienie różnych chwil, nie kilka księżyców widocznych jednocześnie ani ekran eksperymentu. Przesuwam Księżyc i odsłaniam wynik. Zostaję przy Ziemi, ale przesuwam Księżyc. Najpierw przewiduję, ile jasnej tarczy zobaczę z Ziemi, potem odsłaniam wynik. W innym położeniu widzę inną część oświetlonej połowy. Tak powstają fazy, choć Księżyc nie zmienia kształtu.
 
 09. Po próbie zostaje mi zapis.
 Na koniec wybieram zdanie pasujące do obserwacji i zapisuję odkrycie w zeszycie. Stamtąd mogę wrócić do eksperymentu. Zapis zostaje w tej przeglądarce. Gdy usunę jej dane, znikną też moje odkrycia.
-Naklejka: Poznaj zeszyt odkryć
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+Naklejka WWW: Poznaj zeszyt odkryć
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 ALT: Otwarty zeszyt z pustymi, kremowymi kartkami w ciepłym świetle przy nocnym oknie. Ilustracyjny symbol zapisanych odkryć, nie ekran zeszytu ani prywatna odpowiedź dziecka. Po próbie zostaje mi zapis. Na koniec wybieram zdanie pasujące do obserwacji i zapisuję odkrycie w zeszycie. Stamtąd mogę wrócić do eksperymentu. Zapis zostaje w tej przeglądarce. Gdy usunę jej dane, znikną też moje odkrycia.
 
 10. Zostawiam link. Wybierz jedną próbę.
-Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Ja zostawiam Ci link do wersji w przeglądarce. Wybierz jeden eksperyment i sprawdź, co się zmieni. Możesz zacząć od dowolnego.
-Naklejka: Otwórz laboratorium
-https://jakiesluchawki.github.io/kosmiczne-laboratorium/
-ALT: Małe obserwatorium nad jeziorem pod granatowym niebem z turkusową i fioletową poświatą. Malarska scena zamyka opowieść zaproszeniem do otwarcia aplikacji. Zostawiam link. Wybierz jedną próbę. Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Ja zostawiam Ci link do wersji w przeglądarce. Wybierz jeden eksperyment i sprawdź, co się zmieni. Możesz zacząć od dowolnego.
+Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Ja zostawiam dwa wejścia: App Store i przeglądarkę. Wybierz jeden eksperyment i sprawdź, co się zmieni. Możesz zacząć od dowolnego.
+Naklejka WWW: Otwórz laboratorium
+Naklejka App Store: Pobierz aplikację
+App Store · iPhone i iPad: https://apps.apple.com/pl/app/id6808138806
+WWW · bez instalowania: https://jakiesluchawki.github.io/kosmiczne-laboratorium/
+ALT: Małe obserwatorium nad jeziorem pod granatowym niebem z turkusową i fioletową poświatą. Malarska scena zamyka opowieść zaproszeniem do otwarcia aplikacji. Zostawiam link. Wybierz jedną próbę. Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Ja zostawiam dwa wejścia: App Store i przeglądarkę. Wybierz jeden eksperyment i sprawdź, co się zmieni. Możesz zacząć od dowolnego.
 
 INSTAGRAM
 Najpierw zmieniam masę Ziemi, ale nie jej rozmiar. Potem puszczam piłkę i patrzę, dokąd poleci.
@@ -67,7 +87,12 @@ W Kosmicznym Laboratorium zebrałem sześć tematów: masa, rzut, orbita, magnes
 
 Przesuń karty. Pokazuję, co konkretnie zrobiłem i czego można spróbować w aplikacji dla dzieci 5-9 lat. Przy orbicie największa prędkość wcale nie wygrywa.
 
-Otwórz wersję w przeglądarce i wybierz jeden eksperyment:
+Wybierz jeden eksperyment. Aplikację znajdziesz w App Store albo otworzysz w przeglądarce:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 
 #KosmiczneLaboratorium #EksperymentyDlaDzieci #NaukaPrzezZabawe
@@ -81,7 +106,12 @@ Takich tematów jest sześć. Poza magnesami można zmienić masę Ziemi bez pow
 
 To aplikacja dla dzieci w wieku 5-9 lat. Możesz najpierw zajrzeć samodzielnie i zobaczyć, co da się w niej zrobić. Usłyszysz też Izę Szelę i Piotra Makowskiego, którzy prowadzą przez ten świat głosem.
 
-Zostawiam link do wersji w przeglądarce. Wybierz jedną próbę:
+Zostawiam dwa linki: do App Store i do wersji w przeglądarce. Wybierz jedną próbę:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 
 LINKEDIN
@@ -93,5 +123,10 @@ Podobnie z porami roku: można przesunąć Ziemię po orbicie, porównać Polsk�
 
 Zrobiłem sześć takich odkryć dla dzieci w wieku 5-9 lat. Przewidywanie i wyjaśnienie wybiera się z gotowych odpowiedzi. Między nimi jest konkretna próba, a na końcu zapis w lokalnym zeszycie. Dla mnie to ważna część tej konstrukcji: po zmianie ustawienia jest co zaobserwować i do czego wrócić.
 
-W dziesięciu kartach pokazuję cały zakres. Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Zapraszam do sprawdzenia jednego eksperymentu w wersji przeglądarkowej:
+W dziesięciu kartach pokazuję cały zakres. Iza Szela i Piotr Makowski prowadzą przez aplikację głosem. Zapraszam do sprawdzenia jednego eksperymentu. Na iPhonie, iPadzie albo w przeglądarce:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/

@@ -4,7 +4,12 @@ Zrobiłem je z myślą o dzieciach w wieku 5-9 lat. Chciałem połączyć malars
 
 Zależało mi też na głosach, które pomogą wejść w ten świat. Iza Szela wprowadza do obserwatorium, a Piotr Makowski prowadzi przez eksperymenty i wyjaśnienia.
 
-Można już otworzyć aplikację w przeglądarce:
+Aplikacja jest już w App Store. Wersja w przeglądarce też zostaje:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 
 Zajrzyjcie. Dajcie znać, co Was zaciekawiło albo w którym miejscu coś było niejasne. Taka uwaga naprawdę mi się przyda.

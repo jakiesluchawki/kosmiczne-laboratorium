@@ -4,7 +4,12 @@ W Kosmicznym Laboratorium zebrałem sześć tematów: masa, rzut, orbita, magnes
 
 Przesuń karty. Pokazuję, co konkretnie zrobiłem i czego można spróbować w aplikacji dla dzieci 5-9 lat. Przy orbicie największa prędkość wcale nie wygrywa.
 
-Otwórz wersję w przeglądarce i wybierz jeden eksperyment:
+Wybierz jeden eksperyment. Aplikację znajdziesz w App Store albo otworzysz w przeglądarce:
+
+App Store · iPhone i iPad:
+https://apps.apple.com/pl/app/id6808138806
+
+WWW · bez instalowania:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium/
 
 #KosmiczneLaboratorium #EksperymentyDlaDzieci #NaukaPrzezZabawe

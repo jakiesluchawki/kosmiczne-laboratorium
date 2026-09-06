@@ -1,7 +1,10 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/assetySM/",
+  "appUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+  "appStoreUrl": "https://apps.apple.com/pl/app/id6808138806",
   "campaigns": [
     {
       "id": "wspolne-odkrywanie",
@@ -9,283 +12,283 @@
       "files": [
         {
           "file": "CZYTAJ-MNIE.txt",
-          "bytes": 789,
-          "sha256": "450a2ed9892eb3d25fd3d9d052b1c1b7a343ad249df30e7ec978aa9943919c4d"
+          "bytes": 870,
+          "sha256": "6e5eeae21042fc20af8b741ac3613a113b5e79df7c0646d3db2036ac1b15eaf0"
         },
         {
           "file": "PLAN-PUBLIKACJI.txt",
-          "bytes": 2207,
-          "sha256": "698fa3c7128d67110680a8d60361f61c8df3dea23b7a6ae4bfb283c777d99969"
+          "bytes": 2566,
+          "sha256": "5c3e7afd524b74d4a336c80c4337b822edfa9be8c7e476c3df0365d7e6e17c35"
         },
         {
           "file": "SHA256SUMS.txt",
           "bytes": 4972,
-          "sha256": "7d0aa8ddc1dc1b159562ed2f0190a96eb4943c14e70bec56d6c3e03ecf8668bb"
+          "sha256": "b5371ed93013e4c3b81958c8f72a41fe6619fc38b68ba5d8a5600ed6742b9504"
         },
         {
           "file": "TEKSTY-I-LINKI.txt",
-          "bytes": 9789,
-          "sha256": "12f4415b6b94820e406bff8c60b17894e6223a9a486caa0ac2031129e66229d4"
+          "bytes": 11524,
+          "sha256": "ae646fa5684371274157c9441f5afe8823e3e5e656c10de3da92aec41485e312"
         },
         {
           "file": "facebook/okladka.png",
-          "bytes": 609215,
-          "sha256": "62864f509df1dcc08ebe90afb4d68b37d2c4e8562415f46931330be3734e0038"
+          "bytes": 613252,
+          "sha256": "71f9463b830c99be48ab9797dc855dfc1b55915d03cdeeefe4f1fe9ffb45761b"
         },
         {
           "file": "index.html",
-          "bytes": 38823,
-          "sha256": "78a04a1751365610de7ec1bc55bdc4b2e772bcbfd8b37c80cb7c380ed55a6015"
+          "bytes": 44249,
+          "sha256": "3864d926756014b5d4a79cdaa65eb7c6d05472f38b6ecebc7b8ac25663cf0990"
         },
         {
           "file": "karuzela/01-sprawdzmy-razem.png",
-          "bytes": 989409,
-          "sha256": "99e4ecf7e6873cccceff51c405fff196dbdb7d7833fd495cb1ff6e652278fb4f"
+          "bytes": 993269,
+          "sha256": "2df8b06e47e1b03da86137793cd91803c1ab904f5adec109c0ff314db58272b1"
         },
         {
           "file": "karuzela/02-bez-gotowej-odpowiedzi.png",
-          "bytes": 985701,
-          "sha256": "2c6323867ca4d691bdb149ef417ea8132f65eb3bc2b474698d54523db2a8dd02"
+          "bytes": 989471,
+          "sha256": "0030a318b38923d587a3bc4b21b33e3e09a62916641dc0946ce73b27f4b1499c"
         },
         {
           "file": "karuzela/03-najpierw-przewidywanie.png",
-          "bytes": 1020605,
-          "sha256": "06213e43b7306e4c0463048e1017d3248d9ffb8c79b69f6434d6eeddc7b8a431"
+          "bytes": 1024494,
+          "sha256": "e75280942397523448a8720f2b8242075c305a60c6fd555367a72c93551139d1"
         },
         {
           "file": "karuzela/04-wspolna-obserwacja.png",
-          "bytes": 1009767,
-          "sha256": "ea1615d6db7156bb2c7b7c8cc18517185607c6596333f83effb7055d83b62af0"
+          "bytes": 1013479,
+          "sha256": "b933ed435ba72c6f76cfe10c75b1c5d453db34cb3fa1110b65fc4af515931bcc"
         },
         {
           "file": "karuzela/05-druga-proba.png",
-          "bytes": 987740,
-          "sha256": "4d08c61b35d163ed90d3b331edc2cc494305ac7a0e1cb58b502c016a12d95971"
+          "bytes": 991691,
+          "sha256": "333c9979e486d6e79e8916dc7b766e54ce520df643ae93be561cd75fa4e9709a"
         },
         {
           "file": "karuzela/06-wspolne-wyjasnienie.png",
-          "bytes": 916254,
-          "sha256": "3e609e7f5aa014d95b9fa850c43f3c9722d44a256a361de21ef537c1aa061cda"
+          "bytes": 920094,
+          "sha256": "1dd7ad04edb32da15eeb9e8ff26f9a89c2e6322eeb30c3fd2bf7f37ed594430a"
         },
         {
           "file": "karuzela/07-zapis-w-notatniku.png",
-          "bytes": 978642,
-          "sha256": "4844e466d2b35c605aada38c1ec2b50993da1a63ee6354d8d56ad29f2ae43ded"
+          "bytes": 982524,
+          "sha256": "4c99906510328062f7515571be0a462a6ea739b80844cc72e6d53433f0c6b373"
         },
         {
           "file": "karuzela/08-kolejne-porownanie.png",
-          "bytes": 866532,
-          "sha256": "e62e4679323fbd7388553516bb9487ddd6cb470dc8cdbd04d96a7b8a9e797203"
+          "bytes": 870242,
+          "sha256": "9368b0558931f1b2f0c050b927260ec17c5f03804a90e7e2b9ee1bc2a8a198b5"
         },
         {
           "file": "karuzela/09-nastepne-pytanie.png",
-          "bytes": 1038016,
-          "sha256": "520bdfc4496967d6a60a10b982fed395f8d412f5347687cc390fa3df6a70c73a"
+          "bytes": 1041905,
+          "sha256": "0cb224bef67d0af1ceb3af14faa4430d959ea899c8d4425442f674c68bd3504b"
         },
         {
           "file": "karuzela/10-zaproszenie-do-aplikacji.png",
-          "bytes": 1026423,
-          "sha256": "40800c77ff955c894b8c895886f8a910187d04bf648a2c92e383e62b23dd3930"
+          "bytes": 1030933,
+          "sha256": "b66b47053d40d16fb2eb20324f860f4549856818f449289cdb8024773f7762bd"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-facebook.zip",
-          "bytes": 620296,
-          "sha256": "34e08489f759d8e8a5da7f69e9ce0c698e6399c89195de0c0fca3e6230f56f3f"
+          "bytes": 624789,
+          "sha256": "6b97a3db8b04e0de0ec163b544aa94cff68c7fbd196a64ce09ecf6709c3df1b1"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-instagram.zip",
-          "bytes": 9770983,
-          "sha256": "e03a0a0b642cd627c1c8c974e74d42cc7c1d1cd505471028185764c7a2b9bb13"
+          "bytes": 9809451,
+          "sha256": "99c53b4a253c05da4462f341a9bdf3a46731c2a0c18f112a16c91805dacd67fd"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-komplet.zip",
-          "bytes": 66600946,
-          "sha256": "4653de439483e69cf020d86d51495cb81b7d759444316cd08c963e1625adda92"
+          "bytes": 66666663,
+          "sha256": "822e3f2fab6262470e0468b16a6c1690da91a3d2d061219f92ad8713db6105b3"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-linkedin.zip",
-          "bytes": 35347218,
-          "sha256": "9a3444f0e5504f81bbe47e62ee2efd3aba8e09ab7ec8a10e6fa3d52532a30adb"
+          "bytes": 35354263,
+          "sha256": "171c83e34bdbc16e65f84e6620a10588610b267fc627207fc405cbe1c47a3555"
         },
         {
           "file": "kosmiczne-wspolne-odkrywanie-stories.zip",
-          "bytes": 20905952,
-          "sha256": "05de7afe86e2a070152f7ceb0cc884a0855a160a419500e1d9e7d7cd47aca638"
+          "bytes": 20922749,
+          "sha256": "0bf1f1951ef8164111e0bd799c4958e1ae7280175c0faec73892dbaf82ef5818"
         },
         {
           "file": "linkedin/kosmiczne-wspolne-odkrywanie.pdf",
-          "bytes": 35387082,
-          "sha256": "e44fc64f582ada9c21a19788442ae9e31d03f80efae9100835d4be532d648f53"
+          "bytes": 35400190,
+          "sha256": "6789d3eaa8a25f203f8d680448bbda8c53f7856f3f824cb733eee6365012a0c2"
         },
         {
           "file": "manifest.json",
-          "bytes": 26968,
-          "sha256": "f35be6a2ec4ea50f8a90ca7ff1ea2910b65d8a6002ee32e8fc227f08aed26459"
+          "bytes": 27067,
+          "sha256": "8ab695655032a4b500bf71d24315ac28bcf0ae318e441441ab93570625326054"
         },
         {
           "file": "previews/carousel-01-sprawdzmy-razem.jpg",
-          "bytes": 36563,
-          "sha256": "2f46d4151a17e4528f4ac110f61838b317c98d835051c8fa16310b0cb3c20ff8"
+          "bytes": 37705,
+          "sha256": "2767f03077ac6eeae183a1557481e321ab6d42ea0779d4639ed1cca84353d76c"
         },
         {
           "file": "previews/carousel-02-bez-gotowej-odpowiedzi.jpg",
-          "bytes": 38105,
-          "sha256": "ce024f2f83e80bd0336f274f0aad50945098c0e32d172e77134be47232052f8c"
+          "bytes": 39235,
+          "sha256": "3c9e2606662bc05200d4c6c06ea5b1a4dadc4467dbde87264235e8f25913f821"
         },
         {
           "file": "previews/carousel-03-najpierw-przewidywanie.jpg",
-          "bytes": 39296,
-          "sha256": "9d0554c0044b06c1a4b446f13e881f291f889b24f8081e14b4ef76117484314a"
+          "bytes": 40426,
+          "sha256": "a74c11372650a09dc29dc4b68f4cfdb39f89ade0039d2adf9cc6c564c425e656"
         },
         {
           "file": "previews/carousel-04-wspolna-obserwacja.jpg",
-          "bytes": 39539,
-          "sha256": "d59292cb183596ebef53660ee5497eaa47ee4c77d7bf23d02f02eeb141095a16"
+          "bytes": 40696,
+          "sha256": "c47491a7dfb587d50240d9e14ca751290c57d820a19fcd55579ea9695f95fbe6"
         },
         {
           "file": "previews/carousel-05-druga-proba.jpg",
-          "bytes": 35514,
-          "sha256": "d230f82b0a60d60df80ae03750fffd7126ff871553653ead88cb67fa4849b548"
+          "bytes": 36691,
+          "sha256": "693804f530662982b16093956adb527e13776727c57490aa27aa5240490ad676"
         },
         {
           "file": "previews/carousel-06-wspolne-wyjasnienie.jpg",
-          "bytes": 37826,
-          "sha256": "44aa9a9a3bfa3ae3e67212d910e66bc402de9da407129723bd8cc42a846c89b3"
+          "bytes": 38990,
+          "sha256": "884c2d836bdbd61760f879b02f56e8ac2768b0cb2b7473f370d04978048c1959"
         },
         {
           "file": "previews/carousel-07-zapis-w-notatniku.jpg",
-          "bytes": 39329,
-          "sha256": "304b66811c3fb4970b83b6bca98c72bc8256da1384ad6b37c3b60be6a9e741a9"
+          "bytes": 40410,
+          "sha256": "0e808f76f7d205d83a2445e2e35cf65d135b74c9a5048f858d38c76fdf5c05b0"
         },
         {
           "file": "previews/carousel-08-kolejne-porownanie.jpg",
-          "bytes": 40637,
-          "sha256": "a71602717f3c762409c2dad8cb0dd15656d9356bdecbe0c54eaa44a2558610af"
+          "bytes": 41777,
+          "sha256": "079874252fb4291ef4b8ee71a83d20baa6d41a12f1258f5b7bdd04e1c33cbbfd"
         },
         {
           "file": "previews/carousel-09-nastepne-pytanie.jpg",
-          "bytes": 42773,
-          "sha256": "4d40522b4e2eaea894438c9a6d3ebb44e85829309e8cad3a608c180a450e5634"
+          "bytes": 43872,
+          "sha256": "3ea5cb7e89c4901f42a7e2b3d585e2c8fb345a595891b374c0587e4dac88eda9"
         },
         {
           "file": "previews/carousel-10-zaproszenie-do-aplikacji.jpg",
-          "bytes": 42248,
-          "sha256": "1af1bfa9452d550bd53a284716799aa6fbe27a48175850d041b6a8af0d0eb9af"
+          "bytes": 43472,
+          "sha256": "a5ec2d01fd84dc1b17efc79b7c779405e1a44ae90fd9e28ae39759994ab931fc"
         },
         {
           "file": "previews/story-01-sprawdzmy-razem.jpg",
-          "bytes": 60505,
-          "sha256": "c4b041037ebbd6565fbd709f23a5409bceaa8def4cbf626533a0feaa514db3b6"
+          "bytes": 61714,
+          "sha256": "d4a1a2a9093c34c715a87312d73b38c6473cf19bc0f9b5796e67b1191f1c31cb"
         },
         {
           "file": "previews/story-02-bez-gotowej-odpowiedzi.jpg",
-          "bytes": 54303,
-          "sha256": "e35fb076f406bcb19398f39e11077442c85c7ba8578f0ea681f091db1b536077"
+          "bytes": 55486,
+          "sha256": "6377a13271a49db401720a716499edbf57283d444f5e4180098fa27aace27ce7"
         },
         {
           "file": "previews/story-03-najpierw-przewidywanie.jpg",
-          "bytes": 59497,
-          "sha256": "a3e23f533268c8bf7ab8c9308a88b7a490bd1c7db109a0473816f06a8b2217fe"
+          "bytes": 60670,
+          "sha256": "255424fea741b2c67c8e922b81cb7902e63e1a1ab7eeb7b239c64f55108367df"
         },
         {
           "file": "previews/story-04-wspolna-obserwacja.jpg",
-          "bytes": 66247,
-          "sha256": "2552fea1627777aeac65c917aec8509b2b1c52058976f8cc5999fa3cdbaccf1c"
+          "bytes": 67439,
+          "sha256": "ce1e44839ea87e51d0f5109a703bf7c45360160f1298742056bb9afd107148df"
         },
         {
           "file": "previews/story-05-druga-proba.jpg",
-          "bytes": 59996,
-          "sha256": "bbedc6235f5b73723018598904c8016c5447122531a28d7557651d1117b56258"
+          "bytes": 61258,
+          "sha256": "5d7317632b5518e3d75dbdeb62e46f87571c1429e439d85b0b7ee6243d01cd2b"
         },
         {
           "file": "previews/story-06-wspolne-wyjasnienie.jpg",
-          "bytes": 59072,
-          "sha256": "986ac7d77057cc905d2bcea7dcdc5ac06d0c745fafb22d354cc0cb2352213361"
+          "bytes": 60316,
+          "sha256": "3ba1b607fd7f06f08a0d5a2ff3bb3e31d5a110b24d7724c6b502c34f156ae252"
         },
         {
           "file": "previews/story-07-zapis-w-notatniku.jpg",
-          "bytes": 64004,
-          "sha256": "c88163bdc6395ea9fce7a3ce30410e4aae2b3bbfa1c269af4e5079dc5d112975"
+          "bytes": 65262,
+          "sha256": "9e47d5bb21d512ebdc31177e60babc51fe648a07a3655f8b537f472557da9b0c"
         },
         {
           "file": "previews/story-08-kolejne-porownanie.jpg",
-          "bytes": 60442,
-          "sha256": "f527d8fee98948be3e1a212fb78cd64e269970d8828261633227d7b7f49c0615"
+          "bytes": 61622,
+          "sha256": "260234edf503ad9eb655dec11553d45deeb5474f09b58922023364764b3b6740"
         },
         {
           "file": "previews/story-09-nastepne-pytanie.jpg",
-          "bytes": 68655,
-          "sha256": "560c2f474db5d8f7f380c72e95620479b120690c457cef1799574e20b6525921"
+          "bytes": 69739,
+          "sha256": "59e4e58af17590ec49c151693dea15423604452af195eb6dab5ac53d49bb6a7e"
         },
         {
           "file": "previews/story-10-zaproszenie-do-aplikacji.jpg",
-          "bytes": 62218,
-          "sha256": "b1bf483ad5797cb9c944fba6f518d4acb4a7697063b1d54f2ca3f78fd6d65b36"
+          "bytes": 63541,
+          "sha256": "0449e15ce11fb0c22aeddc1598ed36a79a073109da1d5b4d87943936c23a0069"
         },
         {
           "file": "stories/01-sprawdzmy-razem.png",
-          "bytes": 2161139,
-          "sha256": "427f7dc05780ad80013fe617d3cf0b9ac2ae467d5f5f1ab7278ac394ce2051cd"
+          "bytes": 2162545,
+          "sha256": "a9059727c648b895a232dd9cb62417d9a9dac39838ac3bf35fb52eefae7ee4e2"
         },
         {
           "file": "stories/02-bez-gotowej-odpowiedzi.png",
-          "bytes": 1989301,
-          "sha256": "1fe49cdf8f6a77ecf26dd1ba2b6bd76d4afeec11d808df243ea8e6dcea9acc8c"
+          "bytes": 1990969,
+          "sha256": "2a87a02407f674a01f16a8a3a1fc9f92ffe6d831f049ee505103384a982c9385"
         },
         {
           "file": "stories/03-najpierw-przewidywanie.png",
-          "bytes": 2118923,
-          "sha256": "1aa865ba0b530294fd349aff2d7b2d63c4493c8b74ae1d493df517f380e4c63b"
+          "bytes": 2120338,
+          "sha256": "db1489cc5d60910d11b59dbd0beb9b0bf76cffe741ba08b12aff208663a67d39"
         },
         {
           "file": "stories/04-wspolna-obserwacja.png",
-          "bytes": 2253286,
-          "sha256": "6104a08c51d72bff41332dcadf9271e15883f29c77897a4a6b9bf736e3b62b41"
+          "bytes": 2254758,
+          "sha256": "84d09956277ff28e03edd15e2f4203674776407130a3401eea8cb4c85739d294"
         },
         {
           "file": "stories/05-druga-proba.png",
-          "bytes": 2089488,
-          "sha256": "e8e91e54ce6b018204b53ce4ef6304f9b4eb392cda38c638ae1ed687cc4a2b60"
+          "bytes": 2091482,
+          "sha256": "ae5e59b00e6599329b62d20c7da543cb8df5ff6d36bab8f33e0b015fc8b10960"
         },
         {
           "file": "stories/06-wspolne-wyjasnienie.png",
-          "bytes": 1956025,
-          "sha256": "29b72deac5c80bb7f37a628526163f79327de2a8a9a6b91abdc9d4ef78e74169"
+          "bytes": 1957592,
+          "sha256": "4fd349ede79d461a3428f78881ff91da1c8e2a860a8f9ce66dc2ace17a2e3aaf"
         },
         {
           "file": "stories/07-zapis-w-notatniku.png",
-          "bytes": 2082754,
-          "sha256": "fe6b03ce2181120ffdbb0da0d00453ea3cc8599f62afe517e0b4950d9ef0d129"
+          "bytes": 2085236,
+          "sha256": "50f2c51d7fac4273a18cff9a6ee645ac8fdf6f02113707609602557ee019f565"
         },
         {
           "file": "stories/08-kolejne-porownanie.png",
-          "bytes": 1955389,
-          "sha256": "391708f8a99877ac7be85cca5b9c84dc94a548100c50e76673e251346e2fb7cb"
+          "bytes": 1957070,
+          "sha256": "157c633d90bde882c48fe3f245845fd62358221d85a48e50d49f8bf91060f2af"
         },
         {
           "file": "stories/09-nastepne-pytanie.png",
-          "bytes": 2186714,
-          "sha256": "dfd7a1339d268eae21f8532fcc1d5970b6e099a681c8fd36d199c796576d4506"
+          "bytes": 2187358,
+          "sha256": "f0625481da7731fefdc6aad75dab510de69f764165b2bd4088ea61918f3c0620"
         },
         {
           "file": "stories/10-zaproszenie-do-aplikacji.png",
-          "bytes": 2151607,
-          "sha256": "30686b8bc9ab47790b760c700f05c59ac04a31392a93dbb2bb7230ce3f3284df"
+          "bytes": 2153284,
+          "sha256": "89fe635a78cc5ab0348e0c4123f3d3b5644a8f054209aad5f6d427ee849217ad"
         },
         {
           "file": "teksty/facebook.txt",
-          "bytes": 912,
-          "sha256": "41cad9a19abc2d7416576c4b26456803fc3ad2dfaf53f4a478fbbd5bd75ad50a"
+          "bytes": 1016,
+          "sha256": "0c80eafc8711d6419913f32d46909e1ab49f50976a11a7b777be03d37eb1994c"
         },
         {
           "file": "teksty/instagram.txt",
-          "bytes": 719,
-          "sha256": "ba7edeb8eb36c51a78f7deee75bd5af870afd3f0fdee8df57d91fee65d2fa6b0"
+          "bytes": 857,
+          "sha256": "59aea93de2362b30dff097201acb6aeda4196fc986bcec5c3d60bb14cde2be83"
         },
         {
           "file": "teksty/linkedin.txt",
-          "bytes": 983,
-          "sha256": "1d86f7679b2d33be113577bf9fd80404d201cd25de7eb19da75e51760cf85a27"
+          "bytes": 1082,
+          "sha256": "bb19d17c45f29ae011d0e61666cbf0123ba5d7cc1eb61ccb5674e9738e6614cf"
         }
       ]
     },
@@ -295,283 +298,283 @@
       "files": [
         {
           "file": "CZYTAJ-MNIE.txt",
-          "bytes": 786,
-          "sha256": "ad0774bbcb8627e6194f627569f4b4d03b9615d3ad073666a354522006506a14"
+          "bytes": 867,
+          "sha256": "7f148a776439ab2cc799a3f3790ce019e9e17d233f02247417783dc5a95a3576"
         },
         {
           "file": "PLAN-PUBLIKACJI.txt",
-          "bytes": 2271,
-          "sha256": "a7c819a1972049ea16bc40ce3489671f749908b23148a40bcba688b437813bcc"
+          "bytes": 2630,
+          "sha256": "6f48f8c5e3daaa277401ce162826a3e8ea83b2f06e65173faaf29896ab7ec00b"
         },
         {
           "file": "SHA256SUMS.txt",
           "bytes": 4626,
-          "sha256": "76a54ffe5d19b9ca435c66449d706657f91264ebc7409faff99b797726bc1757"
+          "sha256": "0cbc314b1a139d733cb8be4db70ec5a28b9b7048394c446cf6fca921f2c0abd7"
         },
         {
           "file": "TEKSTY-I-LINKI.txt",
-          "bytes": 10589,
-          "sha256": "5b4a3d665dc521ca6159ed170d72446ac07a80e080b5b179aa60c73abe0a781b"
+          "bytes": 12356,
+          "sha256": "340044577899f807dba8fe92196b7c10a83292b7003066d6a8725098dab1ef72"
         },
         {
           "file": "facebook/okladka.png",
-          "bytes": 610048,
-          "sha256": "530309dbf9f9c2bed1e71ca0bfc0387563b2b37074e719f295451949eade2b81"
+          "bytes": 614189,
+          "sha256": "965e94e10690c1ebae2d85b8689846b3bc6a601b393fef65102f4a7998f9698b"
         },
         {
           "file": "index.html",
-          "bytes": 40123,
-          "sha256": "bdf30119a3d54b8c3f5a4cdf27f1bc8cb6075b11fabf441ff6cc3fb9582aa813"
+          "bytes": 45238,
+          "sha256": "d382996b993636e3567037c6187da63c3097852a6321c21a14193fc103ab464d"
         },
         {
           "file": "karuzela/01-szesc-odkryc.png",
-          "bytes": 1018748,
-          "sha256": "3c13e68ca11cda597dd877a979d5e07232ea0a688584faa7d83610b29552120a"
+          "bytes": 1022237,
+          "sha256": "112fd5eb30955e16e2af07641e1ca8bd1d9ffdb0fb58bd704ee655ae51387ea7"
         },
         {
           "file": "karuzela/02-przewidywanie.png",
-          "bytes": 998496,
-          "sha256": "18436519f6e79470a097c043540abfa39626719df2ed659e750ded93f9ed5f88"
+          "bytes": 1002128,
+          "sha256": "f4e1d12e8f505968b99ff3841c86b65164b3beb66ccbc1ef2adb87b7d3c42a67"
         },
         {
           "file": "karuzela/03-masa.png",
-          "bytes": 1001818,
-          "sha256": "2c5f3333b4019ec406efbfa7ad11c043421ed6c4fce87660c6eebbc70a823a86"
+          "bytes": 1005667,
+          "sha256": "d8ce70b208df9758d3b6701351f6bdb9064383890df9b55958bd32d4c86bb287"
         },
         {
           "file": "karuzela/04-zakrzywiony-ruch.png",
-          "bytes": 1013242,
-          "sha256": "475d51aeabc85556c3aed6fc158c576b4e8995e377d571f097be64c0453e8876"
+          "bytes": 1016993,
+          "sha256": "327dfb8e66d3cdb332772ecef598e243d255db11960517ce95976a52297d1a4b"
         },
         {
           "file": "karuzela/05-orbita.png",
-          "bytes": 1029409,
-          "sha256": "83acabf99228c00b10b5f6d1e7a437e30dba68fc18748a6976e0a2697851ce4b"
+          "bytes": 1033331,
+          "sha256": "2c7c12402e0cf7158370e0c961547811592b22a64490f4a12eee20c817c403e2"
         },
         {
           "file": "karuzela/06-magnesy.png",
-          "bytes": 877308,
-          "sha256": "238628aea173c1adaa8bd2449f3bfc2dd2a18caab84a151218d7e15d2eb213e2"
+          "bytes": 880618,
+          "sha256": "63032a310276b2cc1abb3d615d7769078e71ed34d5df3dfef857c764609c273a"
         },
         {
           "file": "karuzela/07-pory-roku.png",
-          "bytes": 1036598,
-          "sha256": "c754619ef108dd668f112f8fe81748885e84509645e54e90caa6da5d6d188c83"
+          "bytes": 1040544,
+          "sha256": "af70151ce0c17df19582edcb1db1e6b0e86e3bb35850ada3a63eb858080dcc68"
         },
         {
           "file": "karuzela/08-fazy-ksiezyca.png",
-          "bytes": 943422,
-          "sha256": "2e2b6fce3ba5c7e6844435638a123de8c6183070adb3ddbcade5f12daafbb5d0"
+          "bytes": 947181,
+          "sha256": "106c082142bf10099337cbf196db8d502267b8a40c0e03b204498d6dd14d59d2"
         },
         {
           "file": "karuzela/09-zeszyt.png",
-          "bytes": 991339,
-          "sha256": "f81213425f0379de6513d5423562b02c8ba8557aaf74ef0d6f66788e314b9a0b"
+          "bytes": 995221,
+          "sha256": "15aa9867c0ecc3b9e70f70f9ff265af6c8e35210f86ac02fd19f68e7f1db331a"
         },
         {
           "file": "karuzela/10-zaproszenie.png",
-          "bytes": 1039926,
-          "sha256": "2039ca69b5ead3caef566888ae45833ca2b7efceb45ab77ca9ee164fbdbb603f"
+          "bytes": 1044832,
+          "sha256": "77875350d7c0191a14e8934801a54b695f5ef1311cbb033f5bf5d4b974f7a46b"
         },
         {
           "file": "kosmiczne-szesc-odkryc-facebook.zip",
-          "bytes": 621114,
-          "sha256": "51a540cb0cba0d63e0f8a45119d2b1e1d9e79b1f9c734b2f174ae2ec6e0116b4"
+          "bytes": 625779,
+          "sha256": "5e885c60d173707ac322890a45bbce731fdcda9ca28c7deb4af99fabfff3a1f0"
         },
         {
           "file": "kosmiczne-szesc-odkryc-instagram.zip",
-          "bytes": 9902748,
-          "sha256": "898751a5618c0963867178666adeda25b96d864a0cb021d394d877dc9775e0e2"
+          "bytes": 9941230,
+          "sha256": "4160dd5eda7d709f8646acd80cf2bb7d836cf6e7b2015502d33f44ec842ba1eb"
         },
         {
           "file": "kosmiczne-szesc-odkryc-komplet.zip",
-          "bytes": 63370794,
-          "sha256": "e213c73bed0c1a8326861398b990b4497db6fe8d6767bfe329bce0b247b2350f"
+          "bytes": 63436783,
+          "sha256": "92de5e3bdef919b4d1b41f96c468852277ef1299eb1c8887612c5fb26c115009"
         },
         {
           "file": "kosmiczne-szesc-odkryc-linkedin.zip",
-          "bytes": 31990401,
-          "sha256": "f3d2658adc025c37a9c74836e29b76a7dfa61b1575fea0d02d05026ca8e25501"
+          "bytes": 31998324,
+          "sha256": "60ae49066eeeb80cc3a89aca93f3ce6527a276a2539e3c89d3b8acb921f6f600"
         },
         {
           "file": "kosmiczne-szesc-odkryc-stories.zip",
-          "bytes": 20900358,
-          "sha256": "2a1bde2143e5eda08fac1107ce130a02452308dc751a44edddbe4c0576a36f8e"
+          "bytes": 20916528,
+          "sha256": "9b4d369ddc72ce6de00af14474591f2263aa130f3998218037fd3fed1dd39842"
         },
         {
           "file": "linkedin/kosmiczne-szesc-odkryc.pdf",
-          "bytes": 32031974,
-          "sha256": "89849102c7e6bc9300f258836d424122d4c257e55934d1d9ea1522f34425bfaa"
+          "bytes": 32045847,
+          "sha256": "b1a6ef0f4be1c71d3261563a2f585e91002e231988426a8e7f7598bdc04df5d9"
         },
         {
           "file": "manifest.json",
-          "bytes": 26799,
-          "sha256": "c7b26b498b728218e1932de490634f4ab77b23947c430673d2a7347d338b186b"
+          "bytes": 26908,
+          "sha256": "c18b0d7df6917c4792a54ea81856c577af7b8032826e07c53d0dd9e26bb25883"
         },
         {
           "file": "previews/carousel-01-szesc-odkryc.jpg",
-          "bytes": 40094,
-          "sha256": "3058aca1e3dc8fc0a1e936a5b3f5e161440442f86bde547d9f8ab8fffd3f5f5c"
+          "bytes": 41132,
+          "sha256": "7623041ad2d82c93faff78b5733dd7820c8d2b4c18648e61aad0e8e8d19830b7"
         },
         {
           "file": "previews/carousel-02-przewidywanie.jpg",
-          "bytes": 40025,
-          "sha256": "f117442e550caaad6fb184506cb851672f81887e49e738c6611eeacef9e5aebd"
+          "bytes": 41036,
+          "sha256": "648983a661c465eb44f2f663e4298b58998a07979e142acbcd74a82574522bae"
         },
         {
           "file": "previews/carousel-03-masa.jpg",
-          "bytes": 39076,
-          "sha256": "ac05e4902385c4852970e3ede82c69b1cd6edb5f5b7192cd1a7ac66992470b8d"
+          "bytes": 40111,
+          "sha256": "324f079e1cf8716cb6862485c05fa410be9f65d43508f191b754587888eed8b9"
         },
         {
           "file": "previews/carousel-04-zakrzywiony-ruch.jpg",
-          "bytes": 40423,
-          "sha256": "2ea65bc9d425d8a4bcafe3895a5b6d33871b0c6190870d4d25dfbc5efc4074b2"
+          "bytes": 41454,
+          "sha256": "7cc37850aec74fc9c9cabcd2aa4af615e03032d1b41587d28270e63e9cf62b6f"
         },
         {
           "file": "previews/carousel-05-orbita.jpg",
-          "bytes": 40882,
-          "sha256": "e3f58dce2c6dd6c5fccb8eb745153d1a555dd500b67c3ad32f234c892a5fbc0b"
+          "bytes": 41895,
+          "sha256": "26358a8c2ca899e54e38c3d0b4c11a86e5692a0ce746777b767064a6a4078551"
         },
         {
           "file": "previews/carousel-06-magnesy.jpg",
-          "bytes": 41010,
-          "sha256": "d5065b0c1fae1a32b34a9c206e5a162ee9acdb538e70ce445a32c232adafaea7"
+          "bytes": 42017,
+          "sha256": "17b2696b1db6583059db7e6aa2e940c9df8e6c017b7169207e853a9c04da6be0"
         },
         {
           "file": "previews/carousel-07-pory-roku.jpg",
-          "bytes": 41304,
-          "sha256": "cf99608a55b39a6709095a9df07fc5904d9392fb37d54da324a4322872b0c8f5"
+          "bytes": 42332,
+          "sha256": "05d04a9cb76a3a71672ce028e48dba6a56df5604c027c22b3d229a71348a6512"
         },
         {
           "file": "previews/carousel-08-fazy-ksiezyca.jpg",
-          "bytes": 39039,
-          "sha256": "66683a75eb7c398ff7d9bab57a0127e8d6f6a685b642d54f6452aee403b17f37"
+          "bytes": 40033,
+          "sha256": "324a7dbe3a66f6458a7aa7b7da6abd71f74b1833c6367e7256954a9ab06c9497"
         },
         {
           "file": "previews/carousel-09-zeszyt.jpg",
-          "bytes": 40323,
-          "sha256": "3b910f19b4c70715689a609f90b28f775eee4fedcde6128f7ad5f434ee517d79"
+          "bytes": 41332,
+          "sha256": "3c5928b28cd14d1f10fa7e28b65dfe1e0b897ed7387532a04861d192fa25a373"
         },
         {
           "file": "previews/carousel-10-zaproszenie.jpg",
-          "bytes": 42704,
-          "sha256": "79bf24f9be6b38cccbb54f44478dd9a10f1dcec5caff19ab20401c0fe52cfdbf"
+          "bytes": 44055,
+          "sha256": "5056c67cace55716728e0c92257fe51e80d7e2c79bafd86d315aae9595036518"
         },
         {
           "file": "previews/story-01-szesc-odkryc.jpg",
-          "bytes": 67555,
-          "sha256": "c5b6375a7fb56a150665389b4e9da1e746ccb5305a7d5446a503698721daca34"
+          "bytes": 68604,
+          "sha256": "27857369b1a14f824e4b8e77c3f13b7e1ddb9d4489ab1647ae144b8d67a9075f"
         },
         {
           "file": "previews/story-02-przewidywanie.jpg",
-          "bytes": 57117,
-          "sha256": "0c887b0d7c0c7f599455bbc5d023ef2c39598a5cef1f36ad24455b5f0a69ea0a"
+          "bytes": 58135,
+          "sha256": "cd513f28544fad7c36fe51cc24bc1bdc47ad491d1cc768de61b3f848d71b448d"
         },
         {
           "file": "previews/story-03-masa.jpg",
-          "bytes": 63819,
-          "sha256": "7bd41b149312265acbaee1c485b65131ea0123b9ac14ba47f449f13459d2e5ea"
+          "bytes": 64858,
+          "sha256": "e7830aa82f7a4a60e210931b824f446aa0e32c500adf55dbf07d7710a3f59e43"
         },
         {
           "file": "previews/story-04-zakrzywiony-ruch.jpg",
-          "bytes": 68008,
-          "sha256": "ddfb86def8e5ccb3071e645eea5ed5418c8599c68aacf8d1c5f2b0d485c4f145"
+          "bytes": 69034,
+          "sha256": "337cb289a5cd29bad3dda877969f813330b9392410785cb789e445ed330b86e9"
         },
         {
           "file": "previews/story-05-orbita.jpg",
-          "bytes": 62518,
-          "sha256": "2f46270e513851aeebd714da43294de182ee5df100570dee20e27ab77cfddf19"
+          "bytes": 63461,
+          "sha256": "a0212cce4e1095699b917cdfde9e79d3e39707a31c5ff0144d1317c8743ec4a0"
         },
         {
           "file": "previews/story-06-magnesy.jpg",
-          "bytes": 61436,
-          "sha256": "3b07d0a37025c4e67d8a98ae47a18f9b833fcace4e031407964053891ea6af3b"
+          "bytes": 62483,
+          "sha256": "af4170704d6de76cd703cebe52fd7bdd3a59f7d0a71ecd990a48beb7a69bad51"
         },
         {
           "file": "previews/story-07-pory-roku.jpg",
-          "bytes": 69920,
-          "sha256": "0028614c744bb249a197e30559ea2f3ca25a54d1fd8e071fda4b98654955f6e8"
+          "bytes": 70961,
+          "sha256": "a90dc2cd09111af8743b0e1c9a401b27254983687991a8bb716a6200357a422a"
         },
         {
           "file": "previews/story-08-fazy-ksiezyca.jpg",
-          "bytes": 59584,
-          "sha256": "bd5dfc244af1033668bded7fe1693ff1f1c742a59bcd2988c67ece34a9121941"
+          "bytes": 60642,
+          "sha256": "cfa410c737649277b0f3fbb5cb7470f8a951aceea184d77b505b0c7544024a2e"
         },
         {
           "file": "previews/story-09-zeszyt.jpg",
-          "bytes": 64322,
-          "sha256": "b1803628436cad1998f67d217f29ff0e685233b8c783bb64e19b02d3c7efa8f2"
+          "bytes": 65406,
+          "sha256": "7e415243d405c3133dd9ac1020d4ce620f80d65e52d4f5b72886962d2179c77f"
         },
         {
           "file": "previews/story-10-zaproszenie.jpg",
-          "bytes": 65402,
-          "sha256": "8af305c873d6fd4d30593975a317caaef12f3e1159d029ca1e436ea4f8c6d6e1"
+          "bytes": 66634,
+          "sha256": "74432f6da2f52ea3ad93143fe87c2f45688189ff20dd84fc877de2f565308073"
         },
         {
           "file": "stories/01-szesc-odkryc.png",
-          "bytes": 2245716,
-          "sha256": "73980a006aef32739f37b32717b93a3eff75fab454bef4941cc61737df7693e6"
+          "bytes": 2247002,
+          "sha256": "f14d8ec88347d535c6664d478d088018ea622b77d51d04ed390864b1d0be1f0d"
         },
         {
           "file": "stories/02-przewidywanie.png",
-          "bytes": 2013770,
-          "sha256": "27ada5b98e12360892d0368f445bf7c6b2015fd600ee5a5cf33a6d5a1f08ae6f"
+          "bytes": 2015472,
+          "sha256": "74db415cc6ca87cfbb30fb8fe8481b9f4b59e1c9b2de5d70ab266c089db72caf"
         },
         {
           "file": "stories/03-masa.png",
-          "bytes": 2076088,
-          "sha256": "7e45fb92ae97318a88ed9ca97453ef6d3540aa967872b3e272067598d964b164"
+          "bytes": 2077794,
+          "sha256": "88d18e9aded0e15f38961212993f914474dfe7888e22bf45a2ac5dc8d7828c1b"
         },
         {
           "file": "stories/04-zakrzywiony-ruch.png",
-          "bytes": 2240276,
-          "sha256": "29b59d384bbde786fb836aeca0e0df18150f1ed7314fb67ae925595b447a885c"
+          "bytes": 2241593,
+          "sha256": "390d434b771f1d96c88fde50686e7e2f72db5ecc8ce255211063ee9efcdb4d12"
         },
         {
           "file": "stories/05-orbita.png",
-          "bytes": 2104485,
-          "sha256": "e9215ad60776fab5865ffc3a138b684ed7866181d4a329e7780d4bbff8393599"
+          "bytes": 2105387,
+          "sha256": "efb5bbc5860cd91f4c1056387467d66ed358291d99f84b883acd3b9b9ad7ef2a"
         },
         {
           "file": "stories/06-magnesy.png",
-          "bytes": 1929209,
-          "sha256": "c2c633331f188c2f9e898a81bcec9e41ed25131f56cc5b83388e6c356fb4da51"
+          "bytes": 1930864,
+          "sha256": "26a5b1771d4356a2366dbb30bed136344b2436e1b2e4e880d64cde584684a528"
         },
         {
           "file": "stories/07-pory-roku.png",
-          "bytes": 2210480,
-          "sha256": "0df225f00e86c3495f060ec460c9d8b32bc21ad4a6397a8f3dde0deb32b9495d"
+          "bytes": 2211078,
+          "sha256": "3dc5e31038be0fc20da66b67007b1b9e16af8bd8f86188b2bf0b0154258dd485"
         },
         {
           "file": "stories/08-fazy-ksiezyca.png",
-          "bytes": 1898392,
-          "sha256": "578c6226632800f11be597a13ed9a47265838a3aa38ef957b90783be3ac290fe"
+          "bytes": 1900243,
+          "sha256": "7e38c68c143cff0ab560d01e829e8c3bfdd875a283725368d5f899bb5eeaeab4"
         },
         {
           "file": "stories/09-zeszyt.png",
-          "bytes": 2067343,
-          "sha256": "87293021d2db4501fcb4d645e41f409ebe7470d730c2996b789e9cd3d0f5f889"
+          "bytes": 2068972,
+          "sha256": "5350dfc0309765206de5783e8ccbd954274e1f5e96e7aa8ad255aee1324767f5"
         },
         {
           "file": "stories/10-zaproszenie.png",
-          "bytes": 2157133,
-          "sha256": "ad27fd0fce68ef65728ad6b33fab550f7635cdb91a4345947a3efebe0d9aefb4"
+          "bytes": 2159222,
+          "sha256": "a9a2dfbbb4deb76cbd902bcd5cf518513b477aa385e7fa2a71a9044b8fde8305"
         },
         {
           "file": "teksty/facebook.txt",
-          "bytes": 940,
-          "sha256": "77dcba0d039fd8a78354f2e8ed9d05de37d255848a6d6600a97c3200a8f734a0"
+          "bytes": 1059,
+          "sha256": "e0ddcf24c123520e25e27b6b7e373f6b41a2168b1cf106fc0a8fee5458f6caf1"
         },
         {
           "file": "teksty/instagram.txt",
-          "bytes": 666,
-          "sha256": "433e937bd9599bab2dea9d378d3555c332c71004aade8d572900b105e3cf626a"
+          "bytes": 796,
+          "sha256": "6f6876e6dbf4b604b3c4cd41dced4bcc110727929037e0a99ad651305bb449df"
         },
         {
           "file": "teksty/linkedin.txt",
-          "bytes": 1221,
-          "sha256": "0a10876012e98a85ec24f669d581e1a62fdba96e07e2917151d5a1270ffa8da6"
+          "bytes": 1335,
+          "sha256": "81f57c78f4d6d4dc1ed18dfb6ec2ca48153cc70b45a62e6f9ac422ae277c227d"
         }
       ]
     },
@@ -581,283 +584,283 @@
       "files": [
         {
           "file": "CZYTAJ-MNIE.txt",
-          "bytes": 800,
-          "sha256": "c0e0ba8741c7f1d6113d01e5394e6d7c2b31b205aab2943abdf228ba953c22e9"
+          "bytes": 881,
+          "sha256": "726edd8d198a1524beab6309c5d7ffedf4eff98511130de44c38798f8e9fbe2b"
         },
         {
           "file": "PLAN-PUBLIKACJI.txt",
-          "bytes": 2094,
-          "sha256": "e9e0db3e1ef5a9014b710587abb220b53a5151795a69a520191cefbe097b764c"
+          "bytes": 2453,
+          "sha256": "044643fc983501b124c5eeaf3d78ba0a0f941dd3bc4b71a480370a4506ff4260"
         },
         {
           "file": "SHA256SUMS.txt",
           "bytes": 4953,
-          "sha256": "4b0d0b0b720b025365547d770b8b2784b87d5c908ce0dcde66a8bc13fdcedc32"
+          "sha256": "721c33da4ff7d6da298023f814e3f1e40136bb25409597ef7184dda9c048b15c"
         },
         {
           "file": "TEKSTY-I-LINKI.txt",
-          "bytes": 9478,
-          "sha256": "951cf08b2b87b203e82c50e3689e8d3c91fc8f455c0c00de31bc0cc2c1e08179"
+          "bytes": 11238,
+          "sha256": "b23269d805aeea523c2e3076af4a1aad1f6d35a74291d81d6ad2b61f17279d38"
         },
         {
           "file": "facebook/okladka.png",
-          "bytes": 545794,
-          "sha256": "87e3ee5e77f0962dc3de442e02c3bd914d286cfa4be0d5a07ad692b863a5225d"
+          "bytes": 550077,
+          "sha256": "f0d831a2c3d111582a2905ec1406af001f11a1cf1924aff2567cbaaa405c1565"
         },
         {
           "file": "index.html",
-          "bytes": 38827,
-          "sha256": "15b3648f5888efe82ea65ebb401d6f436ba845ff6e4dea936366d9dc7319016c"
+          "bytes": 44307,
+          "sha256": "f1ecd6961f41352fec108f8b9ad9af21b1e9619f44458974ea48a5373d47edab"
         },
         {
           "file": "karuzela/01-warto-sie-przyjrzec.png",
-          "bytes": 971576,
-          "sha256": "c654a373ce9f6aaea408999f9961fd36a4ebf9c43e234264c2e23137b6331bc4"
+          "bytes": 974877,
+          "sha256": "8c55f1a2d067e18f308c9fad54116b8b13c9aac69413a58c735e0c598211277e"
         },
         {
           "file": "karuzela/02-zacznij-od-swiatla.png",
-          "bytes": 1026294,
-          "sha256": "59541e0c17529852ebbe1e15c9714e380a872d905268f445d3fc127cb8f5f32c"
+          "bytes": 1030143,
+          "sha256": "9c12b4705ce9554ceec7ca9d880e0c20c445849fe1b2a942e4150916b841299b"
         },
         {
           "file": "karuzela/03-daj-detalom-chwile.png",
-          "bytes": 1020257,
-          "sha256": "ad086e43b7c7f32b0f96fc1c5801204c96ceaae3ad0f7a2929850ebb0b88ca93"
+          "bytes": 1024075,
+          "sha256": "af53f03b2bc6e546c48df54c1cbc7f3be50d4b4dc016e69ed540a71fba6f8818"
         },
         {
           "file": "karuzela/04-obraz-i-pytanie.png",
-          "bytes": 904771,
-          "sha256": "313af63ab6f899abee304b2055c7a3fc6b93d6981138987ec2a7008bc7f37eee"
+          "bytes": 908395,
+          "sha256": "500aa240a8808b4a322f1c87191fe07aca0dd3a03da8f05a107e1ee579cea380"
         },
         {
           "file": "karuzela/05-patrzenie-i-proba.png",
-          "bytes": 1009600,
-          "sha256": "6866064a6a825cd449b1e6a942216ba1ffd478224494a3655bce6221bb32d9b7"
+          "bytes": 1013261,
+          "sha256": "ef905559f1230db5c2d6ef0d3b1b828e7a1f0541e65531558afc9922a11b3691"
         },
         {
           "file": "karuzela/06-ilustracja-i-model.png",
-          "bytes": 912808,
-          "sha256": "97cbf9f2519bd49d3bbbbba79b6ee1f0628349c8aa5ba46a573f249463f43322"
+          "bytes": 916635,
+          "sha256": "3777dcefbcc06c589995f6bb7e908cc42b62dc72cc7a325c88fbb3b9a16b2ed7"
         },
         {
           "file": "karuzela/07-ten-swiat-ma-glos.png",
-          "bytes": 985366,
-          "sha256": "bc8b063488f480dca76d7b1dc5d5b13edca46dc0da1ea8d0025efca087af41f5"
+          "bytes": 989052,
+          "sha256": "0cdb9a2c8ecc02f769d42b65eff46df9f1224f0d42e893a2b3848a0ca43b52e6"
         },
         {
           "file": "karuzela/08-miejsce-na-odkrycia.png",
-          "bytes": 981229,
-          "sha256": "fdf2bfb987e53e609f4c83a5e781194c35ba871e62f71490ffc2950875873137"
+          "bytes": 985077,
+          "sha256": "95146d1c3072a30678fbe5eca9696935bf839679aa64bc0170cc94aeb1152e1f"
         },
         {
           "file": "karuzela/09-sztuka-i-pytania.png",
-          "bytes": 966031,
-          "sha256": "9e323c91e1027f976d41645276610f9442b2a86cbbe148414b49f7cb42171503"
+          "bytes": 969713,
+          "sha256": "ccbb02f8f7fc5e3ec7ba8c966aa80c46311fab2462f1be03b2eead8f3b8729aa"
         },
         {
           "file": "karuzela/10-otworz-laboratorium.png",
-          "bytes": 1019549,
-          "sha256": "7cdc622a60ff799ea5519051f12969ae15dca8917237ec880e0bae2ce43a5682"
+          "bytes": 1024186,
+          "sha256": "db80422a2d9c28e512692984ebbd70f71a47d57648210fd942aa42166cfacfd2"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-facebook.zip",
-          "bytes": 556444,
-          "sha256": "c0af6c0607d32018f1a87f0abde3cad419047762123b5ba58678ae25e957d50c"
+          "bytes": 561263,
+          "sha256": "905d769264976882fa2ea1d95bea23c14a8836af3ab203060fb6bd226fdf12e3"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-instagram.zip",
-          "bytes": 9748139,
-          "sha256": "b9f6f5364ac267c7fe54c03a7480300c59bd2bd6de9dc63cf28598391131c360"
+          "bytes": 9786114,
+          "sha256": "8d68a6bd2387ac876f60941d9f6c7d14e5eab3fc698e685d3bbdc26b8c6eb4b0"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-komplet.zip",
-          "bytes": 62984711,
-          "sha256": "b53c8e559d60e4494529b77727d1e81368dee17bbb9363cc097ab275ad913a6d"
+          "bytes": 63052768,
+          "sha256": "4e4af7573851af6af917dad7719f75765c99932f8885a9bcfbc929ae31cd8b19"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-linkedin.zip",
-          "bytes": 32141348,
-          "sha256": "c3020b92220f48e565f5a1a474caac54cfb51724a843bbb76c4e4ec8561fcb5c"
+          "bytes": 32149708,
+          "sha256": "8ded73950a1034263a71ee9c8e366672afb20e9d44f9f6849579885170d0d909"
         },
         {
           "file": "kosmiczne-malarskie-obserwatorium-stories.zip",
-          "bytes": 20580642,
-          "sha256": "315a43b481c70d7e5a9ec0412012f752c812aa0e65fa36928e343a0ab57c9616"
+          "bytes": 20598805,
+          "sha256": "d718e4f79fdbdbda82f39d1b10f2615fc05a57ed93f274ece87cf16eabd7cbba"
         },
         {
           "file": "linkedin/kosmiczne-malarskie-obserwatorium.pdf",
-          "bytes": 32181081,
-          "sha256": "ca2f40c80bc8e00a8ecb6aecd6e7e378cdbfed88345d23913fe7ae249722c1b3"
+          "bytes": 32194890,
+          "sha256": "d9d0e271fd23e77443d978c9f5b7e4583224a38866e49492484bbb7850a6372a"
         },
         {
           "file": "manifest.json",
-          "bytes": 26630,
-          "sha256": "70dd43c53861b1cff21d6e078ca230ce137cd95ed5cf6a2368820a8b4acad885"
+          "bytes": 26741,
+          "sha256": "8156e624833c9515ab0de1c23cf3c2e9f732de48442ae140ac92a9e16bf7213c"
         },
         {
           "file": "previews/carousel-01-warto-sie-przyjrzec.jpg",
-          "bytes": 41129,
-          "sha256": "6cf225363b7cc91ed99e8c01f52d56ebf041acb01c7d4efe5fd57c01e5ebbc6e"
+          "bytes": 42201,
+          "sha256": "f937e4d4052994c73bf72398ceecd31d212f9256607810498e39eff77bb5c02a"
         },
         {
           "file": "previews/carousel-02-zacznij-od-swiatla.jpg",
-          "bytes": 39268,
-          "sha256": "116b2840e1ad382e0879fc7df1e4148d59549f0f802de45752a67103402a331b"
+          "bytes": 40367,
+          "sha256": "ea304e89fa3bd39282d78be1f2fdf31f2b871ae8221bc0faa65231d52212b4ef"
         },
         {
           "file": "previews/carousel-03-daj-detalom-chwile.jpg",
-          "bytes": 36951,
-          "sha256": "247e0a529bcb539a3cc33e035373fc5bd34555c5981fb0ebd22c92d77165c27b"
+          "bytes": 38072,
+          "sha256": "e1dbeb9ffec2c6bc8c96e86fed9747162a19a3a7b38ba63ebc032d30d7234e40"
         },
         {
           "file": "previews/carousel-04-obraz-i-pytanie.jpg",
-          "bytes": 34716,
-          "sha256": "eee8621a8df58ed2e225b40b66a7d27fdca459259152ecda0a79f5c59ae96a6f"
+          "bytes": 35770,
+          "sha256": "b07586bffa6d80263d509ceb33e36437494f706e8fc1cf46383ae390187230ba"
         },
         {
           "file": "previews/carousel-05-patrzenie-i-proba.jpg",
-          "bytes": 39050,
-          "sha256": "3d59017c163f08b928a1b3c92977445a892966d13d05e823f6cf6d281d59d1f4"
+          "bytes": 40138,
+          "sha256": "fb2bb402b6c7d4408a5ede7c2b42c2e3e7284d7b0ff76585c13629cdc9da5298"
         },
         {
           "file": "previews/carousel-06-ilustracja-i-model.jpg",
-          "bytes": 32430,
-          "sha256": "c6196e5e8d2461183c280b1d68ebe6524af570c0bfd85bf72ef769cb2e1c1da8"
+          "bytes": 33555,
+          "sha256": "0d1b0ab6b10fa05f51454076db10ffae9fef732897e53716b78f1e44d8388738"
         },
         {
           "file": "previews/carousel-07-ten-swiat-ma-glos.jpg",
-          "bytes": 36890,
-          "sha256": "81c8f941561ec58a4752b206e8ba3952875c81b3f94bbbf3f4bbfdca25a5210a"
+          "bytes": 37963,
+          "sha256": "98d5c8eea0b02dd754ec49ba2949945ca2c3d2ea44827bb0fbd4871e45b11a77"
         },
         {
           "file": "previews/carousel-08-miejsce-na-odkrycia.jpg",
-          "bytes": 38930,
-          "sha256": "5eeb7e3753125994e192b60cfb15ddf9d58947386f4ac7c79036cc6c349c29fe"
+          "bytes": 40007,
+          "sha256": "8b3d1e8824992e0d139021931444ca14315f5afbe61afdf27b7afaa385a6959f"
         },
         {
           "file": "previews/carousel-09-sztuka-i-pytania.jpg",
-          "bytes": 40648,
-          "sha256": "a046e0cd5e8119e9a10d70d1c85ab8475a9f1c54306059278aba06ae2632f50b"
+          "bytes": 41720,
+          "sha256": "9a535327b7dc260ded46d34785d70c4e521a3dd8d27da066f8a2f3d73ed38d45"
         },
         {
           "file": "previews/carousel-10-otworz-laboratorium.jpg",
-          "bytes": 38117,
-          "sha256": "1a5542fe05fdc2060545563dd34716a8cb52996839815edc3c11570cbfa0e3e0"
+          "bytes": 39223,
+          "sha256": "8f10eb09438d687aa8955ac7c2c45f50a87bf89d6a4183feff58fcf60d7725cf"
         },
         {
           "file": "previews/story-01-warto-sie-przyjrzec.jpg",
-          "bytes": 66525,
-          "sha256": "babbe26437fe03444ff0ce87bef274a72e4fbfaa8b2a1ef002fe232c80882e72"
+          "bytes": 67567,
+          "sha256": "fc6cab13731e56da6f740613cb2c03f29945c1290302c4f0d4957a5bb90496cd"
         },
         {
           "file": "previews/story-02-zacznij-od-swiatla.jpg",
-          "bytes": 60779,
-          "sha256": "e3e9b22bed81a3742d2228665e20d6ff2ee762e4903946da1cecc686eb6dcd08"
+          "bytes": 61872,
+          "sha256": "5eaa7bce7beee9bfda1c113d34ec7c9c6746c0ce2a9acdca9ebb703e42e4d5f6"
         },
         {
           "file": "previews/story-03-daj-detalom-chwile.jpg",
-          "bytes": 62335,
-          "sha256": "955b7086d4792fabe90b8d7c45d0e9b3090be1744b95211293b0e84e6ae67645"
+          "bytes": 63453,
+          "sha256": "333897969bdd09c9814ca6f5688a53518c9669b6a8887b989b4224435af8d801"
         },
         {
           "file": "previews/story-04-obraz-i-pytanie.jpg",
-          "bytes": 57016,
-          "sha256": "1d9aed5d983004164903ade8cc8db3fd0b2c6fb435af33278ed93674ce5f32e0"
+          "bytes": 58112,
+          "sha256": "05a131d6ac5e2bf62530434c2edd7d92668dd7d7064772ebc5768b6c768860c2"
         },
         {
           "file": "previews/story-05-patrzenie-i-proba.jpg",
-          "bytes": 66427,
-          "sha256": "82a3aad020f79b2ed4394f9dbfb6ad52e15860b093da6e4dedd2ae0e6a0bacd8"
+          "bytes": 67536,
+          "sha256": "68d75090cf0baeef004b63bda49672d37b2880d86550d562fa62fa77791f374b"
         },
         {
           "file": "previews/story-06-ilustracja-i-model.jpg",
-          "bytes": 52222,
-          "sha256": "67f8becaf2b09773b64eaef43b01a11e358b509089fe97e924ecda1040cb1d63"
+          "bytes": 53304,
+          "sha256": "36d4eaf61483cedf39d67b7623d248691cd069d0b008d1855ffe9a944185ae1a"
         },
         {
           "file": "previews/story-07-ten-swiat-ma-glos.jpg",
-          "bytes": 53102,
-          "sha256": "c155884d0e0678cdeee2152282d0aa1d40c8222fff4396cd2529f2d66225e59f"
+          "bytes": 54193,
+          "sha256": "1a3a97fab3c1b8687c12fbfb81a2fb80365db6d688e36a5a3f441b3273fa6e58"
         },
         {
           "file": "previews/story-08-miejsce-na-odkrycia.jpg",
-          "bytes": 63284,
-          "sha256": "cd7b6c7db75fb99b072855e5fb1a6fc926d1202fbd161aaeab4fb2a8825e2bc4"
+          "bytes": 64383,
+          "sha256": "9a8c99ba8e77d0c8a9a7683ef8122bef67f8b6999f40efab5d86c5d292b255cb"
         },
         {
           "file": "previews/story-09-sztuka-i-pytania.jpg",
-          "bytes": 65777,
-          "sha256": "5b8a352c4c319e1e8f5c80a13bc5e5ad7fa028d58f9bd6bda15edab882b28253"
+          "bytes": 66812,
+          "sha256": "6ec4290d82db67a42c2181da03f60541a06e8bad971628afe6438104c8b474c2"
         },
         {
           "file": "previews/story-10-otworz-laboratorium.jpg",
-          "bytes": 62612,
-          "sha256": "6bcca52f0d957a5c6eae6bbfc1d789f4349ed6dfa58846cb01da56908e0521d1"
+          "bytes": 63771,
+          "sha256": "0a1b102a9217089245499751857073ff370c514614c9161d06ebf4390c91b76c"
         },
         {
           "file": "stories/01-warto-sie-przyjrzec.png",
-          "bytes": 2032759,
-          "sha256": "286d9067918dba0102164480ede7c5ff72f3c105ad6e691249196e57918cbf1f"
+          "bytes": 2034169,
+          "sha256": "7c52707fe19b32732a8ed56c24f7f87a66f3038fe24f7ebed8eee69fd246e262"
         },
         {
           "file": "stories/02-zacznij-od-swiatla.png",
-          "bytes": 2082441,
-          "sha256": "e34896127416e5cadbc943e7f43fd0fe1747232aa2990f234578234a82d81a72"
+          "bytes": 2083979,
+          "sha256": "865da46378c10d4bbece8ff1dba5077cc8431c7aed690d5558e28255de6cbced"
         },
         {
           "file": "stories/03-daj-detalom-chwile.png",
-          "bytes": 2154735,
-          "sha256": "8b67e3c01449c0ecde80e1481e014c32a34ffef2e105c6910482cb59593300c5"
+          "bytes": 2155992,
+          "sha256": "eefa0e591fd508f6d184965344ccb4b9d205fc98168bf83add167b85293c781f"
         },
         {
           "file": "stories/04-obraz-i-pytanie.png",
-          "bytes": 1951312,
-          "sha256": "6b038e0896d0338fd8bd4e4569b4cf04029322622c141133d83176da221130aa"
+          "bytes": 1952897,
+          "sha256": "eb9c25bd1b007ec9d3cba9c5aa7119749331399fb025726e7fb1b840b3e6564b"
         },
         {
           "file": "stories/05-patrzenie-i-proba.png",
-          "bytes": 2252662,
-          "sha256": "bca766eaac826f07264dd10648aa513a9182fac9830a751a71694096843253af"
+          "bytes": 2254157,
+          "sha256": "143487b1d21c236c1fcc7963d58e3684c3db50793e561131dd0dd24d60146dab"
         },
         {
           "file": "stories/06-ilustracja-i-model.png",
-          "bytes": 1878084,
-          "sha256": "b4441ac70f52d0202b4b72c628c081e3bb16274fa0c1b87f173aa60ca3888b34"
+          "bytes": 1880021,
+          "sha256": "f2fcc01bcd40abdbb172791b20007119cd1fffedf9dff1c896bbef2ecc4d3434"
         },
         {
           "file": "stories/07-ten-swiat-ma-glos.png",
-          "bytes": 1980899,
-          "sha256": "397bdf934a8c234db50c8115e533ee9986e290df2a83a822a7bf7bb79f8dd55f"
+          "bytes": 1982650,
+          "sha256": "d99534f43009a85c18dfa088166afa59e66b85b7c84a2cc28b4449d90e6f10d0"
         },
         {
           "file": "stories/08-miejsce-na-odkrycia.png",
-          "bytes": 2060568,
-          "sha256": "cb6cfc326ce6fb65e5d599418bebfb362fae44605d142746c4f2042d2bceb385"
+          "bytes": 2063450,
+          "sha256": "b536ec0b5a72e7f588044584e982b83afb992622b14debb7c56af673804b856f"
         },
         {
           "file": "stories/09-sztuka-i-pytania.png",
-          "bytes": 2032561,
-          "sha256": "9927f5ae25dec833c8241f88330cb8da5acf45524cd7efeba6fc5527cff577f5"
+          "bytes": 2033967,
+          "sha256": "74573b1ffc0fdbe5fb676023093f8b5875db7edff348c9507a321b1eecda0571"
         },
         {
           "file": "stories/10-otworz-laboratorium.png",
-          "bytes": 2192931,
-          "sha256": "2145d95e39b261370003bd8bd803700ce8ac625acf9d3223ca83bf20b2effa91"
+          "bytes": 2194586,
+          "sha256": "187c7fa2809ba0f1b03d5f11bb6666ac96a0fd6e0d8966d1d74c1accfa59490c"
         },
         {
           "file": "teksty/facebook.txt",
-          "bytes": 721,
-          "sha256": "1325228866a9c0e0f995edbc55b7c9eb44668ee62451d51cf7f76ee56f83653a"
+          "bytes": 839,
+          "sha256": "111c2276bdaf7b68b22e37fbe70e7a4e4d0a3a67919a061c1ee6ff8ca010783b"
         },
         {
           "file": "teksty/instagram.txt",
-          "bytes": 439,
-          "sha256": "33b03666b3d2bcd6aecc3917236e24879aad35e021c920f344a36e1ba1b0a96a"
+          "bytes": 557,
+          "sha256": "bf8971e990b4ded7c98efe774d244e33ea17d95a2934c6ce759beaf9368a4055"
         },
         {
           "file": "teksty/linkedin.txt",
-          "bytes": 1099,
-          "sha256": "5ac8216ad41721cb725231cbb207d798da538704b1825d54dd6e80b165b5d57b"
+          "bytes": 1222,
+          "sha256": "9ba65cf3946972fcdeefe5368a6d34708f62395a90080b714a1c7dc4e2e2d613"
         }
       ]
     }
