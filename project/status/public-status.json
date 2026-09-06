@@ -24,9 +24,9 @@
     },
     "approvedSections": 13,
     "totalSections": 13,
-    "finalHumanCueCount": 121,
-    "missingHumanCueCount": 0,
-    "temporaryFallbackCueCount": 0,
+    "finalHumanCueCount": 119,
+    "missingHumanCueCount": 2,
+    "temporaryFallbackCueCount": 2,
     "systemFallbackCueCount": 0,
     "playbackVerifiedCueCount": 121,
     "playbackCoverageComplete": true,
@@ -38,8 +38,12 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 2,
+    "blockerCount": 3,
     "blockers": [
+      {
+        "id": "narration",
+        "label": "Finalne nagrania Izy i Piotra wymagają aktualnej walidacji."
+      },
       {
         "id": "technical",
         "label": "Techniczny preflight wydania wymaga odświeżenia."
