@@ -1,0 +1,1758 @@
+{
+  "source": "https://github.com/mledoze/countries",
+  "license": "ODbL-1.0",
+  "sourceSha256": "99b85dda36895c79caf72e191d035e4b9d82e811ee34f9ca15dfa67d7c561ba8",
+  "coordinateMeaning": "Approximate country reference point, not a capital or a country-wide climate forecast.",
+  "countries": [
+    {
+      "code": "AD",
+      "pl": "Andora",
+      "en": "Andorra",
+      "latitude": 42.5,
+      "longitude": 1.5
+    },
+    {
+      "code": "AE",
+      "pl": "Zjednoczone Emiraty Arabskie",
+      "en": "United Arab Emirates",
+      "latitude": 24,
+      "longitude": 54
+    },
+    {
+      "code": "AF",
+      "pl": "Afganistan",
+      "en": "Afghanistan",
+      "latitude": 33,
+      "longitude": 65
+    },
+    {
+      "code": "AG",
+      "pl": "Antigua i Barbuda",
+      "en": "Antigua and Barbuda",
+      "latitude": 17.05,
+      "longitude": -61.8
+    },
+    {
+      "code": "AI",
+      "pl": "Anguilla",
+      "en": "Anguilla",
+      "latitude": 18.25,
+      "longitude": -63.16666666
+    },
+    {
+      "code": "AL",
+      "pl": "Albania",
+      "en": "Albania",
+      "latitude": 41,
+      "longitude": 20
+    },
+    {
+      "code": "AM",
+      "pl": "Armenia",
+      "en": "Armenia",
+      "latitude": 40,
+      "longitude": 45
+    },
+    {
+      "code": "AO",
+      "pl": "Angola",
+      "en": "Angola",
+      "latitude": -12.5,
+      "longitude": 18.5
+    },
+    {
+      "code": "AQ",
+      "pl": "Antarktyka",
+      "en": "Antarctica",
+      "latitude": -90,
+      "longitude": 0
+    },
+    {
+      "code": "AR",
+      "pl": "Argentyna",
+      "en": "Argentina",
+      "latitude": -34,
+      "longitude": -64
+    },
+    {
+      "code": "AS",
+      "pl": "Samoa Amerykańskie",
+      "en": "American Samoa",
+      "latitude": -14.33333333,
+      "longitude": -170
+    },
+    {
+      "code": "AT",
+      "pl": "Austria",
+      "en": "Austria",
+      "latitude": 47.33333333,
+      "longitude": 13.33333333
+    },
+    {
+      "code": "AU",
+      "pl": "Australia",
+      "en": "Australia",
+      "latitude": -27,
+      "longitude": 133
+    },
+    {
+      "code": "AW",
+      "pl": "Aruba",
+      "en": "Aruba",
+      "latitude": 12.5,
+      "longitude": -69.96666666
+    },
+    {
+      "code": "AX",
+      "pl": "Wyspy Alandzkie",
+      "en": "Åland Islands",
+      "latitude": 60.116667,
+      "longitude": 19.9
+    },
+    {
+      "code": "AZ",
+      "pl": "Azerbejdżan",
+      "en": "Azerbaijan",
+      "latitude": 40.5,
+      "longitude": 47.5
+    },
+    {
+      "code": "BA",
+      "pl": "Bośnia i Hercegowina",
+      "en": "Bosnia and Herzegovina",
+      "latitude": 44,
+      "longitude": 18
+    },
+    {
+      "code": "BB",
+      "pl": "Barbados",
+      "en": "Barbados",
+      "latitude": 13.16666666,
+      "longitude": -59.53333333
+    },
+    {
+      "code": "BD",
+      "pl": "Bangladesz",
+      "en": "Bangladesh",
+      "latitude": 24,
+      "longitude": 90
+    },
+    {
+      "code": "BE",
+      "pl": "Belgia",
+      "en": "Belgium",
+      "latitude": 50.83333333,
+      "longitude": 4
+    },
+    {
+      "code": "BF",
+      "pl": "Burkina Faso",
+      "en": "Burkina Faso",
+      "latitude": 13,
+      "longitude": -2
+    },
+    {
+      "code": "BG",
+      "pl": "Bułgaria",
+      "en": "Bulgaria",
+      "latitude": 43,
+      "longitude": 25
+    },
+    {
+      "code": "BH",
+      "pl": "Bahrajn",
+      "en": "Bahrain",
+      "latitude": 26,
+      "longitude": 50.55
+    },
+    {
+      "code": "BI",
+      "pl": "Burundi",
+      "en": "Burundi",
+      "latitude": -3.5,
+      "longitude": 30
+    },
+    {
+      "code": "BJ",
+      "pl": "Benin",
+      "en": "Benin",
+      "latitude": 9.5,
+      "longitude": 2.25
+    },
+    {
+      "code": "BL",
+      "pl": "Saint-Barthélemy",
+      "en": "Saint Barthélemy",
+      "latitude": 18.5,
+      "longitude": -63.41666666
+    },
+    {
+      "code": "BM",
+      "pl": "Bermudy",
+      "en": "Bermuda",
+      "latitude": 32.33333333,
+      "longitude": -64.75
+    },
+    {
+      "code": "BN",
+      "pl": "Brunei",
+      "en": "Brunei",
+      "latitude": 4.5,
+      "longitude": 114.66666666
+    },
+    {
+      "code": "BO",
+      "pl": "Boliwia",
+      "en": "Bolivia",
+      "latitude": -17,
+      "longitude": -65
+    },
+    {
+      "code": "BQ",
+      "pl": "Antyle Holenderskie",
+      "en": "Caribbean Netherlands",
+      "latitude": 12.18,
+      "longitude": -68.25
+    },
+    {
+      "code": "BR",
+      "pl": "Brazylia",
+      "en": "Brazil",
+      "latitude": -10,
+      "longitude": -55
+    },
+    {
+      "code": "BS",
+      "pl": "Bahamy",
+      "en": "Bahamas",
+      "latitude": 24.25,
+      "longitude": -76
+    },
+    {
+      "code": "BT",
+      "pl": "Bhutan",
+      "en": "Bhutan",
+      "latitude": 27.5,
+      "longitude": 90.5
+    },
+    {
+      "code": "BV",
+      "pl": "Wyspa Bouveta",
+      "en": "Bouvet Island",
+      "latitude": -54.43333333,
+      "longitude": 3.4
+    },
+    {
+      "code": "BW",
+      "pl": "Botswana",
+      "en": "Botswana",
+      "latitude": -22,
+      "longitude": 24
+    },
+    {
+      "code": "BY",
+      "pl": "Białoruś",
+      "en": "Belarus",
+      "latitude": 53,
+      "longitude": 28
+    },
+    {
+      "code": "BZ",
+      "pl": "Belize",
+      "en": "Belize",
+      "latitude": 17.25,
+      "longitude": -88.75
+    },
+    {
+      "code": "CA",
+      "pl": "Kanada",
+      "en": "Canada",
+      "latitude": 60,
+      "longitude": -95
+    },
+    {
+      "code": "CC",
+      "pl": "Wyspy Kokosowe",
+      "en": "Cocos (Keeling) Islands",
+      "latitude": -12.5,
+      "longitude": 96.83333333
+    },
+    {
+      "code": "CD",
+      "pl": "Demokratyczna Republika Konga",
+      "en": "DR Congo",
+      "latitude": 0,
+      "longitude": 25
+    },
+    {
+      "code": "CF",
+      "pl": "Republika Środkowoafrykańska",
+      "en": "Central African Republic",
+      "latitude": 7,
+      "longitude": 21
+    },
+    {
+      "code": "CG",
+      "pl": "Kongo",
+      "en": "Congo",
+      "latitude": -1,
+      "longitude": 15
+    },
+    {
+      "code": "CH",
+      "pl": "Szwajcaria",
+      "en": "Switzerland",
+      "latitude": 47,
+      "longitude": 8
+    },
+    {
+      "code": "CI",
+      "pl": "WybrzeŻe Kości Słoniowej",
+      "en": "Ivory Coast",
+      "latitude": 8,
+      "longitude": -5
+    },
+    {
+      "code": "CK",
+      "pl": "Wyspy Cooka",
+      "en": "Cook Islands",
+      "latitude": -21.23333333,
+      "longitude": -159.76666666
+    },
+    {
+      "code": "CL",
+      "pl": "Chile",
+      "en": "Chile",
+      "latitude": -30,
+      "longitude": -71
+    },
+    {
+      "code": "CM",
+      "pl": "WybrzeŻe Kości Słoniowej",
+      "en": "Cameroon",
+      "latitude": 6,
+      "longitude": 12
+    },
+    {
+      "code": "CN",
+      "pl": "Chiny",
+      "en": "China",
+      "latitude": 35,
+      "longitude": 105
+    },
+    {
+      "code": "CO",
+      "pl": "Kolumbia",
+      "en": "Colombia",
+      "latitude": 4,
+      "longitude": -72
+    },
+    {
+      "code": "CR",
+      "pl": "Kostaryka",
+      "en": "Costa Rica",
+      "latitude": 10,
+      "longitude": -84
+    },
+    {
+      "code": "CU",
+      "pl": "Kuba",
+      "en": "Cuba",
+      "latitude": 21.5,
+      "longitude": -80
+    },
+    {
+      "code": "CV",
+      "pl": "Republika Zielonego Przylądka",
+      "en": "Cape Verde",
+      "latitude": 16,
+      "longitude": -24
+    },
+    {
+      "code": "CW",
+      "pl": "Curaçao",
+      "en": "Curaçao",
+      "latitude": 12.116667,
+      "longitude": -68.933333
+    },
+    {
+      "code": "CX",
+      "pl": "Wyspa Bożego Narodzenia",
+      "en": "Christmas Island",
+      "latitude": -10.5,
+      "longitude": 105.66666666
+    },
+    {
+      "code": "CY",
+      "pl": "Cypr",
+      "en": "Cyprus",
+      "latitude": 35,
+      "longitude": 33
+    },
+    {
+      "code": "CZ",
+      "pl": "Czechy",
+      "en": "Czechia",
+      "latitude": 49.75,
+      "longitude": 15.5
+    },
+    {
+      "code": "DE",
+      "pl": "Niemcy",
+      "en": "Germany",
+      "latitude": 51,
+      "longitude": 9
+    },
+    {
+      "code": "DJ",
+      "pl": "Dżibuti",
+      "en": "Djibouti",
+      "latitude": 11.5,
+      "longitude": 43
+    },
+    {
+      "code": "DK",
+      "pl": "Dania",
+      "en": "Denmark",
+      "latitude": 56,
+      "longitude": 10
+    },
+    {
+      "code": "DM",
+      "pl": "Dominika",
+      "en": "Dominica",
+      "latitude": 15.41666666,
+      "longitude": -61.33333333
+    },
+    {
+      "code": "DO",
+      "pl": "Dominikana",
+      "en": "Dominican Republic",
+      "latitude": 19,
+      "longitude": -70.66666666
+    },
+    {
+      "code": "DZ",
+      "pl": "Algieria",
+      "en": "Algeria",
+      "latitude": 28,
+      "longitude": 3
+    },
+    {
+      "code": "EC",
+      "pl": "Ekwador",
+      "en": "Ecuador",
+      "latitude": -2,
+      "longitude": -77.5
+    },
+    {
+      "code": "EE",
+      "pl": "Estonia",
+      "en": "Estonia",
+      "latitude": 59,
+      "longitude": 26
+    },
+    {
+      "code": "EG",
+      "pl": "Egipt",
+      "en": "Egypt",
+      "latitude": 27,
+      "longitude": 30
+    },
+    {
+      "code": "EH",
+      "pl": "Sahara Zachodnia",
+      "en": "Western Sahara",
+      "latitude": 24.5,
+      "longitude": -13
+    },
+    {
+      "code": "ER",
+      "pl": "Erytrea",
+      "en": "Eritrea",
+      "latitude": 15,
+      "longitude": 39
+    },
+    {
+      "code": "ES",
+      "pl": "Hiszpania",
+      "en": "Spain",
+      "latitude": 40,
+      "longitude": -4
+    },
+    {
+      "code": "ET",
+      "pl": "Etiopia",
+      "en": "Ethiopia",
+      "latitude": 8,
+      "longitude": 38
+    },
+    {
+      "code": "FI",
+      "pl": "Finlandia",
+      "en": "Finland",
+      "latitude": 64,
+      "longitude": 26
+    },
+    {
+      "code": "FJ",
+      "pl": "Fidżi",
+      "en": "Fiji",
+      "latitude": -18,
+      "longitude": 175
+    },
+    {
+      "code": "FK",
+      "pl": "Falklandy",
+      "en": "Falkland Islands",
+      "latitude": -51.75,
+      "longitude": -59
+    },
+    {
+      "code": "FM",
+      "pl": "Mikronezja",
+      "en": "Micronesia",
+      "latitude": 6.91666666,
+      "longitude": 158.25
+    },
+    {
+      "code": "FO",
+      "pl": "Wyspy Owcze",
+      "en": "Faroe Islands",
+      "latitude": 62,
+      "longitude": -7
+    },
+    {
+      "code": "FR",
+      "pl": "Francja",
+      "en": "France",
+      "latitude": 46,
+      "longitude": 2
+    },
+    {
+      "code": "GA",
+      "pl": "Gabon",
+      "en": "Gabon",
+      "latitude": -1,
+      "longitude": 11.75
+    },
+    {
+      "code": "GB",
+      "pl": "Zjednoczone Królestwo",
+      "en": "United Kingdom",
+      "latitude": 54,
+      "longitude": -2
+    },
+    {
+      "code": "GD",
+      "pl": "Grenada",
+      "en": "Grenada",
+      "latitude": 12.11666666,
+      "longitude": -61.66666666
+    },
+    {
+      "code": "GE",
+      "pl": "Gruzja",
+      "en": "Georgia",
+      "latitude": 42,
+      "longitude": 43.5
+    },
+    {
+      "code": "GF",
+      "pl": "Gujana Francuska",
+      "en": "French Guiana",
+      "latitude": 4,
+      "longitude": -53
+    },
+    {
+      "code": "GG",
+      "pl": "Guernsey",
+      "en": "Guernsey",
+      "latitude": 49.46666666,
+      "longitude": -2.58333333
+    },
+    {
+      "code": "GH",
+      "pl": "Ghana",
+      "en": "Ghana",
+      "latitude": 8,
+      "longitude": -2
+    },
+    {
+      "code": "GI",
+      "pl": "Gibraltar",
+      "en": "Gibraltar",
+      "latitude": 36.13333333,
+      "longitude": -5.35
+    },
+    {
+      "code": "GL",
+      "pl": "Grenlandia",
+      "en": "Greenland",
+      "latitude": 72,
+      "longitude": -40
+    },
+    {
+      "code": "GM",
+      "pl": "Gambia",
+      "en": "Gambia",
+      "latitude": 13.46666666,
+      "longitude": -16.56666666
+    },
+    {
+      "code": "GN",
+      "pl": "Gwinea",
+      "en": "Guinea",
+      "latitude": 11,
+      "longitude": -10
+    },
+    {
+      "code": "GP",
+      "pl": "Gwadelupa",
+      "en": "Guadeloupe",
+      "latitude": 16.25,
+      "longitude": -61.583333
+    },
+    {
+      "code": "GQ",
+      "pl": "Gwinea Równikowa",
+      "en": "Equatorial Guinea",
+      "latitude": 2,
+      "longitude": 10
+    },
+    {
+      "code": "GR",
+      "pl": "Grecja",
+      "en": "Greece",
+      "latitude": 39,
+      "longitude": 22
+    },
+    {
+      "code": "GS",
+      "pl": "Georgia Południowa i Sandwich Południowy",
+      "en": "South Georgia",
+      "latitude": -54.5,
+      "longitude": -37
+    },
+    {
+      "code": "GT",
+      "pl": "Gwatemala",
+      "en": "Guatemala",
+      "latitude": 15.5,
+      "longitude": -90.25
+    },
+    {
+      "code": "GU",
+      "pl": "Guam",
+      "en": "Guam",
+      "latitude": 13.46666666,
+      "longitude": 144.78333333
+    },
+    {
+      "code": "GW",
+      "pl": "Gwinea Bissau",
+      "en": "Guinea-Bissau",
+      "latitude": 12,
+      "longitude": -15
+    },
+    {
+      "code": "GY",
+      "pl": "Gujana",
+      "en": "Guyana",
+      "latitude": 5,
+      "longitude": -59
+    },
+    {
+      "code": "HK",
+      "pl": "Hongkong",
+      "en": "Hong Kong",
+      "latitude": 22.267,
+      "longitude": 114.188
+    },
+    {
+      "code": "HM",
+      "pl": "Wyspy Heard i McDonalda",
+      "en": "Heard Island and McDonald Islands",
+      "latitude": -53.1,
+      "longitude": 72.51666666
+    },
+    {
+      "code": "HN",
+      "pl": "Honduras",
+      "en": "Honduras",
+      "latitude": 15,
+      "longitude": -86.5
+    },
+    {
+      "code": "HR",
+      "pl": "Chorwacja",
+      "en": "Croatia",
+      "latitude": 45.16666666,
+      "longitude": 15.5
+    },
+    {
+      "code": "HT",
+      "pl": "Haiti",
+      "en": "Haiti",
+      "latitude": 19,
+      "longitude": -72.41666666
+    },
+    {
+      "code": "HU",
+      "pl": "Węgry",
+      "en": "Hungary",
+      "latitude": 47,
+      "longitude": 20
+    },
+    {
+      "code": "ID",
+      "pl": "Indonezja",
+      "en": "Indonesia",
+      "latitude": -5,
+      "longitude": 120
+    },
+    {
+      "code": "IE",
+      "pl": "Irlandia",
+      "en": "Ireland",
+      "latitude": 53,
+      "longitude": -8
+    },
+    {
+      "code": "IL",
+      "pl": "Izrael",
+      "en": "Israel",
+      "latitude": 31.47,
+      "longitude": 35.13
+    },
+    {
+      "code": "IM",
+      "pl": "Wyspa Man",
+      "en": "Isle of Man",
+      "latitude": 54.25,
+      "longitude": -4.5
+    },
+    {
+      "code": "IN",
+      "pl": "Indie",
+      "en": "India",
+      "latitude": 20,
+      "longitude": 77
+    },
+    {
+      "code": "IO",
+      "pl": "Brytyjskie Terytorium Oceanu Indyjskiego",
+      "en": "British Indian Ocean Territory",
+      "latitude": -6,
+      "longitude": 71.5
+    },
+    {
+      "code": "IQ",
+      "pl": "Irak",
+      "en": "Iraq",
+      "latitude": 33,
+      "longitude": 44
+    },
+    {
+      "code": "IR",
+      "pl": "Iran",
+      "en": "Iran",
+      "latitude": 32,
+      "longitude": 53
+    },
+    {
+      "code": "IS",
+      "pl": "Islandia",
+      "en": "Iceland",
+      "latitude": 65,
+      "longitude": -18
+    },
+    {
+      "code": "IT",
+      "pl": "Włochy",
+      "en": "Italy",
+      "latitude": 42.83333333,
+      "longitude": 12.83333333
+    },
+    {
+      "code": "JE",
+      "pl": "Jersey",
+      "en": "Jersey",
+      "latitude": 49.25,
+      "longitude": -2.16666666
+    },
+    {
+      "code": "JM",
+      "pl": "Jamajka",
+      "en": "Jamaica",
+      "latitude": 18.25,
+      "longitude": -77.5
+    },
+    {
+      "code": "JO",
+      "pl": "Jordania",
+      "en": "Jordan",
+      "latitude": 31,
+      "longitude": 36
+    },
+    {
+      "code": "JP",
+      "pl": "Japonia",
+      "en": "Japan",
+      "latitude": 36,
+      "longitude": 138
+    },
+    {
+      "code": "KE",
+      "pl": "Kenia",
+      "en": "Kenya",
+      "latitude": 1,
+      "longitude": 38
+    },
+    {
+      "code": "KG",
+      "pl": "Kirgistan",
+      "en": "Kyrgyzstan",
+      "latitude": 41,
+      "longitude": 75
+    },
+    {
+      "code": "KH",
+      "pl": "Kambodża",
+      "en": "Cambodia",
+      "latitude": 13,
+      "longitude": 105
+    },
+    {
+      "code": "KI",
+      "pl": "Kiribati",
+      "en": "Kiribati",
+      "latitude": 1.41666666,
+      "longitude": 173
+    },
+    {
+      "code": "KM",
+      "pl": "Komory",
+      "en": "Comoros",
+      "latitude": -12.16666666,
+      "longitude": 44.25
+    },
+    {
+      "code": "KN",
+      "pl": "Saint Kitts i Nevis",
+      "en": "Saint Kitts and Nevis",
+      "latitude": 17.33333333,
+      "longitude": -62.75
+    },
+    {
+      "code": "KP",
+      "pl": "Korea Północna",
+      "en": "North Korea",
+      "latitude": 40,
+      "longitude": 127
+    },
+    {
+      "code": "KR",
+      "pl": "Korea Południowa",
+      "en": "South Korea",
+      "latitude": 37,
+      "longitude": 127.5
+    },
+    {
+      "code": "KW",
+      "pl": "Kuwejt",
+      "en": "Kuwait",
+      "latitude": 29.5,
+      "longitude": 45.75
+    },
+    {
+      "code": "KY",
+      "pl": "Kajmany",
+      "en": "Cayman Islands",
+      "latitude": 19.5,
+      "longitude": -80.5
+    },
+    {
+      "code": "KZ",
+      "pl": "Kazachstan",
+      "en": "Kazakhstan",
+      "latitude": 48,
+      "longitude": 68
+    },
+    {
+      "code": "LA",
+      "pl": "Laos",
+      "en": "Laos",
+      "latitude": 18,
+      "longitude": 105
+    },
+    {
+      "code": "LB",
+      "pl": "Liban",
+      "en": "Lebanon",
+      "latitude": 33.83333333,
+      "longitude": 35.83333333
+    },
+    {
+      "code": "LC",
+      "pl": "Saint Lucia",
+      "en": "Saint Lucia",
+      "latitude": 13.88333333,
+      "longitude": -60.96666666
+    },
+    {
+      "code": "LI",
+      "pl": "Liechtenstein",
+      "en": "Liechtenstein",
+      "latitude": 47.26666666,
+      "longitude": 9.53333333
+    },
+    {
+      "code": "LK",
+      "pl": "Sri Lanka",
+      "en": "Sri Lanka",
+      "latitude": 7,
+      "longitude": 81
+    },
+    {
+      "code": "LR",
+      "pl": "Liberia",
+      "en": "Liberia",
+      "latitude": 6.5,
+      "longitude": -9.5
+    },
+    {
+      "code": "LS",
+      "pl": "Lesotho",
+      "en": "Lesotho",
+      "latitude": -29.5,
+      "longitude": 28.5
+    },
+    {
+      "code": "LT",
+      "pl": "Litwa",
+      "en": "Lithuania",
+      "latitude": 56,
+      "longitude": 24
+    },
+    {
+      "code": "LU",
+      "pl": "Luksemburg",
+      "en": "Luxembourg",
+      "latitude": 49.75,
+      "longitude": 6.16666666
+    },
+    {
+      "code": "LV",
+      "pl": "Łotwa",
+      "en": "Latvia",
+      "latitude": 57,
+      "longitude": 25
+    },
+    {
+      "code": "LY",
+      "pl": "Libia",
+      "en": "Libya",
+      "latitude": 25,
+      "longitude": 17
+    },
+    {
+      "code": "MA",
+      "pl": "Maroko",
+      "en": "Morocco",
+      "latitude": 32,
+      "longitude": -5
+    },
+    {
+      "code": "MC",
+      "pl": "Monako",
+      "en": "Monaco",
+      "latitude": 43.73333333,
+      "longitude": 7.4
+    },
+    {
+      "code": "MD",
+      "pl": "Mołdawia",
+      "en": "Moldova",
+      "latitude": 47,
+      "longitude": 29
+    },
+    {
+      "code": "ME",
+      "pl": "Czarnogóra",
+      "en": "Montenegro",
+      "latitude": 42.5,
+      "longitude": 19.3
+    },
+    {
+      "code": "MF",
+      "pl": "Saint-Martin",
+      "en": "Saint Martin",
+      "latitude": 18.08333333,
+      "longitude": -63.95
+    },
+    {
+      "code": "MG",
+      "pl": "Madagaskar",
+      "en": "Madagascar",
+      "latitude": -20,
+      "longitude": 47
+    },
+    {
+      "code": "MH",
+      "pl": "Wyspy Marshalla",
+      "en": "Marshall Islands",
+      "latitude": 9,
+      "longitude": 168
+    },
+    {
+      "code": "MK",
+      "pl": "Macedonia Północna",
+      "en": "North Macedonia",
+      "latitude": 41.83333333,
+      "longitude": 22
+    },
+    {
+      "code": "ML",
+      "pl": "Mali",
+      "en": "Mali",
+      "latitude": 17,
+      "longitude": -4
+    },
+    {
+      "code": "MM",
+      "pl": "Mjanma",
+      "en": "Myanmar",
+      "latitude": 22,
+      "longitude": 98
+    },
+    {
+      "code": "MN",
+      "pl": "Mongolia",
+      "en": "Mongolia",
+      "latitude": 46,
+      "longitude": 105
+    },
+    {
+      "code": "MO",
+      "pl": "Makau",
+      "en": "Macau",
+      "latitude": 22.16666666,
+      "longitude": 113.55
+    },
+    {
+      "code": "MP",
+      "pl": "Mariany Północne",
+      "en": "Northern Mariana Islands",
+      "latitude": 15.2,
+      "longitude": 145.75
+    },
+    {
+      "code": "MQ",
+      "pl": "Martynika",
+      "en": "Martinique",
+      "latitude": 14.666667,
+      "longitude": -61
+    },
+    {
+      "code": "MR",
+      "pl": "Mauretania",
+      "en": "Mauritania",
+      "latitude": 20,
+      "longitude": -12
+    },
+    {
+      "code": "MS",
+      "pl": "Montserrat",
+      "en": "Montserrat",
+      "latitude": 16.75,
+      "longitude": -62.2
+    },
+    {
+      "code": "MT",
+      "pl": "Malta",
+      "en": "Malta",
+      "latitude": 35.83333333,
+      "longitude": 14.58333333
+    },
+    {
+      "code": "MU",
+      "pl": "Mauritius",
+      "en": "Mauritius",
+      "latitude": -20.28333333,
+      "longitude": 57.55
+    },
+    {
+      "code": "MV",
+      "pl": "Malediwy",
+      "en": "Maldives",
+      "latitude": 3.25,
+      "longitude": 73
+    },
+    {
+      "code": "MW",
+      "pl": "Malawi",
+      "en": "Malawi",
+      "latitude": -13.5,
+      "longitude": 34
+    },
+    {
+      "code": "MX",
+      "pl": "Meksyk",
+      "en": "Mexico",
+      "latitude": 23,
+      "longitude": -102
+    },
+    {
+      "code": "MY",
+      "pl": "Malezja",
+      "en": "Malaysia",
+      "latitude": 2.5,
+      "longitude": 112.5
+    },
+    {
+      "code": "MZ",
+      "pl": "Mozambik",
+      "en": "Mozambique",
+      "latitude": -18.25,
+      "longitude": 35
+    },
+    {
+      "code": "NA",
+      "pl": "Namibia",
+      "en": "Namibia",
+      "latitude": -22,
+      "longitude": 17
+    },
+    {
+      "code": "NC",
+      "pl": "Nowa Kaledonia",
+      "en": "New Caledonia",
+      "latitude": -21.5,
+      "longitude": 165.5
+    },
+    {
+      "code": "NE",
+      "pl": "Niger",
+      "en": "Niger",
+      "latitude": 16,
+      "longitude": 8
+    },
+    {
+      "code": "NF",
+      "pl": "Wyspa Norfolk",
+      "en": "Norfolk Island",
+      "latitude": -29.03333333,
+      "longitude": 167.95
+    },
+    {
+      "code": "NG",
+      "pl": "Nigeria",
+      "en": "Nigeria",
+      "latitude": 10,
+      "longitude": 8
+    },
+    {
+      "code": "NI",
+      "pl": "Nikaragua",
+      "en": "Nicaragua",
+      "latitude": 13,
+      "longitude": -85
+    },
+    {
+      "code": "NL",
+      "pl": "Holandia",
+      "en": "Netherlands",
+      "latitude": 52.5,
+      "longitude": 5.75
+    },
+    {
+      "code": "NO",
+      "pl": "Norwegia",
+      "en": "Norway",
+      "latitude": 62,
+      "longitude": 10
+    },
+    {
+      "code": "NP",
+      "pl": "Nepal",
+      "en": "Nepal",
+      "latitude": 28,
+      "longitude": 84
+    },
+    {
+      "code": "NR",
+      "pl": "Nauru",
+      "en": "Nauru",
+      "latitude": -0.53333333,
+      "longitude": 166.91666666
+    },
+    {
+      "code": "NU",
+      "pl": "Niue",
+      "en": "Niue",
+      "latitude": -19.03333333,
+      "longitude": -169.86666666
+    },
+    {
+      "code": "NZ",
+      "pl": "Nowa Zelandia",
+      "en": "New Zealand",
+      "latitude": -41,
+      "longitude": 174
+    },
+    {
+      "code": "OM",
+      "pl": "Oman",
+      "en": "Oman",
+      "latitude": 21,
+      "longitude": 57
+    },
+    {
+      "code": "PA",
+      "pl": "Panama",
+      "en": "Panama",
+      "latitude": 9,
+      "longitude": -80
+    },
+    {
+      "code": "PE",
+      "pl": "Peru",
+      "en": "Peru",
+      "latitude": -10,
+      "longitude": -76
+    },
+    {
+      "code": "PF",
+      "pl": "Polinezja Francuska",
+      "en": "French Polynesia",
+      "latitude": -15,
+      "longitude": -140
+    },
+    {
+      "code": "PG",
+      "pl": "Papua-Nowa Gwinea",
+      "en": "Papua New Guinea",
+      "latitude": -6,
+      "longitude": 147
+    },
+    {
+      "code": "PH",
+      "pl": "Filipiny",
+      "en": "Philippines",
+      "latitude": 13,
+      "longitude": 122
+    },
+    {
+      "code": "PK",
+      "pl": "Pakistan",
+      "en": "Pakistan",
+      "latitude": 30,
+      "longitude": 70
+    },
+    {
+      "code": "PL",
+      "pl": "Polska",
+      "en": "Poland",
+      "latitude": 52,
+      "longitude": 20
+    },
+    {
+      "code": "PM",
+      "pl": "Saint-Pierre i Miquelon",
+      "en": "Saint Pierre and Miquelon",
+      "latitude": 46.83333333,
+      "longitude": -56.33333333
+    },
+    {
+      "code": "PN",
+      "pl": "Pitcairn",
+      "en": "Pitcairn Islands",
+      "latitude": -25.06666666,
+      "longitude": -130.1
+    },
+    {
+      "code": "PR",
+      "pl": "Portoryko",
+      "en": "Puerto Rico",
+      "latitude": 18.25,
+      "longitude": -66.5
+    },
+    {
+      "code": "PS",
+      "pl": "Palestyna",
+      "en": "Palestine",
+      "latitude": 31.9,
+      "longitude": 35.2
+    },
+    {
+      "code": "PT",
+      "pl": "Portugalia",
+      "en": "Portugal",
+      "latitude": 39.5,
+      "longitude": -8
+    },
+    {
+      "code": "PW",
+      "pl": "Palau",
+      "en": "Palau",
+      "latitude": 7.5,
+      "longitude": 134.5
+    },
+    {
+      "code": "PY",
+      "pl": "Paragwaj",
+      "en": "Paraguay",
+      "latitude": -23,
+      "longitude": -58
+    },
+    {
+      "code": "QA",
+      "pl": "Katar",
+      "en": "Qatar",
+      "latitude": 25.5,
+      "longitude": 51.25
+    },
+    {
+      "code": "RE",
+      "pl": "Reunion",
+      "en": "Réunion",
+      "latitude": -21.15,
+      "longitude": 55.5
+    },
+    {
+      "code": "RO",
+      "pl": "Rumunia",
+      "en": "Romania",
+      "latitude": 46,
+      "longitude": 25
+    },
+    {
+      "code": "RS",
+      "pl": "Serbia",
+      "en": "Serbia",
+      "latitude": 44,
+      "longitude": 21
+    },
+    {
+      "code": "RU",
+      "pl": "Rosja",
+      "en": "Russia",
+      "latitude": 60,
+      "longitude": 100
+    },
+    {
+      "code": "RW",
+      "pl": "Rwanda",
+      "en": "Rwanda",
+      "latitude": -2,
+      "longitude": 30
+    },
+    {
+      "code": "SA",
+      "pl": "Arabia Saudyjska",
+      "en": "Saudi Arabia",
+      "latitude": 25,
+      "longitude": 45
+    },
+    {
+      "code": "SB",
+      "pl": "Wyspy Salomona",
+      "en": "Solomon Islands",
+      "latitude": -8,
+      "longitude": 159
+    },
+    {
+      "code": "SC",
+      "pl": "Seszele",
+      "en": "Seychelles",
+      "latitude": -4.58333333,
+      "longitude": 55.66666666
+    },
+    {
+      "code": "SD",
+      "pl": "Sudan",
+      "en": "Sudan",
+      "latitude": 15,
+      "longitude": 30
+    },
+    {
+      "code": "SE",
+      "pl": "Szwecja",
+      "en": "Sweden",
+      "latitude": 62,
+      "longitude": 15
+    },
+    {
+      "code": "SG",
+      "pl": "Singapur",
+      "en": "Singapore",
+      "latitude": 1.36666666,
+      "longitude": 103.8
+    },
+    {
+      "code": "SH",
+      "pl": "Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha",
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "latitude": -15.95,
+      "longitude": -5.72
+    },
+    {
+      "code": "SI",
+      "pl": "Słowenia",
+      "en": "Slovenia",
+      "latitude": 46.11666666,
+      "longitude": 14.81666666
+    },
+    {
+      "code": "SJ",
+      "pl": "Svalbard i Jan Mayen",
+      "en": "Svalbard and Jan Mayen",
+      "latitude": 78,
+      "longitude": 20
+    },
+    {
+      "code": "SK",
+      "pl": "Słowacja",
+      "en": "Slovakia",
+      "latitude": 48.66666666,
+      "longitude": 19.5
+    },
+    {
+      "code": "SL",
+      "pl": "Sierra Leone",
+      "en": "Sierra Leone",
+      "latitude": 8.5,
+      "longitude": -11.5
+    },
+    {
+      "code": "SM",
+      "pl": "San Marino",
+      "en": "San Marino",
+      "latitude": 43.76666666,
+      "longitude": 12.41666666
+    },
+    {
+      "code": "SN",
+      "pl": "Senegal",
+      "en": "Senegal",
+      "latitude": 14,
+      "longitude": -14
+    },
+    {
+      "code": "SO",
+      "pl": "Somalia",
+      "en": "Somalia",
+      "latitude": 10,
+      "longitude": 49
+    },
+    {
+      "code": "SR",
+      "pl": "Surinam",
+      "en": "Suriname",
+      "latitude": 4,
+      "longitude": -56
+    },
+    {
+      "code": "SS",
+      "pl": "Sudan",
+      "en": "South Sudan",
+      "latitude": 7,
+      "longitude": 30
+    },
+    {
+      "code": "ST",
+      "pl": "Wyspy Świętego Tomasza i Książęca",
+      "en": "São Tomé and Príncipe",
+      "latitude": 1,
+      "longitude": 7
+    },
+    {
+      "code": "SV",
+      "pl": "Salwador",
+      "en": "El Salvador",
+      "latitude": 13.83333333,
+      "longitude": -88.91666666
+    },
+    {
+      "code": "SX",
+      "pl": "Sint Maarten",
+      "en": "Sint Maarten",
+      "latitude": 18.033333,
+      "longitude": -63.05
+    },
+    {
+      "code": "SY",
+      "pl": "Syria",
+      "en": "Syria",
+      "latitude": 35,
+      "longitude": 38
+    },
+    {
+      "code": "SZ",
+      "pl": "Eswatini",
+      "en": "Eswatini",
+      "latitude": -26.5,
+      "longitude": 31.5
+    },
+    {
+      "code": "TC",
+      "pl": "Turks i Caicos",
+      "en": "Turks and Caicos Islands",
+      "latitude": 21.75,
+      "longitude": -71.58333333
+    },
+    {
+      "code": "TD",
+      "pl": "Czad",
+      "en": "Chad",
+      "latitude": 15,
+      "longitude": 19
+    },
+    {
+      "code": "TF",
+      "pl": "Francuskie Terytoria Południowe i Antarktyczne",
+      "en": "French Southern and Antarctic Lands",
+      "latitude": -49.25,
+      "longitude": 69.167
+    },
+    {
+      "code": "TG",
+      "pl": "Togo",
+      "en": "Togo",
+      "latitude": 8,
+      "longitude": 1.16666666
+    },
+    {
+      "code": "TH",
+      "pl": "Tajlandia",
+      "en": "Thailand",
+      "latitude": 15,
+      "longitude": 100
+    },
+    {
+      "code": "TJ",
+      "pl": "Tadżykistan",
+      "en": "Tajikistan",
+      "latitude": 39,
+      "longitude": 71
+    },
+    {
+      "code": "TK",
+      "pl": "Tokelau",
+      "en": "Tokelau",
+      "latitude": -9,
+      "longitude": -172
+    },
+    {
+      "code": "TL",
+      "pl": "Timor Wschodni",
+      "en": "Timor-Leste",
+      "latitude": -8.83333333,
+      "longitude": 125.91666666
+    },
+    {
+      "code": "TM",
+      "pl": "Turkmenistan",
+      "en": "Turkmenistan",
+      "latitude": 40,
+      "longitude": 60
+    },
+    {
+      "code": "TN",
+      "pl": "Tunezja",
+      "en": "Tunisia",
+      "latitude": 34,
+      "longitude": 9
+    },
+    {
+      "code": "TO",
+      "pl": "Tonga",
+      "en": "Tonga",
+      "latitude": -20,
+      "longitude": -175
+    },
+    {
+      "code": "TR",
+      "pl": "Turcja",
+      "en": "Türkiye",
+      "latitude": 39,
+      "longitude": 35
+    },
+    {
+      "code": "TT",
+      "pl": "Trynidad i Tobago",
+      "en": "Trinidad and Tobago",
+      "latitude": 11,
+      "longitude": -61
+    },
+    {
+      "code": "TV",
+      "pl": "Tuvalu",
+      "en": "Tuvalu",
+      "latitude": -8,
+      "longitude": 178
+    },
+    {
+      "code": "TW",
+      "pl": "Tajwan",
+      "en": "Taiwan",
+      "latitude": 23.5,
+      "longitude": 121
+    },
+    {
+      "code": "TZ",
+      "pl": "Tanzania",
+      "en": "Tanzania",
+      "latitude": -6,
+      "longitude": 35
+    },
+    {
+      "code": "UA",
+      "pl": "Ukraina",
+      "en": "Ukraine",
+      "latitude": 49,
+      "longitude": 32
+    },
+    {
+      "code": "UG",
+      "pl": "Uganda",
+      "en": "Uganda",
+      "latitude": 1,
+      "longitude": 32
+    },
+    {
+      "code": "UM",
+      "pl": "Dalekie Wyspy Mniejsze Stanów Zjednoczonych",
+      "en": "United States Minor Outlying Islands",
+      "latitude": 19.3,
+      "longitude": 166.633333
+    },
+    {
+      "code": "US",
+      "pl": "Stany Zjednoczone",
+      "en": "United States",
+      "latitude": 38,
+      "longitude": -97
+    },
+    {
+      "code": "UY",
+      "pl": "Urugwaj",
+      "en": "Uruguay",
+      "latitude": -33,
+      "longitude": -56
+    },
+    {
+      "code": "UZ",
+      "pl": "Uzbekistan",
+      "en": "Uzbekistan",
+      "latitude": 41,
+      "longitude": 64
+    },
+    {
+      "code": "VA",
+      "pl": "Watykan",
+      "en": "Vatican City",
+      "latitude": 41.9,
+      "longitude": 12.45
+    },
+    {
+      "code": "VC",
+      "pl": "Saint Vincent i Grenadyny",
+      "en": "Saint Vincent and the Grenadines",
+      "latitude": 13.25,
+      "longitude": -61.2
+    },
+    {
+      "code": "VE",
+      "pl": "Wenezuela",
+      "en": "Venezuela",
+      "latitude": 8,
+      "longitude": -66
+    },
+    {
+      "code": "VG",
+      "pl": "Brytyjskie Wyspy Dziewicze",
+      "en": "British Virgin Islands",
+      "latitude": 18.431383,
+      "longitude": -64.62305
+    },
+    {
+      "code": "VI",
+      "pl": "Wyspy Dziewicze Stanów Zjednoczonych",
+      "en": "United States Virgin Islands",
+      "latitude": 18.35,
+      "longitude": -64.933333
+    },
+    {
+      "code": "VN",
+      "pl": "Wietnam",
+      "en": "Vietnam",
+      "latitude": 16.16666666,
+      "longitude": 107.83333333
+    },
+    {
+      "code": "VU",
+      "pl": "Vanuatu",
+      "en": "Vanuatu",
+      "latitude": -16,
+      "longitude": 167
+    },
+    {
+      "code": "WF",
+      "pl": "Wallis i Futuna",
+      "en": "Wallis and Futuna",
+      "latitude": -13.3,
+      "longitude": -176.2
+    },
+    {
+      "code": "WS",
+      "pl": "Samoa",
+      "en": "Samoa",
+      "latitude": -13.58333333,
+      "longitude": -172.33333333
+    },
+    {
+      "code": "XK",
+      "pl": "Kosowo",
+      "en": "Kosovo",
+      "latitude": 42.666667,
+      "longitude": 21.166667
+    },
+    {
+      "code": "YE",
+      "pl": "Jemen",
+      "en": "Yemen",
+      "latitude": 15,
+      "longitude": 48
+    },
+    {
+      "code": "YT",
+      "pl": "Majotta",
+      "en": "Mayotte",
+      "latitude": -12.83333333,
+      "longitude": 45.16666666
+    },
+    {
+      "code": "ZA",
+      "pl": "Południowa Afryka",
+      "en": "South Africa",
+      "latitude": -29,
+      "longitude": 24
+    },
+    {
+      "code": "ZM",
+      "pl": "Zambia",
+      "en": "Zambia",
+      "latitude": -15,
+      "longitude": 30
+    },
+    {
+      "code": "ZW",
+      "pl": "Zimbabwe",
+      "en": "Zimbabwe",
+      "latitude": -20,
+      "longitude": 30
+    }
+  ]
+}

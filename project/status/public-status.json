@@ -78,7 +78,7 @@
     },
     "complianceAudit": {
       "status": "passed",
-      "auditedAt": "2026-09-07",
+      "auditedAt": "2026-09-08",
       "controlCount": 9,
       "passedControlCount": 9
     }
