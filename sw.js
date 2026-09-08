@@ -1,5 +1,5 @@
 const CACHE_PREFIX = "kosmiczne-laboratorium:" + self.registration.scope + ":";
-const CACHE = CACHE_PREFIX + "7af338522b19484a";
+const CACHE = CACHE_PREFIX + "17d7677c1d62c9f4";
 const PROTECT_PRIVATE_ROUTES = true;
 const PRIVATE_SERVICE_WORKER_PREFIXES = ["review","__voice-review"];
 const PRECACHE_URLS = [
